@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Md Nuruzzaman
+### My name is Md Nuruzzaman
 #### I'm a Full Stack Web Developer
 ![I'm a Full Stack Web Developer](https://user-images.githubusercontent.com/105699438/168750273-1346a8e3-1e48-4521-82df-5cf243287566.png)
 
