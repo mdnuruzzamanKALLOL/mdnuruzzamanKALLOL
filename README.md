@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Md Nuruzzaman
 #### I'm a Full Stack Web Developer
-![I'm a Full Stack Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I'm a Full Stack Web Developer](https://user-images.githubusercontent.com/105699438/168750273-1346a8e3-1e48-4521-82df-5cf243287566.png)
 
 I'm Nuruzzaman and I'm a
 Web Designer and Web Developer with some knowledge of front-end and back-end techniques and also Junior programmer. I love structure and order and I also stand for quality. I love spending time on fixing little details and optimizing web apps. Also I like working in a team, you'll learn faster and much more. As the saying goes: 'multi heads are better than one'.I’m just human, I have weakness, I make mistakes and I experience sadness; But I learn from all these things to make me a better person.
