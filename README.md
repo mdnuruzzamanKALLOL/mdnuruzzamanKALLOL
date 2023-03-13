@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Md Nuruzzaman
+### My name is Md Nuruzzaman
 #### Machine Learning Engineer, Data Scientist
 ![Machine Learning Engineer, Data Scientist](https://media.licdn.com/dms/image/D5616AQG6WkLCqoTZww/profile-displaybackgroundimage-shrink_350_1400/0/1676914034607?e=1684368000&v=beta&t=q2CF1ydlsLpo3YaPp1kgV322E5kb5_QQXMGwSKj94EA)
 
