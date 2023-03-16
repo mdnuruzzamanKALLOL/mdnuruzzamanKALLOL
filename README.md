@@ -31,8 +31,6 @@ Skills:  Artificial Intelligence (AI) |  Machine Learning |  Deep Learning |  Ar
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdnuruzzamanKALLOL&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdnuruzzamanKALLOL)  
-
 ![GitHub metrics](https://metrics.lecoq.io/mdnuruzzamanKALLOL)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mdnuruzzamanKALLOL)  
