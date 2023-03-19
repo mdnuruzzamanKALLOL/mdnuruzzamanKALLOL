@@ -1,7 +1,7 @@
 ### Md Nuruzzaman
 #### <i>Machine Learning Engineer, Data Scientist</i>
 ![MdNuruzzaman](https://user-images.githubusercontent.com/105699438/224798363-f5d97cf5-53fe-4d36-b1ad-7f3e9057451b.png)
-![Expertices](https://user-images.githubusercontent.com/105699438/224799398-12023a55-605d-4576-9031-647e4ce63386.png
+![Expertices](https://user-images.githubusercontent.com/105699438/224799398-12023a55-605d-4576-9031-647e4ce63386.png)
 
 | **:stadium: Repositories** | **:star: Stars** | **:books: Forks** | **:bricks: Issues** | **:chart_with_upwards_trend: Pull Request** |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
