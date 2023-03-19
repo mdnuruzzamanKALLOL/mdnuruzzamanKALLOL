@@ -5,9 +5,9 @@
 
 | **:stadium: Repositories** | **:star: Stars** | **:books: Forks** | **:bricks: Issues** | **:chart_with_upwards_trend: Pull Request** |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
-| [Machine Learning Book Collections](https://github.com/mdnuruzzamanKALLOL/Machine-Learning-Book-Collections) | Row 1, Column 2 | Row 1, Column 3 | Row 1, Column 4 | Row 1, Column 5 |
-| [Data Science Book Collections](https://github.com/mdnuruzzamanKALLOL/Data-Science-Book-Collections) | Row 2, Column 2 | Row 2, Column 3 | Row 2, Column 4 | Row 2, Column 5 |
-| [Cheat Sheet](https://github.com/mdnuruzzamanKALLOL/Cheat-Sheet) | Row 3, Column 2 | Row 3, Column 3 | Row 3, Column 4 | Row 3, Column 5 |
+| [Machine Learning Book Collections](https://github.com/mdnuruzzamanKALLOL/Machine-Learning-Book-Collections) | ![Stars](https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Machine-Learning-Book-Collections.svg?style=flat-square&color=informational) | Row 1, Column 3 | Row 1, Column 4 | Row 1, Column 5 |
+| [Data Science Book Collections](https://github.com/mdnuruzzamanKALLOL/Data-Science-Book-Collections) | ![Stars](https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Data-Science-Book-Collections.svg?style=flat-square&color=informational) | Row 2, Column 3 | Row 2, Column 4 | Row 2, Column 5 |
+| [Cheat Sheet](https://github.com/mdnuruzzamanKALLOL/Cheat-Sheet) | ![Stars](https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Cheat-Sheet.svg?style=flat-square&color=informational) | Row 3, Column 3 | Row 3, Column 4 | Row 3, Column 5 |
 | [AI-Cheat-Sheet](https://github.com/mdnuruzzamanKALLOL/AI-Cheat-Sheet) | ![Stars](https://img.shields.io/github/stars/mdnuruzzamanKALLOL/AI-Cheat-Sheet.svg?style=flat-square&color=informational) | Row 4, Column 3 | Row 4, Column 4 | Row 4, Column 5 |
 | [AI Important Documents Collection](https://github.com/mdnuruzzamanKALLOL/AI-Importand-Document) | ![Stars](https://img.shields.io/github/stars/mdnuruzzamanKALLOL/AI-Important-Document.svg?style=flat-square&color=informational) | Row 5, Column 3 | Row 5, Column 4 | Row 5, Column 5 |
 
