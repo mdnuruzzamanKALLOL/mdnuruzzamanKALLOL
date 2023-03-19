@@ -5,7 +5,7 @@
 
 | **Repositories** | **Stars** | **Forks** | **Issues** | **Pull Request** |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
-| [Link 1](https://example.com/link1) | Row 1, Column 2 | Row 1, Column 3 | Row 1, Column 4 | Row 1, Column 5 |
+| [Machine Learning Book Collections](https://github.com/mdnuruzzamanKALLOL/Machine-Learning-Book-Collections) | Row 1, Column 2 | Row 1, Column 3 | Row 1, Column 4 | Row 1, Column 5 |
 | [Link 2](https://example.com/link2) | Row 2, Column 2 | Row 2, Column 3 | Row 2, Column 4 | Row 2, Column 5 |
 | [Link 3](https://example.com/link1) | Row 3, Column 2 | Row 3, Column 3 | Row 3, Column 4 | Row 3, Column 5 |
 | [Link 4](https://example.com/link1) | Row 4, Column 2 | Row 4, Column 3 | Row 4, Column 4 | Row 4, Column 5 |
