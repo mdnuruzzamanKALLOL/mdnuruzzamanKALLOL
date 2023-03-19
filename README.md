@@ -6,10 +6,10 @@
 | **Repositories** | **Stars** | **Forks** | **Issues** | **Pull Request** |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
 | [Machine Learning Book Collections](https://github.com/mdnuruzzamanKALLOL/Machine-Learning-Book-Collections) | Row 1, Column 2 | Row 1, Column 3 | Row 1, Column 4 | Row 1, Column 5 |
-| [Link 2](https://example.com/link2) | Row 2, Column 2 | Row 2, Column 3 | Row 2, Column 4 | Row 2, Column 5 |
-| [Link 3](https://example.com/link1) | Row 3, Column 2 | Row 3, Column 3 | Row 3, Column 4 | Row 3, Column 5 |
-| [Link 4](https://example.com/link1) | Row 4, Column 2 | Row 4, Column 3 | Row 4, Column 4 | Row 4, Column 5 |
-| [Link 5](https://example.com/link1) | Row 5, Column 2 | Row 5, Column 3 | Row 5, Column 4 | Row 5, Column 5 |
+| [Data Science Book Collections](https://github.com/mdnuruzzamanKALLOL/Data-Science-Book-Collections) | Row 2, Column 2 | Row 2, Column 3 | Row 2, Column 4 | Row 2, Column 5 |
+| [Cheat Sheet](https://github.com/mdnuruzzamanKALLOL/Cheat-Sheet) | Row 3, Column 2 | Row 3, Column 3 | Row 3, Column 4 | Row 3, Column 5 |
+| [AI-Cheat-Sheet](https://github.com/mdnuruzzamanKALLOL/AI-Cheat-Sheet) | Row 4, Column 2 | Row 4, Column 3 | Row 4, Column 4 | Row 4, Column 5 |
+| [AI Importand Documents Collection](https://github.com/mdnuruzzamanKALLOL/AI-Importand-Document) | Row 5, Column 2 | Row 5, Column 3 | Row 5, Column 4 | Row 5, Column 5 |
 
 I have completed bachelors on computer science and engineering from Hajee Mohammad Danesh Science & Technology University. I try to make myself best what I do. I am looking for a platform to start a career where I can further develop myself and my skill with a hard working attitude. I try to give my best in the work I do. Insha’Allah I hope I to do something better in the future. I intend to establish myself as Software Engineer with an integrated business solution provider through a long time commitment, contributing to the company's growth and in turn ensuring personal growth within the organization. I believe that my technical, functional and communication skills will enable me in facing the challenging career ahead. And i am totally confidence.
 
