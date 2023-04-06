@@ -41,7 +41,7 @@ I have completed bachelors on <b><i>Computer Science and Engineering</i></b> fro
 
 <table border="1">
   <tr>
-    <td valign="top"><a href="https://github.com/mdnuruzzamanKALLOL/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=mdnuruzzamanKALLOL&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="MD. NURUZZAMAN GitHub stats"/></td> </a>
+    <td valign="top"> ![](https://raw.githubusercontent.com/mdshemul48/mdshemul48/main/profile-summary-card-output/dracula/3-stats.svg) </td> </a>
     <td valign="top"> <a href="https://github.com/mdnuruzzamanKALLOL/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnuruzzamanKALLOL&layout=compact&langs_count=10" alt ="Top Languages"/></td>
     </a>
   </tr>
