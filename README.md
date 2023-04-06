@@ -41,6 +41,7 @@ I have completed bachelors on <b><i>Computer Science and Engineering</i></b> fro
 
 ![](https://raw.githubusercontent.com/mdnuruzzamanKALLOL/mdnuruzzamanKALLOL/main/profile-summary-card-output/dracula/3-stats.svg)
 ![](https://raw.githubusercontent.com/mdnuruzzamanKALLOL/mdnuruzzamanKALLOL/main/profile-summary-card-output/dracula/2-most-commit-language.svg)
+
 <br>
 <h2 align='center'><i><a href="https://github.com/mdnuruzzamanKALLOL/github-readme-activity-graph">Activity Graph 📈</i></h2>
 <p align="center">
