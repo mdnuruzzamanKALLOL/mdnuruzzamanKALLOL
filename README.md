@@ -41,7 +41,7 @@ I have completed bachelors on <b><i>Computer Science and Engineering</i></b> fro
 
 <table border="1">
   <tr>
-    <td valign="top"> ![](https://raw.githubusercontent.com/mdshemul48/mdshemul48/main/profile-summary-card-output/dracula/3-stats.svg) </td> </a>
+    ![](https://raw.githubusercontent.com/mdshemul48/mdshemul48/main/profile-summary-card-output/dracula/3-stats.svg)
     <td valign="top"> <a href="https://github.com/mdnuruzzamanKALLOL/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnuruzzamanKALLOL&layout=compact&langs_count=10" alt ="Top Languages"/></td>
     </a>
   </tr>
