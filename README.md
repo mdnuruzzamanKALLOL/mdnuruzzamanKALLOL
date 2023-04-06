@@ -1,9 +1,9 @@
 ![nOOb](https://user-images.githubusercontent.com/105699438/230198605-4323af24-396a-4676-b2a0-d499fd961d19.svg)
 
 <div id="profile-views-badge" align="center">
-
-![](https://komarev.com/ghpvc/?username=mdnuruzzamanKALLOL&label=PROFILE+VIEWS)
-
+<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22">
+ ![](https://komarev.com/ghpvc/?username=mdnuruzzamanKALLOL&label=PROFILE+VIEWS)
+<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22">
 </div>
 
 #### <i>Machine Learning Engineer, Data Scientist</i>
