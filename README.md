@@ -51,8 +51,6 @@ I have completed bachelors on <b><i>Computer Science and Engineering</i></b> fro
   </tr>
 </table>
 <br>
-
-
 <h2 align='center'><i><a href="https://github.com/mdnuruzzamanKALLOL/github-readme-activity-graph">Activity Graph 📈</i></h2>
 <p align="center">
 <a href="https://github.com/mdnuruzzamanKALLOL/github-readme-activity-graph#gh-light-mode-only">
