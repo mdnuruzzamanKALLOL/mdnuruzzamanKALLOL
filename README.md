@@ -28,7 +28,7 @@ I have completed bachelors on <b><i>Computer Science and Engineering</i></b> fro
 [![Kaggle](https://img.shields.io/badge/KAGGLE-turquoise?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/nuruzzamankallol)
 [![Gitlab](https://img.shields.io/badge/GITLAB-red?style=for-the-badge&logo=gitlab)](https://gitlab.com/mdnuruzzamanKALLOL)
 [![Codersrank](https://img.shields.io/badge/CODERSRANK-gray?style=for-the-badge&logo=codersrank)](https://profile.codersrank.io/user/mdnuruzzamankallol/)
-[![Facebook](https://img.shields.io/badge/FACEBOOK-blue?style=for-the-badge&logo=facebook)]()
+<a href="https://facebook.com"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
 [![Whatsapp](https://img.shields.io/badge/WHATSAPP-limeGreen?style=for-the-badge&logo=whatsapp)](https://wa.me/+8801747477707)
 
 <h3 align="left">Languages and Tools</h3>
