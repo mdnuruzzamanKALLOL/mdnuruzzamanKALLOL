@@ -42,9 +42,9 @@ I have completed bachelors on <b><i>Computer Science and Engineering</i></b> fro
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const U7P4L = {
+const mdnuruzzamanKALLOL = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, R],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
