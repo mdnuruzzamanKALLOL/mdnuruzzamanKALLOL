@@ -64,3 +64,7 @@ I have completed bachelors on <b><i>Computer Science and Engineering</i></b> fro
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mdnuruzzamanKALLOL&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </a>
 </p>
+ 
+ ![snake gif](https://github.com/amajaying/amajaying/blob/output/github-contribution-grid-snake.svg)
+ 
+ 
