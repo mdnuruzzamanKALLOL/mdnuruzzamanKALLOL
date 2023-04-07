@@ -61,7 +61,7 @@ const mdnuruzzamanKALLOL = {
 </p>
 
 <p align="center"><img src="https://github.com/oxygen51/oxygen51/blob/main/2.gif" alt="Bt">
-<p align="center"><img src="https://github.com/oxygen51/oxygen51/blob/main/4.gif" alt="Bt">
+<p align="center"><img src="https://github.com/oxygen51/oxygen51/blob/main/4.gif" alt="Bt" width="400">
 
 <h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-stats.png" /><i> GitHub Stats :</i></h2>
 <table border="1">
@@ -76,7 +76,7 @@ const mdnuruzzamanKALLOL = {
   </tr>
 </table>
 
-![inmr-error (1)](https://user-images.githubusercontent.com/105699438/230668989-dac58499-203b-4c06-bb15-ef44a0e4111c.png)
+<p align="center"><img src="https://github.com/oxygen51/oxygen51/blob/main/inmr-error%20(1).png" alt="Bt" height="300">
 
 <br>
 <h2 align='center'><i><a href="https://github.com/mdnuruzzamanKALLOL/github-readme-activity-graph">Activity Graph 📈</i></h2>
