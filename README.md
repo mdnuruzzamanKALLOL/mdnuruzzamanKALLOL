@@ -6,7 +6,7 @@
  
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=ASSALAMU+ALAIKUM;I+AM+MD.+NURUZZAMAN;+WELCOME+TO+MY+PROFILE;THANK+YOU+EVERYONE;LOVE+U+ALL+MY+FRIENDS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=ASSALAMU+AALAIKUM;I+AM+MD.+NURUZZAMAN;+WELCOME+TO+MY+PROFILE;THANK+YOU+EVERYONE;LOVE+U+ALL+MY+FRIENDS)](https://git.io/typing-svg)
 
 #### <i>Machine Learning Engineer, Data Scientist</i>
 ![MdNuruzzaman](https://user-images.githubusercontent.com/105699438/224798363-f5d97cf5-53fe-4d36-b1ad-7f3e9057451b.png)
