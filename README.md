@@ -67,4 +67,6 @@ I have completed bachelors on <b><i>Computer Science and Engineering</i></b> fro
  
  ![snake gif](https://github.com/amajaying/amajaying/blob/output/github-contribution-grid-snake.svg)
  
- 
+ <img src="https://github.com/amajaying/amajaying/blob/main/Footer.jpg">
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
