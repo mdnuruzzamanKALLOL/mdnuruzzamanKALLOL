@@ -42,8 +42,6 @@ I have completed bachelors on <b><i>Computer Science and Engineering</i></b> fro
 <a href="https://github.com/mdnuruzzamanKALLOL"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=mdnuruzzamanKALLOL&theme=monokai"></a>
 </p>
 
-<p align="center"><img src="https://github.com/oxygen51/oxygen51/blob/main/1.gif" alt="Bt">
-<p align="center"><img src="https://github.com/oxygen51/oxygen51/blob/main/3.gif" alt="Bt">
 <p align="center"><img src="https://github.com/oxygen51/oxygen51/blob/main/2.gif" alt="Bt">
 <p align="center"><img src="https://github.com/oxygen51/oxygen51/blob/main/4.gif" alt="Bt">
 
