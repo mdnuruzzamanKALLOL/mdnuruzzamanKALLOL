@@ -23,8 +23,7 @@
 
 I have completed bachelors on <b><i>Computer Science and Engineering</i></b> from <b><i>Hajee Mohammad Danesh Science & Technology University</i></b>. I try to make myself best what I do. I am looking for a platform to start a career where I can further develop myself and my skill with a hard working attitude. I try to give my best in the work I do. <b>Insha’Allah</b> I hope I to do something better in the future. I intend to establish myself as Software Engineer with an integrated business solution provider through a long time commitment, contributing to the company's growth and in turn ensuring personal growth within the organization. I believe that my technical, functional and communication skills will enable me in facing the challenging career ahead. And i am totally confidence.
 
-<a href="mailto:mohammadnuruzzaman.hstu@gmail.com
-" target="_blank"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=gmail" target="_blank"></a> [![Linkedin](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mr-error/)
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohammadnuruzzaman.hstu@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> [![Linkedin](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mr-error/)
 [![Kaggle](https://img.shields.io/badge/KAGGLE-turquoise?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/nuruzzamankallol)
 [![Gitlab](https://img.shields.io/badge/GITLAB-red?style=for-the-badge&logo=gitlab)](https://gitlab.com/mdnuruzzamanKALLOL)
 [![Codersrank](https://img.shields.io/badge/CODERSRANK-gray?style=for-the-badge&logo=codersrank)](https://profile.codersrank.io/user/mdnuruzzamankallol/)
