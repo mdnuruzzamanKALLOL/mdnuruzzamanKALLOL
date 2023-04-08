@@ -45,8 +45,8 @@ I have completed bachelors on <b><i>Computer Science and Engineering</i></b> fro
 ```javascript
 const mdnuruzzamanKALLOL = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, R],
-  tools: [React, WEKA, SaS, Django, PyTorch, Tensorflow, SciKit-Learn],
+  code: [Javascript, Typescript, Html, Css, Ruby, Python, R],
+  tools: [React, Weka, SaS, Django, PyTorch, Tensorflow, SciKit-Learn],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         coorganizer: "AfroPython",
