@@ -77,8 +77,6 @@ const mdnuruzzamanKALLOL = {
   </tr>
 </table>
 
-![inmr-error](https://user-images.githubusercontent.com/105699438/230834626-f96d3754-a3fd-49ff-887b-ebbc11c5e9c4.png)
-
 <br>
 <h2 align='center'><i><a href="https://github.com/mdnuruzzamanKALLOL/github-readme-activity-graph">Activity Graph 📈</i></h2>
 <p align="center">
