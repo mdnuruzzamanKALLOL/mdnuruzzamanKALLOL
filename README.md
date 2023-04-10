@@ -77,7 +77,7 @@ const mdnuruzzamanKALLOL = {
   </tr>
 </table>
 
-<p align="center"><img src="https://github.com/oxygen51/oxygen51/blob/main/inmr-error%20(1).png" alt="Bt">
+![inmr-error](https://user-images.githubusercontent.com/105699438/230834626-f96d3754-a3fd-49ff-887b-ebbc11c5e9c4.png)
 
 <br>
 <h2 align='center'><i><a href="https://github.com/mdnuruzzamanKALLOL/github-readme-activity-graph">Activity Graph 📈</i></h2>
