@@ -33,7 +33,7 @@ I have completed bachelors on <b><i>Computer Science and Engineering</i></b> fro
 
 <hr>
 <a href="https://drive.google.com/file/d/1RwQLKqKAgT8g7s8prrY3FOCsS3NT-FR_/view?usp=sharing" style="text-decoration: none"  target="_blank">
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwCK-F-RiZGFTWF_YCGCj7dpvaGZeyJiiR0Q&usqp=CAU" style="display:block;margin-top:20px;margin-left:auto;margin-right:auto;width:250px;max-width:80%;height:auto;" alt="dnld" border="0">
+ <img src="https://drive.google.com/file/d/1C0oOFAQoy7xrY3Mb48rSgDk5f5qpJSYm/view?usp=sharing" style="display:block;margin-top:20px;margin-left:auto;margin-right:auto;width:250px;max-width:80%;height:auto;" alt="dnld" border="0">
 </a>
 <hr>
 
