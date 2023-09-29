@@ -32,7 +32,7 @@ I have completed bachelors on <b><i>Computer Science and Engineering</i></b> fro
 <a href="https://wa.me/+8801747477707"><img title="Whatsapp" src="https://img.shields.io/badge/whatsapp-limeGreen.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
 <hr>
-<a href="https://drive.google.com/file/d/17mU8xGXwQDv3h2P2lozrjCxMDguC_UaA/view?usp=sharing" style="text-decoration: none"  target="_blank">
+<a href="https://drive.google.com/file/d/1T8tl4HiWLUFbgFS9Po6WWL3jmDJykitk/view?usp=sharing" style="text-decoration: none"  target="_blank">
  <img src="https://www.linkpicture.com/q/download_82.png" style="display:block;margin-top:20px;margin-left:auto;margin-right:auto;width:250px;max-width:80%;height:auto;" alt="dnld" border="0">
 </a>
 <hr>
