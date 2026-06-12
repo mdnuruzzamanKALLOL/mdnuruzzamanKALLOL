@@ -1,97 +1,130 @@
-![nOOb](https://user-images.githubusercontent.com/105699438/230198605-4323af24-396a-4676-b2a0-d499fd961d19.svg)
+<div align="center">
 
-<div id="profile-views-badge" align="center">
- 
-<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22">  ![](https://komarev.com/ghpvc/?username=mdnuruzzamanKALLOL&label=PROFILE+VIEWS)  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22">
- 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=220&section=header&text=MD.%20NURUZZAMAN&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20Data%20Scientist%20%7C%20Deep%20Learning%20Researcher&descAlignY=60&descSize=17&descColor=e2e8f0"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Assalamu+Alaikum+%F0%9F%91%8B+Welcome+to+my+Profile!;Machine+Learning+%7C+Deep+Learning+Enthusiast;TensorFlow+%7C+PyTorch+%7C+Keras;Always+Learning%2C+Always+Building+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%8D)](https://git.io/typing-svg)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=mdnuruzzamanKALLOL&label=Profile+Views&color=58a6ff&style=flat-square&labelColor=1c1c1c"/>
+&nbsp;&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/mdnuruzzamanKALLOL?label=Followers&style=flat-square&color=58a6ff&labelColor=1c1c1c)](https://github.com/mdnuruzzamanKALLOL)
+&nbsp;&nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/mdnuruzzamanKALLOL?label=Total%20Stars&style=flat-square&color=ffd700&labelColor=1c1c1c)](https://github.com/mdnuruzzamanKALLOL)
+
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=ASSALAMU+AALAIKUM;I+AM+MD.+NURUZZAMAN;+WELCOME+TO+MY+PROFILE;THANK+YOU+EVERYONE;LOVE+U+ALL+MY+FRIENDS)](https://git.io/typing-svg)
+---
 
-#### <i>Machine Learning Engineer, Data Scientist</i>
-![MdNuruzzaman](https://user-images.githubusercontent.com/105699438/224798363-f5d97cf5-53fe-4d36-b1ad-7f3e9057451b.png)
-![Add a little bit of body text](https://user-images.githubusercontent.com/105699438/226191668-bda2cc0f-7bda-4e42-a508-a91689abf383.png)
-![Expertices](https://user-images.githubusercontent.com/105699438/224799398-12023a55-605d-4576-9031-647e4ce63386.png)
+## 👨‍💻 About Me
 
-| **:stadium: Repositories** | **:star: Stars** | **:books: Forks** | **:bricks: Issues** | **:chart_with_upwards_trend: Pull Request** |
-| ------------ | ------------ | ------------ | ------------ | ------------ |
-| [Machine Learning Book Collections](https://github.com/mdnuruzzamanKALLOL/Machine-Learning-Book-Collections) | ![Stars](https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Machine-Learning-Book-Collections.svg?style=flat-square&color=informational) | ![Forks](https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Machine-Learning-Book-Collections.svg?style=flat-square&color=yellowgreen) | ![Issues](https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Machine-Learning-Book-Collections.svg?style=flat-square&color=critical) | ![Pull Requests](https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Machine-Learning-Book-Collections.svg?style=flat-square&color=blueviolet) |
-| [Data Science Book Collections](https://github.com/mdnuruzzamanKALLOL/Data-Science-Book-Collections) | ![Stars](https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Data-Science-Book-Collections.svg?style=flat-square&color=informational) | ![Forks](https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Data-Science-Book-Collections.svg?style=flat-square&color=yellowgreen) | ![Issues](https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Data-Science-Book-Collections.svg?style=flat-square&color=critical) | ![Pull Requests](https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Data-Science-Book-Collections.svg?style=flat-square&color=blueviolet) |
-| [Cheat Sheet](https://github.com/mdnuruzzamanKALLOL/Cheat-Sheet) | ![Stars](https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Cheat-Sheet.svg?style=flat-square&color=informational) | ![Forks](https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Cheat-Sheet.svg?style=flat-square&color=yellowgreen) | ![Issues](https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Cheat-Sheet.svg?style=flat-square&color=critical) | ![Pull Requests](https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Cheat-Sheet.svg?style=flat-square&color=blueviolet) |
-| [AI Cheat Sheet](https://github.com/mdnuruzzamanKALLOL/AI-Cheat-Sheet) | ![Stars](https://img.shields.io/github/stars/mdnuruzzamanKALLOL/AI-Cheat-Sheet.svg?style=flat-square&color=informational) | ![Forks](https://img.shields.io/github/forks/mdnuruzzamanKALLOL/AI-Cheat-Sheet.svg?style=flat-square&color=yellowgreen) | ![Issues](https://img.shields.io/github/issues/mdnuruzzamanKALLOL/AI-Cheat-Sheet.svg?style=flat-square&color=critical) | ![Pull Requests](https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/AI-Cheat-Sheet.svg?style=flat-square&color=blueviolet) |
-| [AI Important Documents Collection](https://github.com/mdnuruzzamanKALLOL/AI-Importand-Document) | ![Stars](https://img.shields.io/github/stars/mdnuruzzamanKALLOL/AI-Important-Document.svg?style=flat-square&color=informational) | ![Forks](https://img.shields.io/github/forks/mdnuruzzamanKALLOL/AI-Important-Document.svg?style=flat-square&color=yellowgreen) | ![Issues](https://img.shields.io/github/issues/mdnuruzzamanKALLOL/AI-Important-Document.svg?style=flat-square&color=critical) | ![Pull Requests](https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/AI-Important-Document.svg?style=flat-square&color=blueviolet) |
-| [Private Projects](https://github.com/mdnuruzzamanKALLOL/MyProjects) | <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22"> <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22"> <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22"> | <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22"> <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22"> <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22"> | <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22"> <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22"> <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22"> <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22"> | <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22"> <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22"> <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22"> <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22"> <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22"> |
+I completed my **Bachelor's in Computer Science and Engineering** from **Hajee Mohammad Danesh Science & Technology University (HSTU)**. I am a passionate **Machine Learning Engineer** and **Data Scientist** dedicated to building intelligent systems, implementing state-of-the-art deep learning architectures, and contributing to the AI open-source community.
 
-I have completed bachelors on <b><i>Computer Science and Engineering</i></b> from <b><i>Hajee Mohammad Danesh Science & Technology University</i></b>. I try to make myself best what I do. I am looking for a platform to start a career where I can further develop myself and my skill with a hard working attitude. I try to give my best in the work I do. <b>Insha’Allah</b> I hope I to do something better in the future. I intend to establish myself as Software Engineer with an integrated business solution provider through a long time commitment, contributing to the company's growth and in turn ensuring personal growth within the organization. I believe that my technical, functional and communication skills will enable me in facing the challenging career ahead. And i am totally confidence.
+- 🔭 Currently implementing **deep learning models from scratch** (PyTorch & TensorFlow)
+- 🧠 Exploring **Vision Transformers**, **EfficientNet**, **ConvNeXt**, and **DenseNet** architectures
+- 💡 Passionate about sharing knowledge through **open-source** contributions
+- 🎯 Goal: Establish myself as a world-class **AI / ML Engineer**
+- 📧 Contact: **mohammadnuruzzaman.hstu@gmail.com**
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohammadnuruzzaman.hstu@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> [![Linkedin](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mr-error/)
-<a href="https://www.kaggle.com/nuruzzamankallol"><img title="Kaggle" src="https://img.shields.io/badge/Kaggle-turquoise.svg?&style=for-the-badge&logo=kaggle&logoColor=white"></a>
-[![Gitlab](https://img.shields.io/badge/GITLAB-red?style=for-the-badge&logo=gitlab)](https://gitlab.com/mdnuruzzamanKALLOL)
-[![Codersrank](https://img.shields.io/badge/CODERSRANK-gray?style=for-the-badge&logo=codersrank)](https://profile.codersrank.io/user/mdnuruzzamankallol/)
-<a href="https://facebook.com"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="https://wa.me/+8801747477707"><img title="Whatsapp" src="https://img.shields.io/badge/whatsapp-limeGreen.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+---
 
-<hr>
-<a href="https://drive.google.com/file/d/1CFRPzlGscf8EuJUe0pXDjABOChnlMYhr/view?usp=sharing" style="text-decoration: none" target="_blank">
-  <img src="https://i.ibb.co/fHtdMKD/download.png" style="display:block;margin-top:20px;margin-left:auto;margin-right:auto;width:250px;max-width:80%;height:auto;" alt="dnld" border="0">
-</a>
-<hr>
+## 📦 Public Repositories
 
-<h3 align="left">Languages and Tools</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+| **Repository** | **⭐ Stars** | **🍴 Forks** | **🔴 Issues** | **🟣 Pull Requests** |
+|:---|:---:|:---:|:---:|:---:|
+| [Machine Learning Book Collections](https://github.com/mdnuruzzamanKALLOL/Machine-Learning-Book-Collections) | ![Stars](https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Machine-Learning-Book-Collections?style=flat-square&color=ffd700&labelColor=161b22) | ![Forks](https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Machine-Learning-Book-Collections?style=flat-square&color=58a6ff&labelColor=161b22) | ![Issues](https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Machine-Learning-Book-Collections?style=flat-square&color=ff6b6b&labelColor=161b22) | ![PRs](https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Machine-Learning-Book-Collections?style=flat-square&color=a78bfa&labelColor=161b22) |
+| [Data Science Book Collections](https://github.com/mdnuruzzamanKALLOL/Data-Science-Book-Collections) | ![Stars](https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Data-Science-Book-Collections?style=flat-square&color=ffd700&labelColor=161b22) | ![Forks](https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Data-Science-Book-Collections?style=flat-square&color=58a6ff&labelColor=161b22) | ![Issues](https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Data-Science-Book-Collections?style=flat-square&color=ff6b6b&labelColor=161b22) | ![PRs](https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Data-Science-Book-Collections?style=flat-square&color=a78bfa&labelColor=161b22) |
+| [Cheat Sheet](https://github.com/mdnuruzzamanKALLOL/Cheat-Sheet) | ![Stars](https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Cheat-Sheet?style=flat-square&color=ffd700&labelColor=161b22) | ![Forks](https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Cheat-Sheet?style=flat-square&color=58a6ff&labelColor=161b22) | ![Issues](https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Cheat-Sheet?style=flat-square&color=ff6b6b&labelColor=161b22) | ![PRs](https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Cheat-Sheet?style=flat-square&color=a78bfa&labelColor=161b22) |
+| [AI Cheat Sheet](https://github.com/mdnuruzzamanKALLOL/AI-Cheat-Sheet) | ![Stars](https://img.shields.io/github/stars/mdnuruzzamanKALLOL/AI-Cheat-Sheet?style=flat-square&color=ffd700&labelColor=161b22) | ![Forks](https://img.shields.io/github/forks/mdnuruzzamanKALLOL/AI-Cheat-Sheet?style=flat-square&color=58a6ff&labelColor=161b22) | ![Issues](https://img.shields.io/github/issues/mdnuruzzamanKALLOL/AI-Cheat-Sheet?style=flat-square&color=ff6b6b&labelColor=161b22) | ![PRs](https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/AI-Cheat-Sheet?style=flat-square&color=a78bfa&labelColor=161b22) |
+| [AI Important Documents Collection](https://github.com/mdnuruzzamanKALLOL/AI-Importand-Document) | ![Stars](https://img.shields.io/github/stars/mdnuruzzamanKALLOL/AI-Important-Document?style=flat-square&color=ffd700&labelColor=161b22) | ![Forks](https://img.shields.io/github/forks/mdnuruzzamanKALLOL/AI-Important-Document?style=flat-square&color=58a6ff&labelColor=161b22) | ![Issues](https://img.shields.io/github/issues/mdnuruzzamanKALLOL/AI-Important-Document?style=flat-square&color=ff6b6b&labelColor=161b22) | ![PRs](https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/AI-Important-Document?style=flat-square&color=a78bfa&labelColor=161b22) |
+| [🔒 Private Projects](https://github.com/mdnuruzzamanKALLOL/MyProjects) | — | — | — | — |
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+---
 
+## 🛠️ Skills & Technologies
 
-```javascript
-const mdnuruzzamanKALLOL = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, Html, Css, Ruby, Python, R],
-  tools: [React, Weka, SaS, Django, PyTorch, Tensorflow, SciKit-Learn],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #Blockchain challenge focused on a peer-to-peer network, and a digital ledger"
-}
-```
+**🐍 Languages**
 
-<h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/mdnuruzzamanKALLOL"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=mdnuruzzamanKALLOL&theme=monokai"></a>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p align="center"><img src="https://github.com/oxygen51/oxygen51/blob/main/2.gif" alt="Bt">
-<p align="center"><img src="https://github.com/oxygen51/oxygen51/blob/main/4.gif" alt="Bt" width="400">
+**🤖 ML / DL Frameworks**
 
-<h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-stats.png" /><i> GitHub Stats :</i></h2>
-<table border="1">
-  <tr>
-    <td valign="top"><a href="https://github.com/mdnuruzzamanKALLOL/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=mdnuruzzamanKALLOL&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="MD. NURUZZAMAN GitHub stats"/></td> </a>
-    <td valign="top"> <a href="https://github.com/mdnuruzzamanKALLOL/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnuruzzamanKALLOL&layout=compact&langs_count=10" alt ="Top Languages"/></td>
-    </a>
-  </tr>
-   <tr>
-    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=mdnuruzzamanKALLOL&hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="MD. NURUZZAMAN GitHub Readme Streak Stats"/> </a>  </td> 
-    
-  </tr>
-</table>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-<br>
-<!-- <h2 align='center'><i><a href="https://github.com/mdnuruzzamanKALLOL/github-readme-activity-graph">Activity Graph 📈</i></h2>
-<p align="center">
-<a href="https://github.com/mdnuruzzamanKALLOL/github-readme-activity-graph#gh-light-mode-only">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mdnuruzzamanKALLOL&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
-</a>
-<a href="https://github.com/mdnuruzzamanKALLOL/github-readme-activity-graph#gh-dark-mode-only">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mdnuruzzamanKALLOL&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
-</a>
-</p> -->
- 
- <!-- ![snake gif](https://github.com/amajaying/amajaying/blob/output/github-contribution-grid-snake.svg) -->
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mdnuruzzamanKALLOL&theme=dracula)](https://github.com/mdnuruzzamanKALLOL/github-readme-activity-graph)
- 
- <img src="https://github.com/amajaying/amajaying/blob/main/Footer.jpg">
+**☁️ Tools & Platforms**
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mdnuruzzamanKALLOL&count_private=true&show_icons=true&theme=github_dark&border_radius=10&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="175"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnuruzzamanKALLOL&layout=compact&langs_count=8&theme=github_dark&border_radius=10&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="175"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mdnuruzzamanKALLOL&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" height="175"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mdnuruzzamanKALLOL&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdnuruzzamanKALLOL&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&hide_border=true)](https://github.com/mdnuruzzamanKALLOL)
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadnuruzzaman.hstu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-error/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nuruzzamankallol)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/mdnuruzzamanKALLOL)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+8801747477707)
+[![CodersRank](https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=codersrank&logoColor=white)](https://profile.codersrank.io/user/mdnuruzzamankallol/)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer"/>
+
+</div>
