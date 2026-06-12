@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=700&color=FF6B6B&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+Machine+Learning+Engineer;%F0%9F%A7%A0+Deep+Learning+Researcher;%F0%9F%94%A5+TensorFlow+%26+PyTorch+Expert;%F0%9F%93%8A+Data+Scientist+%26+AI+Enthusiast;%F0%9F%8C+Open+Source+Contributor;%F0%9F%92%A1+Always+Learning%2C+Always+Growing!;%F0%9F%8F%86+173%2B+Stars+on+ML+Book+Repo!" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=700&color=FF6B6B&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+Machine+Learning+Engineer;%F0%9F%A7%A0+Deep+Learning+Researcher;%F0%9F%94%A5+TensorFlow+%26+PyTorch+Expert;%F0%9F%93%8A+Data+Scientist+%26+AI+Enthusiast;%F0%9F%8C+Open+Source+Contributor;%F0%9F%92%A1+Always+Learning%2C+Always+Growing!;%F0%9F%8F%86+300%2B+Stars+Across+Public+Repos!" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -19,8 +19,6 @@
 </p>
 
 <br/>
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
@@ -43,60 +41,68 @@
 
 </td>
 <td valign="top" width="45%" align="center">
-
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF"/>
-
 </td>
 </tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-## 🔨 Currently Building
+## 🎯 Weekly Mission
 
+<!-- WEEKLY:START -->
 <table>
 <tr>
-<td valign="top" width="55%">
-
-```
-🧠 Deep Learning Model Zoo
-│
-├── ✅ EfficientNetB0 – B7    (PyTorch + TensorFlow)
-├── ✅ EfficientNetV2 B0 – B3 (TensorFlow)
-├── ✅ DenseNet 121/169/201   (PyTorch + TensorFlow)
-├── ✅ ConvNeXt T/S/B/L/XL    (PyTorch + TensorFlow)
-├── 🔄 ResNet 18/34/50/101    (coming next...)
-├── 🔄 MobileNet V1/V2/V3     (coming next...)
-└── 📋 Vision Transformers    (planned)
-
-Each model → 10 files:
-  📓 Notebook  |  🐍 Scripts  |  ⚖️ Pretrained
-```
-
+<td valign="top" width="62%">
+<h3>⚡ EfficientNet Mastery</h3>
+<p>
+🎯 <b>Quest:</b> Compound-scale EfficientNetB0–B7 from scratch<br/>
+🔧 <b>Stack:</b> PyTorch &bull; TensorFlow &bull; Keras<br/>
+📊 <b>Difficulty:</b> ████████░░ Hard<br/>
+💬 <i>Scale width, depth &amp; resolution together 📐</i>
+</p>
+<p>
+<img src="https://img.shields.io/badge/Mission-Week%201%20%2F%2052-ff6b6b?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Active%20%F0%9F%94%A5-success?style=flat-square"/>
+</p>
 </td>
-<td valign="top" width="45%" align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhteHcxcXJvcGVxdnVpNWRheWVicW51dXZ4eGN5bHIzNXB3bm1zayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260" alt="AI GIF"/>
-
+<td valign="top" width="38%" align="center">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220"/>
 </td>
 </tr>
 </table>
+<!-- WEEKLY:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 ## 📊 Expertise Level
 
-```
-🐍  Python            ████████████░   95%
-🧠  Machine Learning  ████████████░   92%
-🔥  Deep Learning     ███████████░░   88%
-⚡  TensorFlow        ███████████░░   88%
-🔴  PyTorch           ███████████░░   85%
-📊  Data Science      ██████████░░░   82%
-🌐  Computer Vision   █████████░░░░   78%
-☁️  Cloud (AWS/GCP)   ████████░░░░░   70%
-⚙️  Backend Dev       ███████░░░░░░   65%
-```
+<table>
+<tr>
+<td valign="top" width="53%">
+<p>
+<img src="https://img.shields.io/badge/🐍_Python-95%25-3776AB?style=flat-square&labelColor=161b22"/><br/><br/>
+<img src="https://img.shields.io/badge/🧠_Machine_Learning-92%25-ff6b6b?style=flat-square&labelColor=161b22"/><br/><br/>
+<img src="https://img.shields.io/badge/🔥_Deep_Learning-88%25-EE4C2C?style=flat-square&labelColor=161b22"/><br/><br/>
+<img src="https://img.shields.io/badge/⚡_TensorFlow-88%25-FF6F00?style=flat-square&labelColor=161b22"/><br/><br/>
+<img src="https://img.shields.io/badge/🔴_PyTorch-85%25-EE4C2C?style=flat-square&labelColor=161b22"/><br/><br/>
+<img src="https://img.shields.io/badge/📊_Data_Science-82%25-4ecdc4?style=flat-square&labelColor=161b22"/><br/><br/>
+<img src="https://img.shields.io/badge/🌐_Computer_Vision-78%25-a78bfa?style=flat-square&labelColor=161b22"/><br/><br/>
+<img src="https://img.shields.io/badge/☁️_Cloud_(AWS/GCP)-70%25-fcb045?style=flat-square&labelColor=161b22"/><br/><br/>
+<img src="https://img.shields.io/badge/⚙️_Backend_Dev-65%25-8b949e?style=flat-square&labelColor=161b22"/>
+</p>
+</td>
+<td valign="top" width="47%" align="center">
+<br/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="270" alt="AI Brain GIF"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Always-Learning%20%F0%9F%9A%80-ff6b6b?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Never-Stop%20Growing%20%F0%9F%8C%B1-4ecdc4?style=flat-square"/>
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
@@ -257,7 +263,7 @@ const KALLOL = {
 <td align="center" width="33%">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"/>
 <br/>
-<em>I love connecting with people — if you want to say <b>hi</b>, I'll be happy to meet you!</em>
+<em>I love connecting with people — say <b>hi</b> anytime!</em>
 </td>
 <td align="center" width="33%">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"/>
@@ -267,7 +273,7 @@ const KALLOL = {
 <td align="center" width="33%">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"/>
 <br/>
-<em>Open source contributor & knowledge sharer 🌍</em>
+<em>Open source contributor 🌍</em>
 </td>
 </tr>
 </table>
