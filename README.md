@@ -51,24 +51,24 @@
 ## 🎯 Weekly Mission
 
 <!-- WEEKLY:START -->
-<table>
+<table width="100%">
 <tr>
-<td valign="top" width="62%">
-<h3>⚡ EfficientNet Mastery</h3>
+<td valign="top" width="58%">
+<h3>&#x26A1; EfficientNet Mastery</h3>
 <p>
-🎯 <b>Quest:</b> Compound-scale EfficientNetB0–B7 from scratch<br/>
-🔧 <b>Stack:</b> PyTorch &bull; TensorFlow &bull; Keras<br/>
-📊 <b>Difficulty:</b> ████████░░ Hard<br/>
-💬 <i>Scale width, depth &amp; resolution together 📐</i>
+&#127919; <b>Quest:</b> Compound-scale EfficientNetB0&ndash;B7 from scratch<br/>
+&#128296; <b>Stack:</b> PyTorch &bull; TensorFlow &bull; Keras<br/>
+&#128202; <b>Difficulty:</b> &#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9617;&#9617; Hard<br/>
+&#128172; <i>&quot;Scale width, depth &amp; resolution together&quot;</i>
 </p>
 <p>
-<img src="https://img.shields.io/badge/Mission-Week%201%20%2F%2052-ff6b6b?style=flat-square"/>
+<img src="https://img.shields.io/badge/Week-1%20%2F%2052-ff6b6b?style=for-the-badge&amp;labelColor=161b22"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Active%20%F0%9F%94%A5-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Active%20%F0%9F%94%A5-success?style=for-the-badge&amp;labelColor=161b22"/>
 </p>
 </td>
-<td valign="top" width="38%" align="center">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220"/>
+<td valign="middle" width="42%" align="center">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260"/>
 </td>
 </tr>
 </table>
