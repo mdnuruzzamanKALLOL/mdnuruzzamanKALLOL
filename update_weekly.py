@@ -391,7 +391,8 @@ ICONS = [
 
 TEMPLATE = """\
 <!-- WEEKLY:START -->
-<table width="100%">
+<div align="center">
+<table width="90%">
 <tr>
 <td valign="top" width="58%">
 <h3>{icon} {title}</h3>
@@ -412,6 +413,7 @@ TEMPLATE = """\
 </td>
 </tr>
 </table>
+</div>
 <!-- WEEKLY:END -->"""
 
 
