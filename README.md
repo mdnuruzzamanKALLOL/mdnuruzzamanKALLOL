@@ -131,30 +131,30 @@
 <td valign="top" width="33%" align="center">
 <h4>&#x26A1; TensorFlow Mastery</h4>
 <p align="left">
-&bull; Custom training loops &amp; <code>@tf.function</code><br/>
-&bull; TF Serving &bull; SavedModel &bull; TFLite<br/>
-&bull; Mixed Precision &bull; TF Profiler<br/>
-&bull; <code>tf.data</code> pipelines &amp; Keras subclassing
+&bull; Custom loops &bull; @tf.function<br/>
+&bull; TF Serving &bull; SavedModel<br/>
+&bull; TFLite &bull; Mixed Precision<br/>
+&bull; tf.data &bull; Keras subclassing
 </p>
 </td>
 
 <td valign="top" width="33%" align="center">
 <h4>&#x1F525; PyTorch Powerhouse</h4>
 <p align="left">
-&bull; Autograd &bull; TorchScript &bull; ONNX export<br/>
-&bull; DistributedDataParallel (DDP) &bull; AMP<br/>
-&bull; W&amp;B experiment tracking &bull; PyTorch Hub<br/>
-&bull; Custom datasets, samplers &amp; dataloaders
+&bull; Autograd &bull; TorchScript &bull; JIT<br/>
+&bull; DistributedDataParallel &bull; AMP<br/>
+&bull; W&amp;B tracking &bull; PyTorch Hub<br/>
+&bull; Custom datasets &bull; DataLoaders
 </p>
 </td>
 
 <td valign="top" width="33%" align="center">
 <h4>&#x2699;&#xFE0F; Model Engineering</h4>
 <p align="left">
-&bull; PyTorch &harr; TensorFlow via ONNX bridge<br/>
-&bull; TensorRT &bull; TFLite &bull; INT8 / FP16<br/>
-&bull; Pruning &bull; Quantization &bull; OpenVINO<br/>
-&bull; Novel CNN + Transformer hybrid architectures
+&bull; Layer-by-layer weight transfer<br/>
+&bull; TensorRT &bull; TFLite &bull; CoreML<br/>
+&bull; INT8 &bull; FP16 &bull; Quantization<br/>
+&bull; Novel CNN + Transformer design
 </p>
 </td>
 
@@ -164,30 +164,30 @@
 <td valign="top" width="33%" align="center">
 <h4>&#x1F4DD; Research &amp; Publications</h4>
 <p align="left">
-&bull; IEEE &amp; arXiv paper authoring (LaTeX)<br/>
-&bull; Overleaf &bull; BibTeX &bull; IEEE templates<br/>
-&bull; CVPR / NeurIPS / ICCV reproductions<br/>
-&bull; Ablation studies &amp; metric matching
+&bull; IEEE &bull; arXiv paper writing<br/>
+&bull; LaTeX &bull; Overleaf &bull; BibTeX<br/>
+&bull; CVPR / NeurIPS / ICCV repro.<br/>
+&bull; Ablation &bull; metric matching
 </p>
 </td>
 
 <td valign="top" width="33%" align="center">
 <h4>&#x1F319; Image Restoration</h4>
 <p align="left">
-&bull; Low-Light: Zero-DCE &bull; RetinexNet &bull; LLFlow<br/>
-&bull; LIME &bull; Noise Estimation &bull; Perceptual Loss<br/>
-&bull; Metrics: SSIM &bull; PSNR &bull; LPIPS &bull; BRISQUE<br/>
-&bull; Medical imaging: X-ray &bull; MRI &bull; DICOM &bull; MONAI
+&bull; Zero-DCE &bull; RetinexNet &bull; LLFlow<br/>
+&bull; LIME &bull; Noise Estimation<br/>
+&bull; SSIM &bull; PSNR &bull; LPIPS &bull; BRISQUE<br/>
+&bull; X-ray &bull; MRI &bull; DICOM &bull; MONAI
 </p>
 </td>
 
 <td valign="top" width="33%" align="center">
 <h4>&#x1F680; Space &amp; Scientific AI</h4>
 <p align="left">
-&bull; Spacecraft: SAR &bull; Super-Resolution &bull; NDWI<br/>
-&bull; Change Detection &bull; Pansharpening &bull; GDAL<br/>
-&bull; NASA: FITS &bull; Exoplanet Transit &bull; Aurora AI<br/>
-&bull; Astropy &bull; Lightkurve &bull; Google Earth Engine
+&bull; SAR &bull; Super-Resolution &bull; NDWI<br/>
+&bull; Change Detection &bull; Pansharpen<br/>
+&bull; FITS &bull; Exoplanet Transit AI<br/>
+&bull; Astropy &bull; Lightkurve &bull; GDAL
 </p>
 </td>
 
