@@ -237,7 +237,7 @@ const KALLOL = {
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdnuruzzamanKALLOL&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mdnuruzzamanKALLOL&theme=radical&no-frame=true&column=6&margin-w=15&margin-h=10"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
