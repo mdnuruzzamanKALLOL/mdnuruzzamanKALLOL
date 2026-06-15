@@ -292,6 +292,95 @@
 </table>
 </div>
 
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/TensorFlow%20Models-38%20Pretrained-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a0a00"/>
+&nbsp;
+<img src="https://img.shields.io/badge/PyTorch%20Models-80%20Pretrained-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=1a0000"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Total%20Models-118%20Ready-7b2ff7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Families-30%20Architectures-4ecdc4?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
+
+<br/><br/>
+
+<table width="96%">
+<tr>
+
+<td valign="top" width="50%" align="center">
+
+<h4>⚡ TensorFlow Zoo &mdash; 10 Families</h4>
+
+<img src="https://img.shields.io/badge/ConvNeXt-5%20variants-FF6F00?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/EfficientNet-8%20variants-FF8C00?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/EfficientNetV2-7%20variants-FFA040?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/ResNet-6%20variants-ff6b6b?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/DenseNet-3%20variants-f107a3?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Inception-2%20variants-7b2ff7?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/MobileNet-2%20variants-4ecdc4?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/NASNet-2%20variants-fcb045?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/VGG-2%20variants-a78bfa?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Xception-1%20variant-f43f5e?style=flat-square&labelColor=161b22"/>
+
+</td>
+
+<td valign="top" width="50%" align="center">
+
+<h4>🔥 PyTorch Zoo &mdash; 20 Families</h4>
+
+<img src="https://img.shields.io/badge/ResNet-5%20variants-EE4C2C?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/ConvNeXt-4%20variants-FF6B35?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/EfficientNet-8%20variants-FF8C00?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/EfficientNetV2-3%20variants-FFA040?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Swin%20Transformer-6%20variants-7b2ff7?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Vision%20Transformer-5%20variants-a78bfa?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/VGG-8%20variants-4ecdc4?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/DenseNet-4%20variants-f107a3?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/RegNet-14%20variants-fcb045?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/ResNeXt-3%20variants-ff6b6b?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/MobileNet%20V2-1%20variant-4ecdc4?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/MobileNet%20V3-2%20variants-22d3ee?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Wide%20ResNet-2%20variants-f43f5e?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/ShuffleNet%20V2-4%20variants-34d399?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/MNASNet-4%20variants-fbbf24?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/MaxViT-1%20variant-7b2ff7?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Inception%20V3-1%20variant-FF6F00?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/GoogLeNet-1%20variant-fb923c?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/SqueezeNet-2%20variants-94a3b8?style=flat-square&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/AlexNet-1%20variant-64748b?style=flat-square&labelColor=161b22"/>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<table width="96%">
+<tr>
+<td align="center" width="25%">
+<h4>📓 Notebooks</h4>
+<sub>Interactive Jupyter walkthrough<br/>architecture · training · eval</sub>
+</td>
+<td align="center" width="25%">
+<h4>🐍 Python Scripts</h4>
+<sub>Build from scratch · train loop<br/>single-image inference</sub>
+</td>
+<td align="center" width="25%">
+<h4>⚖️ Pretrained Weights</h4>
+<sub>Feature extraction (frozen)<br/>fine-tuning (progressive)</sub>
+</td>
+<td align="center" width="25%">
+<h4>📖 SEO README</h4>
+<sub>Architecture · accuracy · BibTeX<br/>use-cases · quick start</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 <h2 align="center">👨‍💻 A Little More About Me</h2>
