@@ -93,27 +93,57 @@
 <div align="center">
 <br/>
 
-<img src="https://img.shields.io/badge/Python-95%25-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=161b22"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Machine%20Learning-92%25-ff6b6b?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=161b22"/>
+<table>
+<tr>
+  <td align="right" width="160"><b>🐍 Python</b></td>
+  <td><img src="https://geps.dev/progress/95?dangerColor=ff6b6b&warningColor=fcb045&successColor=3776AB" width="300"/></td>
+  <td align="left" width="40"><b>95%</b></td>
+</tr>
+<tr>
+  <td align="right"><b>🤖 Machine Learning</b></td>
+  <td><img src="https://geps.dev/progress/92?dangerColor=ff6b6b&warningColor=fcb045&successColor=ff6b6b" width="300"/></td>
+  <td align="left"><b>92%</b></td>
+</tr>
+<tr>
+  <td align="right"><b>🔥 Deep Learning</b></td>
+  <td><img src="https://geps.dev/progress/88?dangerColor=ff6b6b&warningColor=fcb045&successColor=EE4C2C" width="300"/></td>
+  <td align="left"><b>88%</b></td>
+</tr>
+<tr>
+  <td align="right"><b>⚡ TensorFlow</b></td>
+  <td><img src="https://geps.dev/progress/88?dangerColor=ff6b6b&warningColor=fcb045&successColor=FF6F00" width="300"/></td>
+  <td align="left"><b>88%</b></td>
+</tr>
+<tr>
+  <td align="right"><b>🔴 PyTorch</b></td>
+  <td><img src="https://geps.dev/progress/85?dangerColor=ff6b6b&warningColor=fcb045&successColor=EE4C2C" width="300"/></td>
+  <td align="left"><b>85%</b></td>
+</tr>
+<tr>
+  <td align="right"><b>📊 Data Science</b></td>
+  <td><img src="https://geps.dev/progress/82?dangerColor=ff6b6b&warningColor=fcb045&successColor=4ecdc4" width="300"/></td>
+  <td align="left"><b>82%</b></td>
+</tr>
+<tr>
+  <td align="right"><b>🌐 Computer Vision</b></td>
+  <td><img src="https://geps.dev/progress/78?dangerColor=ff6b6b&warningColor=fcb045&successColor=a78bfa" width="300"/></td>
+  <td align="left"><b>78%</b></td>
+</tr>
+<tr>
+  <td align="right"><b>☁️ Cloud (AWS/GCP)</b></td>
+  <td><img src="https://geps.dev/progress/70?dangerColor=ff6b6b&warningColor=fcb045&successColor=fcb045" width="300"/></td>
+  <td align="left"><b>70%</b></td>
+</tr>
+<tr>
+  <td align="right"><b>⚙️ Backend Dev</b></td>
+  <td><img src="https://geps.dev/progress/65?dangerColor=ff6b6b&warningColor=fcb045&successColor=8b949e" width="300"/></td>
+  <td align="left"><b>65%</b></td>
+</tr>
+</table>
 
-<br/><br/>
+<br/>
 
-<img src="https://img.shields.io/badge/Deep%20Learning-88%25-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=161b22"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/TensorFlow-88%25-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=161b22"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/PyTorch-85%25-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=161b22"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Data%20Science-82%25-4ecdc4?style=for-the-badge&logo=pandas&logoColor=white&labelColor=161b22"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Computer%20Vision-78%25-a78bfa?style=for-the-badge&logo=opencv&logoColor=white&labelColor=161b22"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Cloud%20%28AWS%2FGCP%29-70%25-fcb045?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=161b22"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Backend%20Dev-65%25-8b949e?style=for-the-badge&logo=django&logoColor=white&labelColor=161b22"/>
-
-<br/><br/>
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="240" alt="AI Brain GIF"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" alt="AI Brain GIF"/>
 
 <br/><br/>
 
