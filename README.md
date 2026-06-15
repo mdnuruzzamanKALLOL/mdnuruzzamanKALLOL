@@ -74,7 +74,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-## 🔬 Research Interests
+<h2 align="center">🔬 Research Interests</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Vision%20Transformers-ViT%20%7C%20Swin%20%7C%20DeiT-7b2ff7?style=for-the-badge&labelColor=161b22"/>
@@ -139,7 +139,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
 <strong>⚡ Skill Icons</strong><br/><br/>
@@ -185,7 +185,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-## 👨‍💻 A Little More About Me
+<h2 align="center">👨‍💻 A Little More About Me</h2>
 
 ```javascript
 const KALLOL = {
@@ -205,7 +205,7 @@ const KALLOL = {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-## 📊 GitHub Statistics
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdnuruzzamanKALLOL&count_private=true&show_icons=true&theme=radical&border_radius=12&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ffd700&text_color=c9d1d9" height="175"/>
@@ -219,7 +219,7 @@ const KALLOL = {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-## 📋 GitHub Profile Summary
+<h2 align="center">📋 GitHub Profile Summary</h2>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdnuruzzamanKALLOL&theme=radical"/>
@@ -234,7 +234,7 @@ const KALLOL = {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-## 🏆 GitHub Trophies
+<h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mdnuruzzamanKALLOL&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5"/>
@@ -242,7 +242,7 @@ const KALLOL = {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-## 📈 Contribution Activity
+<h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdnuruzzamanKALLOL&bg_color=0d1117&color=ff6b6b&line=ffd700&point=ffffff&area=true&area_color=ff6b6b&hide_border=true" width="100%"/>
@@ -250,7 +250,7 @@ const KALLOL = {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-## 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mdnuruzzamanKALLOL/mdnuruzzamanKALLOL/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
@@ -258,7 +258,7 @@ const KALLOL = {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-## 🤝 Connect With Me
+<h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
   <a href="mailto:mohammadnuruzzaman.hstu@gmail.com">
@@ -286,7 +286,7 @@ const KALLOL = {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-## 💬 Random Dev Quote
+<h2 align="center">💬 Random Dev Quote</h2>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
