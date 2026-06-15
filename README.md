@@ -90,31 +90,36 @@
 
 ## 📊 Expertise Level
 
-<table>
-<tr>
-<td valign="top" width="53%">
-<p>
-<img src="https://img.shields.io/badge/Python-95%25-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=161b22"/><br/><br/>
-<img src="https://img.shields.io/badge/Machine%20Learning-92%25-ff6b6b?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=161b22"/><br/><br/>
-<img src="https://img.shields.io/badge/Deep%20Learning-88%25-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=161b22"/><br/><br/>
-<img src="https://img.shields.io/badge/TensorFlow-88%25-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=161b22"/><br/><br/>
-<img src="https://img.shields.io/badge/PyTorch-85%25-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=161b22"/><br/><br/>
-<img src="https://img.shields.io/badge/Data%20Science-82%25-4ecdc4?style=flat-square&logo=pandas&logoColor=white&labelColor=161b22"/><br/><br/>
-<img src="https://img.shields.io/badge/Computer%20Vision-78%25-a78bfa?style=flat-square&logo=opencv&logoColor=white&labelColor=161b22"/><br/><br/>
-<img src="https://img.shields.io/badge/Cloud%20%28AWS%2FGCP%29-70%25-fcb045?style=flat-square&logo=amazonaws&logoColor=white&labelColor=161b22"/><br/><br/>
-<img src="https://img.shields.io/badge/Backend%20Dev-65%25-8b949e?style=flat-square&logo=django&logoColor=white&labelColor=161b22"/>
-</p>
-</td>
-<td valign="top" width="47%" align="center">
+<div align="center">
 <br/>
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="270" alt="AI Brain GIF"/>
+
+<img src="https://img.shields.io/badge/Python-95%25-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=161b22"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Machine%20Learning-92%25-ff6b6b?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=161b22"/>
+
 <br/><br/>
-<img src="https://img.shields.io/badge/Always-Learning%20🚀-ff6b6b?style=flat-square"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Never-Stop%20Growing%20🌱-4ecdc4?style=flat-square"/>
-</td>
-</tr>
-</table>
+
+<img src="https://img.shields.io/badge/Deep%20Learning-88%25-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=161b22"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/TensorFlow-88%25-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=161b22"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/PyTorch-85%25-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=161b22"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Data%20Science-82%25-4ecdc4?style=for-the-badge&logo=pandas&logoColor=white&labelColor=161b22"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Computer%20Vision-78%25-a78bfa?style=for-the-badge&logo=opencv&logoColor=white&labelColor=161b22"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Cloud%20%28AWS%2FGCP%29-70%25-fcb045?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=161b22"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Backend%20Dev-65%25-8b949e?style=for-the-badge&logo=django&logoColor=white&labelColor=161b22"/>
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="240" alt="AI Brain GIF"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Always-Learning%20%F0%9F%9A%80-ff6b6b?style=flat-square"/>&nbsp;<img src="https://img.shields.io/badge/Never-Stop%20Growing%20%F0%9F%8C%B1-4ecdc4?style=flat-square"/>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
