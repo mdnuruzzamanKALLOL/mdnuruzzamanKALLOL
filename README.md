@@ -287,18 +287,18 @@ const KALLOL = {
 <table align="center">
 <tr>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"/>
-<br/>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
+<br/><br/>
 <em>I love connecting with people — say <b>hi</b> anytime!</em>
 </td>
 <td align="center" width="33%">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"/>
-<br/>
+<br/><br/>
 <em>Always coding, always learning 🚀</em>
 </td>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"/>
-<br/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60"/>
+<br/><br/>
 <em>Open source contributor 🌍</em>
 </td>
 </tr>
