@@ -16,11 +16,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-## 🧑‍💻 About Me
+<h2 align="center">🧑‍💻 About Me</h2>
 
+<div align="center">
 <table>
 <tr>
-<td valign="top" width="55%">
+<td valign="top" align="center" width="55%">
 
 🎓 **CSE Graduate** from **Hajee Mohammad Danesh Science & Technology University (HSTU)**
 
@@ -34,18 +35,20 @@
 📧 **mohammadnuruzzaman.hstu@gmail.com**
 
 </td>
-<td valign="top" width="45%" align="center">
+<td valign="middle" width="45%" align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF"/>
 </td>
 </tr>
 </table>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-## 🎯 Weekly Mission
+<h2 align="center">🎯 Weekly Mission</h2>
 
 <!-- WEEKLY:START -->
-<table width="100%">
+<div align="center">
+<table width="90%">
 <tr>
 <td valign="top" width="58%">
 <h3>&#x26A1; EfficientNet Mastery</h3>
@@ -58,7 +61,7 @@
 <p>
 <img src="https://img.shields.io/badge/Week-1%20%2F%2052-ff6b6b?style=for-the-badge&amp;labelColor=161b22"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Active%20🔥-success?style=for-the-badge&amp;labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Status-Active%20%F0%9F%94%A5-success?style=for-the-badge&amp;labelColor=161b22"/>
 </p>
 </td>
 <td valign="middle" width="42%" align="center">
@@ -66,6 +69,7 @@
 </td>
 </tr>
 </table>
+</div>
 <!-- WEEKLY:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
@@ -88,11 +92,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-## 🎯 Core Expertise
+<h2 align="center">🎯 Core Expertise</h2>
 
-<table width="100%">
+<div align="center">
+<table width="90%">
 <tr>
-<td valign="top" width="60%">
+<td valign="top" align="center" width="60%">
 <h3>&#x1F9E0; AI &middot; Deep Learning &middot; Computer Vision</h3>
 <p>
 &#x1F3D7;&#xFE0F; <b>Architectures:</b> EfficientNet &bull; ViT &bull; ConvNeXt &bull; ResNet &bull; DenseNet &bull; U-Net<br/>
@@ -114,38 +119,16 @@
 </td>
 </tr>
 </table>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-## 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/mdnuruzzamanKALLOL/Machine-Learning-Book-Collections">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdnuruzzamanKALLOL&repo=Machine-Learning-Book-Collections&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ffd700&text_color=c9d1d9"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/mdnuruzzamanKALLOL/Data-Science-Book-Collections">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdnuruzzamanKALLOL&repo=Data-Science-Book-Collections&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ffd700&text_color=c9d1d9"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/mdnuruzzamanKALLOL/AI-Cheat-Sheet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdnuruzzamanKALLOL&repo=AI-Cheat-Sheet&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ffd700&text_color=c9d1d9"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/mdnuruzzamanKALLOL/Cheat-Sheet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdnuruzzamanKALLOL&repo=Cheat-Sheet&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ffd700&text_color=c9d1d9"/>
-  </a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
-
-## 📦 Public Repositories
+<h2 align="center">📦 Public Repositories</h2>
 
 <div align="center">
 
 | **Repository** | **⭐ Stars** | **🍴 Forks** | **🔴 Issues** | **🟣 Pull Requests** |
-|:---|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|
 | [📚 Machine Learning Book Collections](https://github.com/mdnuruzzamanKALLOL/Machine-Learning-Book-Collections) | ![](https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Machine-Learning-Book-Collections?style=flat-square&color=ffd700&labelColor=161b22) | ![](https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Machine-Learning-Book-Collections?style=flat-square&color=4ecdc4&labelColor=161b22) | ![](https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Machine-Learning-Book-Collections?style=flat-square&color=ff6b6b&labelColor=161b22) | ![](https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Machine-Learning-Book-Collections?style=flat-square&color=a78bfa&labelColor=161b22) |
 | [📊 Data Science Book Collections](https://github.com/mdnuruzzamanKALLOL/Data-Science-Book-Collections) | ![](https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Data-Science-Book-Collections?style=flat-square&color=ffd700&labelColor=161b22) | ![](https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Data-Science-Book-Collections?style=flat-square&color=4ecdc4&labelColor=161b22) | ![](https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Data-Science-Book-Collections?style=flat-square&color=ff6b6b&labelColor=161b22) | ![](https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Data-Science-Book-Collections?style=flat-square&color=a78bfa&labelColor=161b22) |
 | [📋 Cheat Sheet](https://github.com/mdnuruzzamanKALLOL/Cheat-Sheet) | ![](https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Cheat-Sheet?style=flat-square&color=ffd700&labelColor=161b22) | ![](https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Cheat-Sheet?style=flat-square&color=4ecdc4&labelColor=161b22) | ![](https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Cheat-Sheet?style=flat-square&color=ff6b6b&labelColor=161b22) | ![](https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Cheat-Sheet?style=flat-square&color=a78bfa&labelColor=161b22) |
