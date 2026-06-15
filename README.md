@@ -262,6 +262,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
+<h2 align="center">🦁 Pretrained Model Zoo</h2>
+
+<div align="center">
+
+| Repository | ⭐ Stars | 🍴 Forks | 🔴 Issues | 🟣 Pull Requests |
+|:---:|:---:|:---:|:---:|:---:|
+| [🧠 **TensorFlow Model Zoo**](https://github.com/mdnuruzzamanKALLOL/TensorFlow-Pretrained-Model-Zoo) | ![](https://img.shields.io/github/stars/mdnuruzzamanKALLOL/TensorFlow-Pretrained-Model-Zoo?style=for-the-badge&color=ffd700&labelColor=161b22&logo=github) | ![](https://img.shields.io/github/forks/mdnuruzzamanKALLOL/TensorFlow-Pretrained-Model-Zoo?style=for-the-badge&color=4ecdc4&labelColor=161b22&logo=github) | ![](https://img.shields.io/github/issues/mdnuruzzamanKALLOL/TensorFlow-Pretrained-Model-Zoo?style=for-the-badge&color=ff6b6b&labelColor=161b22) | ![](https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/TensorFlow-Pretrained-Model-Zoo?style=for-the-badge&color=a78bfa&labelColor=161b22) |
+| [🔥 **PyTorch Model Zoo**](https://github.com/mdnuruzzamanKALLOL/PyTorch-Pretrained-Model-Zoo) | ![](https://img.shields.io/github/stars/mdnuruzzamanKALLOL/PyTorch-Pretrained-Model-Zoo?style=for-the-badge&color=ffd700&labelColor=161b22&logo=github) | ![](https://img.shields.io/github/forks/mdnuruzzamanKALLOL/PyTorch-Pretrained-Model-Zoo?style=for-the-badge&color=4ecdc4&labelColor=161b22&logo=github) | ![](https://img.shields.io/github/issues/mdnuruzzamanKALLOL/PyTorch-Pretrained-Model-Zoo?style=for-the-badge&color=ff6b6b&labelColor=161b22) | ![](https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/PyTorch-Pretrained-Model-Zoo?style=for-the-badge&color=a78bfa&labelColor=161b22) |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+
 <h2 align="center">👨‍💻 A Little More About Me</h2>
 
 ```javascript
