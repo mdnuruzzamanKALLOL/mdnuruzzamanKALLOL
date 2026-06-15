@@ -88,68 +88,32 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-## 📊 Expertise Level
+## 🎯 Core Expertise
 
-<div align="center">
-<br/>
-
-<table>
+<table width="100%">
 <tr>
-  <td align="right" width="160"><b>🐍 Python</b></td>
-  <td><img src="https://geps.dev/progress/95?dangerColor=ff6b6b&warningColor=fcb045&successColor=3776AB" width="300"/></td>
-  <td align="left" width="40"><b>95%</b></td>
-</tr>
-<tr>
-  <td align="right"><b>🤖 Machine Learning</b></td>
-  <td><img src="https://geps.dev/progress/92?dangerColor=ff6b6b&warningColor=fcb045&successColor=ff6b6b" width="300"/></td>
-  <td align="left"><b>92%</b></td>
-</tr>
-<tr>
-  <td align="right"><b>🔥 Deep Learning</b></td>
-  <td><img src="https://geps.dev/progress/88?dangerColor=ff6b6b&warningColor=fcb045&successColor=EE4C2C" width="300"/></td>
-  <td align="left"><b>88%</b></td>
-</tr>
-<tr>
-  <td align="right"><b>⚡ TensorFlow</b></td>
-  <td><img src="https://geps.dev/progress/88?dangerColor=ff6b6b&warningColor=fcb045&successColor=FF6F00" width="300"/></td>
-  <td align="left"><b>88%</b></td>
-</tr>
-<tr>
-  <td align="right"><b>🔴 PyTorch</b></td>
-  <td><img src="https://geps.dev/progress/85?dangerColor=ff6b6b&warningColor=fcb045&successColor=EE4C2C" width="300"/></td>
-  <td align="left"><b>85%</b></td>
-</tr>
-<tr>
-  <td align="right"><b>📊 Data Science</b></td>
-  <td><img src="https://geps.dev/progress/82?dangerColor=ff6b6b&warningColor=fcb045&successColor=4ecdc4" width="300"/></td>
-  <td align="left"><b>82%</b></td>
-</tr>
-<tr>
-  <td align="right"><b>🌐 Computer Vision</b></td>
-  <td><img src="https://geps.dev/progress/78?dangerColor=ff6b6b&warningColor=fcb045&successColor=a78bfa" width="300"/></td>
-  <td align="left"><b>78%</b></td>
-</tr>
-<tr>
-  <td align="right"><b>☁️ Cloud (AWS/GCP)</b></td>
-  <td><img src="https://geps.dev/progress/70?dangerColor=ff6b6b&warningColor=fcb045&successColor=fcb045" width="300"/></td>
-  <td align="left"><b>70%</b></td>
-</tr>
-<tr>
-  <td align="right"><b>⚙️ Backend Dev</b></td>
-  <td><img src="https://geps.dev/progress/65?dangerColor=ff6b6b&warningColor=fcb045&successColor=8b949e" width="300"/></td>
-  <td align="left"><b>65%</b></td>
+<td valign="top" width="60%">
+<h3>&#x1F9E0; AI &middot; Deep Learning &middot; Computer Vision</h3>
+<p>
+&#x1F3D7;&#xFE0F; <b>Architectures:</b> EfficientNet &bull; ViT &bull; ConvNeXt &bull; ResNet &bull; DenseNet &bull; U-Net<br/>
+&#x1F527; <b>Frameworks:</b> PyTorch &bull; TensorFlow &bull; Keras &bull; HuggingFace &bull; OpenCV<br/>
+&#x1F3AF; <b>Specialties:</b> Detection &bull; Segmentation &bull; Classification &bull; Generation<br/>
+&#x1F4CA; <b>Data Science:</b> Pandas &bull; NumPy &bull; Scikit-Learn &bull; Matplotlib<br/>
+&#x2601;&#xFE0F; <b>MLOps:</b> AWS &bull; GCP &bull; Docker &bull; ONNX &bull; TensorRT
+</p>
+<p>
+<img src="https://img.shields.io/badge/Builds%20From-Scratch%20%F0%9F%94%A5-7b2ff7?style=flat-square&amp;labelColor=161b22"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Research-Driven%20%F0%9F%A7%A0-ff6b6b?style=flat-square&amp;labelColor=161b22"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20Source-Lover%20%F0%9F%8C%8D-4ecdc4?style=flat-square&amp;labelColor=161b22"/>
+</p>
+</td>
+<td valign="middle" width="40%" align="center">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260" alt="AI GIF"/>
+</td>
 </tr>
 </table>
-
-<br/>
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" alt="AI Brain GIF"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Always-Learning%20%F0%9F%9A%80-ff6b6b?style=flat-square"/>&nbsp;<img src="https://img.shields.io/badge/Never-Stop%20Growing%20%F0%9F%8C%B1-4ecdc4?style=flat-square"/>
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
