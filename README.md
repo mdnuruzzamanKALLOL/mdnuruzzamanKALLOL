@@ -96,30 +96,104 @@
 <h2 align="center">🎯 Core Expertise</h2>
 
 <div align="center">
+
+<!-- ── summary row ───────────────────────────────────────── -->
 <table width="90%">
 <tr>
-<td valign="top" align="center" width="60%">
-<h3>&#x1F9E0; AI &middot; Deep Learning &middot; Computer Vision</h3>
+<td valign="top" width="62%">
+<h3>&#x1F9E0; AI Research &middot; Deep Learning &middot; Computer Vision</h3>
 <p>
-&#x1F3D7;&#xFE0F; <b>Architectures:</b> EfficientNet &bull; ViT &bull; ConvNeXt &bull; ResNet &bull; DenseNet &bull; U-Net<br/>
-&#x1F527; <b>Frameworks:</b> PyTorch &bull; TensorFlow &bull; Keras &bull; HuggingFace &bull; OpenCV<br/>
-&#x1F3AF; <b>Specialties:</b> Detection &bull; Segmentation &bull; Classification &bull; Generation<br/>
-&#x1F4CA; <b>Data Science:</b> Pandas &bull; NumPy &bull; Scikit-Learn &bull; Matplotlib<br/>
-&#x2601;&#xFE0F; <b>MLOps:</b> AWS &bull; GCP &bull; Docker &bull; ONNX &bull; TensorRT
+&#x26A1; <b>Frameworks:</b> Expert-level TensorFlow 2.x &amp; PyTorch — custom loops, ONNX pipelines, edge deployment<br/>
+&#x2699;&#xFE0F; <b>Model Engineering:</b> Framework translation, INT8/FP16 quantization &amp; novel architecture design<br/>
+&#x1F4DD; <b>Research:</b> IEEE &amp; arXiv paper authoring, CVPR / NeurIPS / ICCV paper reproduction<br/>
+&#x1F52C; <b>Domains:</b> Low-Light Enhancement &bull; Agricultural AI &bull; Medical Imaging &bull; Spacecraft &bull; NASA Space Data
 </p>
 <p>
-<img src="https://img.shields.io/badge/Builds%20From-Scratch%20%F0%9F%94%A5-7b2ff7?style=flat-square&amp;labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Builds%20From-Scratch%20%F0%9F%94%A5-7b2ff7?style=for-the-badge&amp;labelColor=161b22"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Research-Driven%20%F0%9F%A7%A0-ff6b6b?style=flat-square&amp;labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Research-Driven%20%F0%9F%A7%A0-ff6b6b?style=for-the-badge&amp;labelColor=161b22"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Open%20Source-Lover%20%F0%9F%8C%8D-4ecdc4?style=flat-square&amp;labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Papers-Published%20%F0%9F%93%84-4ecdc4?style=for-the-badge&amp;labelColor=161b22"/>
 </p>
 </td>
-<td valign="middle" width="40%" align="center">
+<td valign="middle" width="38%" align="center">
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260" alt="AI GIF"/>
 </td>
 </tr>
 </table>
+
+<br/>
+
+<!-- ── 3 × 2 domain cards ────────────────────────────────── -->
+<table width="94%">
+<tr>
+
+<td valign="top" width="33%" align="center">
+<h4>&#x26A1; TensorFlow Mastery</h4>
+<p align="left">
+&bull; Custom training loops &amp; <code>@tf.function</code><br/>
+&bull; TF Serving &bull; SavedModel &bull; TFLite<br/>
+&bull; Mixed Precision &bull; TF Profiler<br/>
+&bull; <code>tf.data</code> pipelines &amp; Keras subclassing
+</p>
+</td>
+
+<td valign="top" width="33%" align="center">
+<h4>&#x1F525; PyTorch Powerhouse</h4>
+<p align="left">
+&bull; Autograd &bull; TorchScript &bull; ONNX export<br/>
+&bull; DistributedDataParallel (DDP) &bull; AMP<br/>
+&bull; W&amp;B experiment tracking &bull; PyTorch Hub<br/>
+&bull; Custom datasets, samplers &amp; dataloaders
+</p>
+</td>
+
+<td valign="top" width="33%" align="center">
+<h4>&#x2699;&#xFE0F; Model Engineering</h4>
+<p align="left">
+&bull; PyTorch &harr; TensorFlow via ONNX bridge<br/>
+&bull; TensorRT &bull; TFLite &bull; INT8 / FP16<br/>
+&bull; Pruning &bull; Quantization &bull; OpenVINO<br/>
+&bull; Novel CNN + Transformer hybrid architectures
+</p>
+</td>
+
+</tr>
+<tr>
+
+<td valign="top" width="33%" align="center">
+<h4>&#x1F4DD; Research &amp; Publications</h4>
+<p align="left">
+&bull; IEEE &amp; arXiv paper authoring (LaTeX)<br/>
+&bull; Overleaf &bull; BibTeX &bull; IEEE templates<br/>
+&bull; CVPR / NeurIPS / ICCV reproductions<br/>
+&bull; Ablation studies &amp; metric matching
+</p>
+</td>
+
+<td valign="top" width="33%" align="center">
+<h4>&#x1F319; Image Restoration</h4>
+<p align="left">
+&bull; Low-Light: Zero-DCE &bull; RetinexNet &bull; LLFlow<br/>
+&bull; LIME &bull; Noise Estimation &bull; Perceptual Loss<br/>
+&bull; Metrics: SSIM &bull; PSNR &bull; LPIPS &bull; BRISQUE<br/>
+&bull; Medical imaging: X-ray &bull; MRI &bull; DICOM &bull; MONAI
+</p>
+</td>
+
+<td valign="top" width="33%" align="center">
+<h4>&#x1F680; Space &amp; Scientific AI</h4>
+<p align="left">
+&bull; Spacecraft: SAR &bull; Super-Resolution &bull; NDWI<br/>
+&bull; Change Detection &bull; Pansharpening &bull; GDAL<br/>
+&bull; NASA: FITS &bull; Exoplanet Transit &bull; Aurora AI<br/>
+&bull; Astropy &bull; Lightkurve &bull; Google Earth Engine
+</p>
+</td>
+
+</tr>
+</table>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
