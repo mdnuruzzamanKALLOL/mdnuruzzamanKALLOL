@@ -103,7 +103,7 @@
 <td valign="top" width="62%">
 <h3>&#x1F9E0; AI Research &middot; Deep Learning &middot; Computer Vision</h3>
 <p>
-&#x26A1; <b>Frameworks:</b> Expert-level TensorFlow 2.x &amp; PyTorch — custom loops, ONNX pipelines, edge deployment<br/>
+&#x26A1; <b>Frameworks:</b> Expert-level TensorFlow 2.x &amp; PyTorch — custom loops, raw tensor operations, edge deployment<br/>
 &#x2699;&#xFE0F; <b>Model Engineering:</b> Framework translation, INT8/FP16 quantization &amp; novel architecture design<br/>
 &#x1F4DD; <b>Research:</b> IEEE &amp; arXiv paper authoring, CVPR / NeurIPS / ICCV paper reproduction<br/>
 &#x1F52C; <b>Domains:</b> Low-Light Enhancement &bull; Agricultural AI &bull; Medical Imaging &bull; Spacecraft &bull; NASA Space Data
