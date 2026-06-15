@@ -276,17 +276,17 @@
 <tbody>
 <tr>
 <td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/TensorFlow-Pretrained-Model-Zoo">🧠 <b>TensorFlow Model Zoo</b></a></td>
-<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/TensorFlow-Pretrained-Model-Zoo?style=for-the-badge&color=ffd700&labelColor=161b22&logo=github"/></td>
-<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/TensorFlow-Pretrained-Model-Zoo?style=for-the-badge&color=4ecdc4&labelColor=161b22&logo=github"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/TensorFlow-Pretrained-Model-Zoo?style=for-the-badge&color=ff6b6b&labelColor=161b22"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/TensorFlow-Pretrained-Model-Zoo?style=for-the-badge&color=a78bfa&labelColor=161b22"/></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/TensorFlow-Pretrained-Model-Zoo?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/TensorFlow-Pretrained-Model-Zoo?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/TensorFlow-Pretrained-Model-Zoo?style=for-the-badge&color=ff6b6b&labelColor=B71C1C"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/TensorFlow-Pretrained-Model-Zoo?style=for-the-badge&color=CE93D8&labelColor=4A148C"/></td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/PyTorch-Pretrained-Model-Zoo">🔥 <b>PyTorch Model Zoo</b></a></td>
-<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/PyTorch-Pretrained-Model-Zoo?style=for-the-badge&color=ffd700&labelColor=161b22&logo=github"/></td>
-<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/PyTorch-Pretrained-Model-Zoo?style=for-the-badge&color=4ecdc4&labelColor=161b22&logo=github"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/PyTorch-Pretrained-Model-Zoo?style=for-the-badge&color=ff6b6b&labelColor=161b22"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/PyTorch-Pretrained-Model-Zoo?style=for-the-badge&color=a78bfa&labelColor=161b22"/></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/PyTorch-Pretrained-Model-Zoo?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/PyTorch-Pretrained-Model-Zoo?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/PyTorch-Pretrained-Model-Zoo?style=for-the-badge&color=ff6b6b&labelColor=B71C1C"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/PyTorch-Pretrained-Model-Zoo?style=for-the-badge&color=CE93D8&labelColor=4A148C"/></td>
 </tr>
 </tbody>
 </table>
