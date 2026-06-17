@@ -208,6 +208,29 @@
 
 <br/>
 
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<h4>⚡ TensorFlow Zoo — 10 Families</h4>
+<img src="https://quickchart.io/chart?width=780&height=500&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22EfficientNet%22%2C%22EfficientNetV2%22%2C%22ResNet%22%2C%22ConvNeXt%22%2C%22DenseNet%22%2C%22Inception%22%2C%22MobileNet%22%2C%22NASNet%22%2C%22VGG%22%2C%22Xception%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Variants%22%2C%22data%22%3A%5B8%2C7%2C6%2C5%2C3%2C2%2C2%2C2%2C2%2C1%5D%2C%22fill%22%3Afalse%2C%22borderColor%22%3A%22%23ff7a00%22%2C%22backgroundColor%22%3A%22%23ff7a00%22%2C%22pointRadius%22%3A4%2C%22pointHoverRadius%22%3A5%2C%22borderWidth%22%3A3%2C%22lineTension%22%3A0.25%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scales%22%3A%7B%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23cbd5e1%22%2C%22maxRotation%22%3A30%2C%22minRotation%22%3A30%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.18%29%22%7D%7D%5D%2C%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A8%2C%22stepSize%22%3A1%2C%22fontColor%22%3A%22%23cbd5e1%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.18%29%22%7D%7D%5D%7D%7D%7D" width="100%" alt="TensorFlow zoo line chart"/>
+</td>
+<td align="center" width="50%">
+<h4>🔥 PyTorch Zoo — 20 Families</h4>
+<img src="https://quickchart.io/chart?width=780&height=640&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22RegNet%22%2C%22EfficientNet%22%2C%22VGG%22%2C%22Swin%20Trans%22%2C%22Vision%20Trans%22%2C%22ResNet%22%2C%22ConvNeXt%22%2C%22DenseNet%22%2C%22ShuffleNetV2%22%2C%22MNASNet%22%2C%22EffNetV2%22%2C%22ResNeXt%22%2C%22WideResNet%22%2C%22MobileNetV3%22%2C%22SqueezeNet%22%2C%22MobileNetV2%22%2C%22InceptionV3%22%2C%22GoogLeNet%22%2C%22MaxViT%22%2C%22AlexNet%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Variants%22%2C%22data%22%3A%5B14%2C8%2C8%2C6%2C5%2C5%2C4%2C4%2C4%2C4%2C3%2C3%2C2%2C2%2C2%2C1%2C1%2C1%2C1%2C1%5D%2C%22fill%22%3Afalse%2C%22borderColor%22%3A%22%23fbbf24%22%2C%22backgroundColor%22%3A%22%23fbbf24%22%2C%22pointRadius%22%3A3%2C%22pointHoverRadius%22%3A4%2C%22borderWidth%22%3A3%2C%22lineTension%22%3A0.2%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scales%22%3A%7B%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23cbd5e1%22%2C%22maxRotation%22%3A40%2C%22minRotation%22%3A40%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.15%29%22%7D%7D%5D%2C%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A14%2C%22stepSize%22%3A1%2C%22fontColor%22%3A%22%23cbd5e1%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.15%29%22%7D%7D%5D%7D%7D%7D" width="100%" alt="PyTorch zoo line chart"/>
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://img.shields.io/badge/%E2%AC%86%20TensorFlow%20Models-38%20Pretrained-FF6F00?style=for-the-badge&labelColor=0b1220&color=ff7a00"/>
+<img src="https://img.shields.io/badge/%F0%9F%94%A5%20PyTorch%20Models-80%20Pretrained-EE4C2C?style=for-the-badge&labelColor=0b1220&color=ff6b35"/>
+<br/>
+<img src="https://img.shields.io/badge/%F0%9F%90%99%20Total%20Models-118%20Ready-7C3AED?style=for-the-badge&labelColor=0b1220&color=7c3aed"/>
+<img src="https://img.shields.io/badge/Families-30%20Architectures-2DD4BF?style=for-the-badge&labelColor=0b1220&color=2dd4bf"/>
+</div>
+
+<br/>
+
 <h2 align="center">🏛️ Classic CNN</h2>
 
 <div align="center">
@@ -287,29 +310,6 @@
 </tr>
 </tbody>
 </table>
-</div>
-
-<br/>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-<h4>⚡ TensorFlow Zoo — 10 Families</h4>
-<img src="https://quickchart.io/chart?width=780&height=500&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22EfficientNet%22%2C%22EfficientNetV2%22%2C%22ResNet%22%2C%22ConvNeXt%22%2C%22DenseNet%22%2C%22Inception%22%2C%22MobileNet%22%2C%22NASNet%22%2C%22VGG%22%2C%22Xception%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Variants%22%2C%22data%22%3A%5B8%2C7%2C6%2C5%2C3%2C2%2C2%2C2%2C2%2C1%5D%2C%22fill%22%3Afalse%2C%22borderColor%22%3A%22%23ff7a00%22%2C%22backgroundColor%22%3A%22%23ff7a00%22%2C%22pointRadius%22%3A4%2C%22pointHoverRadius%22%3A5%2C%22borderWidth%22%3A3%2C%22lineTension%22%3A0.25%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scales%22%3A%7B%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23cbd5e1%22%2C%22maxRotation%22%3A30%2C%22minRotation%22%3A30%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.18%29%22%7D%7D%5D%2C%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A8%2C%22stepSize%22%3A1%2C%22fontColor%22%3A%22%23cbd5e1%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.18%29%22%7D%7D%5D%7D%7D%7D" width="100%" alt="TensorFlow zoo line chart"/>
-</td>
-<td align="center" width="50%">
-<h4>🔥 PyTorch Zoo — 20 Families</h4>
-<img src="https://quickchart.io/chart?width=780&height=640&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22RegNet%22%2C%22EfficientNet%22%2C%22VGG%22%2C%22Swin%20Trans%22%2C%22Vision%20Trans%22%2C%22ResNet%22%2C%22ConvNeXt%22%2C%22DenseNet%22%2C%22ShuffleNetV2%22%2C%22MNASNet%22%2C%22EffNetV2%22%2C%22ResNeXt%22%2C%22WideResNet%22%2C%22MobileNetV3%22%2C%22SqueezeNet%22%2C%22MobileNetV2%22%2C%22InceptionV3%22%2C%22GoogLeNet%22%2C%22MaxViT%22%2C%22AlexNet%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Variants%22%2C%22data%22%3A%5B14%2C8%2C8%2C6%2C5%2C5%2C4%2C4%2C4%2C4%2C3%2C3%2C2%2C2%2C2%2C1%2C1%2C1%2C1%2C1%5D%2C%22fill%22%3Afalse%2C%22borderColor%22%3A%22%23fbbf24%22%2C%22backgroundColor%22%3A%22%23fbbf24%22%2C%22pointRadius%22%3A3%2C%22pointHoverRadius%22%3A4%2C%22borderWidth%22%3A3%2C%22lineTension%22%3A0.2%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scales%22%3A%7B%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23cbd5e1%22%2C%22maxRotation%22%3A40%2C%22minRotation%22%3A40%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.15%29%22%7D%7D%5D%2C%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A14%2C%22stepSize%22%3A1%2C%22fontColor%22%3A%22%23cbd5e1%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.15%29%22%7D%7D%5D%7D%7D%7D" width="100%" alt="PyTorch zoo line chart"/>
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://img.shields.io/badge/%E2%AC%86%20TensorFlow%20Models-38%20Pretrained-FF6F00?style=for-the-badge&labelColor=0b1220&color=ff7a00"/>
-<img src="https://img.shields.io/badge/%F0%9F%94%A5%20PyTorch%20Models-80%20Pretrained-EE4C2C?style=for-the-badge&labelColor=0b1220&color=ff6b35"/>
-<br/>
-<img src="https://img.shields.io/badge/%F0%9F%90%99%20Total%20Models-118%20Ready-7C3AED?style=for-the-badge&labelColor=0b1220&color=7c3aed"/>
-<img src="https://img.shields.io/badge/Families-30%20Architectures-2DD4BF?style=for-the-badge&labelColor=0b1220&color=2dd4bf"/>
 </div>
 
 <br/>
