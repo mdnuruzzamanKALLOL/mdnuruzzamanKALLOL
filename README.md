@@ -7,7 +7,7 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=mdnuruzzamanKALLOL&label=PROFILE+VIEWS&color=ff4ecd&style=for-the-badge" />
-<img src="https://badgen.net/github/followers/mdnuruzzamanKALLOL" />
+<img src="https://img.shields.io/github/followers/mdnuruzzamanKALLOL?style=for-the-badge&color=06b6d4&label=FOLLOWERS" />
 <img src="https://img.shields.io/badge/Focus-Computer%20Vision%20%26%20Deep%20Learning-7c3aed?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Location-Bangladesh-16a34a?style=for-the-badge" />
 
