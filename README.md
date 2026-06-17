@@ -231,7 +231,7 @@
 
 <br/>
 
-<h2 align="center">🏛️ Classic CNN</h2>
+<h2 align="center">🏛️ Classic CNN Weight Transfer</h2>
 
 <div align="center">
 <table width="100%">
