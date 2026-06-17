@@ -18,13 +18,30 @@
 
 ---
 
-## About Me
+<h2 align="center">🧑‍💻 About Me</h2>
 
-- CSE graduate from **Hajee Mohammad Danesh Science & Technology University (HSTU)**
-- Passionate about **Deep Learning**, **Computer Vision**, and **applied AI engineering**
-- Building models in **TensorFlow** and **PyTorch** with practical, reproducible workflows
-- Exploring architectures like **ViT**, **ConvNeXt**, **EfficientNet**, and **DenseNet**
-- Mission: become a world-class AI/ML engineer through consistent research and shipping
+<div align="center">
+<table>
+<tr>
+<td valign="top" align="center" width="55%">
+
+🎓 **CSE Graduate** from **Hajee Mohammad Danesh Science & Technology University (HSTU)**  
+🔭 Building **Deep Learning models from scratch** — PyTorch & TensorFlow  
+🧠 Researching **Vision Transformers, EfficientNet, ConvNeXt, DenseNet**  
+📚 Passionate about **open-source knowledge sharing**  
+🌱 Always exploring new architectures and research papers  
+🎯 Mission: World-class **AI / ML Engineer**  
+⚡ Fun fact: My ML Book repo has **173+ stars** 🌟  
+🏆 **300+ total stars** across all public repos  
+📧 **[mohammadnuruzzaman.hstu@gmail.com](mailto:mohammadnuruzzaman.hstu@gmail.com)**
+
+</td>
+<td valign="middle" width="45%" align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF"/>
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
