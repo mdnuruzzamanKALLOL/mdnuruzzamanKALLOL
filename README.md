@@ -246,67 +246,67 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Classic-CNN-AlexNet">🧠 <b>AlexNet</b></a></td>
-<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Classic-CNN-AlexNet?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github"/></td>
-<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Classic-CNN-AlexNet?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Classic-CNN-AlexNet?style=for-the-badge&color=ff6b6b&labelColor=B71C1C"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Classic-CNN-AlexNet?style=for-the-badge&color=CE93D8&labelColor=4A148C"/></td>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Classic-CNN-AlexNet-PT2TF">🧠 <b>AlexNet</b></a></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Classic-CNN-AlexNet-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Classic-CNN-AlexNet-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Classic-CNN-AlexNet-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Classic-CNN-AlexNet-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C"/></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Classic-CNN-DenseNet">🔗 <b>DenseNet</b></a></td>
-<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Classic-CNN-DenseNet?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github"/></td>
-<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Classic-CNN-DenseNet?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Classic-CNN-DenseNet?style=for-the-badge&color=ff6b6b&labelColor=B71C1C"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Classic-CNN-DenseNet?style=for-the-badge&color=CE93D8&labelColor=4A148C"/></td>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Classic-CNN-DenseNet-PT2TF">🔗 <b>DenseNet</b></a></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Classic-CNN-DenseNet-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Classic-CNN-DenseNet-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Classic-CNN-DenseNet-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Classic-CNN-DenseNet-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C"/></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Classic-CNN-GoogLeNet">🔍 <b>GoogLeNet</b></a></td>
-<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Classic-CNN-GoogLeNet?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github"/></td>
-<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Classic-CNN-GoogLeNet?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Classic-CNN-GoogLeNet?style=for-the-badge&color=ff6b6b&labelColor=B71C1C"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Classic-CNN-GoogLeNet?style=for-the-badge&color=CE93D8&labelColor=4A148C"/></td>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Classic-CNN-GoogLeNet-PT2TF">🔍 <b>GoogLeNet</b></a></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Classic-CNN-GoogLeNet-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Classic-CNN-GoogLeNet-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Classic-CNN-GoogLeNet-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Classic-CNN-GoogLeNet-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C"/></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Classic-CNN-Inception-V3">🌀 <b>Inception V3</b></a></td>
-<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Classic-CNN-Inception-V3?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github"/></td>
-<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Classic-CNN-Inception-V3?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Classic-CNN-Inception-V3?style=for-the-badge&color=ff6b6b&labelColor=B71C1C"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Classic-CNN-Inception-V3?style=for-the-badge&color=CE93D8&labelColor=4A148C"/></td>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Classic-CNN-Inception-V3-PT2TF">🌀 <b>Inception V3</b></a></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Classic-CNN-Inception-V3-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Classic-CNN-Inception-V3-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Classic-CNN-Inception-V3-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Classic-CNN-Inception-V3-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C"/></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Classic-CNN-ResNet">🏗️ <b>ResNet</b></a></td>
-<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Classic-CNN-ResNet?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github"/></td>
-<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Classic-CNN-ResNet?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Classic-CNN-ResNet?style=for-the-badge&color=ff6b6b&labelColor=B71C1C"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Classic-CNN-ResNet?style=for-the-badge&color=CE93D8&labelColor=4A148C"/></td>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Classic-CNN-ResNet-PT2TF">🏗️ <b>ResNet</b></a></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Classic-CNN-ResNet-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Classic-CNN-ResNet-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Classic-CNN-ResNet-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Classic-CNN-ResNet-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C"/></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Classic-CNN-ResNeXt">🔀 <b>ResNeXt</b></a></td>
-<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Classic-CNN-ResNeXt?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github"/></td>
-<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Classic-CNN-ResNeXt?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Classic-CNN-ResNeXt?style=for-the-badge&color=ff6b6b&labelColor=B71C1C"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Classic-CNN-ResNeXt?style=for-the-badge&color=CE93D8&labelColor=4A148C"/></td>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Classic-CNN-ResNeXt-PT2TF">🔀 <b>ResNeXt</b></a></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Classic-CNN-ResNeXt-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Classic-CNN-ResNeXt-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Classic-CNN-ResNeXt-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Classic-CNN-ResNeXt-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C"/></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Classic-CNN-SqueezeNet">🗜️ <b>SqueezeNet</b></a></td>
-<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Classic-CNN-SqueezeNet?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github"/></td>
-<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Classic-CNN-SqueezeNet?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Classic-CNN-SqueezeNet?style=for-the-badge&color=ff6b6b&labelColor=B71C1C"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Classic-CNN-SqueezeNet?style=for-the-badge&color=CE93D8&labelColor=4A148C"/></td>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Classic-CNN-SqueezeNet-PT2TF">🗜️ <b>SqueezeNet</b></a></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Classic-CNN-SqueezeNet-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Classic-CNN-SqueezeNet-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Classic-CNN-SqueezeNet-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Classic-CNN-SqueezeNet-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C"/></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Classic-CNN-VGG">📚 <b>VGG</b></a></td>
-<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Classic-CNN-VGG?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github"/></td>
-<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Classic-CNN-VGG?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Classic-CNN-VGG?style=for-the-badge&color=ff6b6b&labelColor=B71C1C"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Classic-CNN-VGG?style=for-the-badge&color=CE93D8&labelColor=4A148C"/></td>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Classic-CNN-VGG-PT2TF">📚 <b>VGG</b></a></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Classic-CNN-VGG-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Classic-CNN-VGG-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Classic-CNN-VGG-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Classic-CNN-VGG-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C"/></td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Classic-CNN-Wide-ResNet">📐 <b>Wide ResNet</b></a></td>
-<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Classic-CNN-Wide-ResNet?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github"/></td>
-<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Classic-CNN-Wide-ResNet?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Classic-CNN-Wide-ResNet?style=for-the-badge&color=ff6b6b&labelColor=B71C1C"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Classic-CNN-Wide-ResNet?style=for-the-badge&color=CE93D8&labelColor=4A148C"/></td>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Classic-CNN-Wide-ResNet-PT2TF">📐 <b>Wide ResNet</b></a></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Classic-CNN-Wide-ResNet-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Classic-CNN-Wide-ResNet-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Classic-CNN-Wide-ResNet-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Classic-CNN-Wide-ResNet-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C"/></td>
 </tr>
 </tbody>
 </table>
