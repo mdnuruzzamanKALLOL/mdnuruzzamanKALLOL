@@ -1,15 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6a11cb,30:2575fc,65:ff4ecd,100:ff9a44&text=Hi%20There!%20I%27m%20KALLOL%20%F0%9F%91%8B&fontAlign=50&fontAlignY=36&fontSize=56&desc=Machine%20Learning%20Engineer%20%7C%20Data%20Scientist&descAlign=50&descAlignY=58&fontColor=ffffff&descColor=f8fafc&animation=fadeIn" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2600&pause=900&color=FF6B9D&center=true&vCenter=true&width=980&lines=ASSALAMU+AALAIKUM;I+AM+KALLOL;WELCOME+TO+MY+PROFILE" alt="Typing SVG" />
+<img src="https://user-images.githubusercontent.com/105699438/230198605-4323af24-396a-4676-b2a0-d499fd961d19.svg" width="88%" />
 
 <br/>
 
+<img src="https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=ASSALAMU+AALAIKUM;I+AM+KALLOL;WELCOME+TO+MY+PROFILE;THANK+YOU+EVERYONE" alt="Typing SVG" />
+
+<br/><br/>
+
+<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22" />
 <img src="https://komarev.com/ghpvc/?username=mdnuruzzamanKALLOL&label=PROFILE+VIEWS&color=ff4ecd&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/mdnuruzzamanKALLOL?style=for-the-badge&color=06b6d4&label=FOLLOWERS" />
-<img src="https://img.shields.io/badge/Focus-Computer%20Vision%20%26%20Deep%20Learning-7c3aed?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Location-Bangladesh-16a34a?style=for-the-badge" />
+<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22" />
 
 </div>
 
