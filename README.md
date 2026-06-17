@@ -231,6 +231,10 @@
 </tr>
 </table>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1800&pause=700&color=FF4D6D&center=true&vCenter=true&width=700&height=42&lines=%E2%9D%A4%EF%B8%8F+AI+Heartbeat+%7C+Learn+%E2%86%92+Build+%E2%86%92+Repeat+%E2%9D%A4%EF%B8%8F;%F0%9F%92%93+Always+alive+for+Machine+Learning+%F0%9F%92%93" alt="Heartbeat line" />
+</div>
+
 <br/>
 
 <table width="96%">
