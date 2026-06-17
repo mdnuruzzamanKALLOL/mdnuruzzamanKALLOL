@@ -246,22 +246,24 @@
 
 <br/>
 
-<table width="96%">
-<tr>
-<td align="center" width="33%">
-<h4>📓 Notebooks</h4>
-<sub>Interactive Jupyter walkthrough<br/>architecture · training · eval</sub>
-</td>
-<td align="center" width="33%">
-<h4>🐍 Python Scripts</h4>
-<sub>Build from scratch · train loop<br/>single-image inference</sub>
-</td>
-<td align="center" width="33%">
-<h4>⚖️ Pretrained Weights</h4>
-<sub>Feature extraction (frozen)<br/>fine-tuning (progressive)</sub>
-</td>
-</tr>
+<div align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="220">
+      <h4>📓 Notebooks</h4>
+      <sub>Interactive Jupyter walkthrough<br/>architecture · training · eval</sub>
+    </td>
+    <td align="center" width="220">
+      <h4>🐍 Python Scripts</h4>
+      <sub>Build from scratch · train loop<br/>single-image inference</sub>
+    </td>
+    <td align="center" width="220">
+      <h4>⚖️ Pretrained Weights</h4>
+      <sub>Feature extraction (frozen)<br/>fine-tuning (progressive)</sub>
+    </td>
+  </tr>
 </table>
+</div>
 
 </div>
 
