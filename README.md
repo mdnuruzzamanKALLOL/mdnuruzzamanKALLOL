@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=mdnuruzzamanKALLOL&label=Profile+Views&color=ff6b6b&style=flat-square"/>&nbsp;&nbsp;<img src="https://img.shields.io/github/followers/mdnuruzzamanKALLOL?label=Followers&style=flat-square&color=4ecdc4"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Focus-Computer%20Vision%20%26%20DL-blueviolet?style=flat-square"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Lives-Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9-success?style=flat-square"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Open%20To-Collaborations-orange?style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=mdnuruzzamanKALLOL&label=Profile+Views&color=ff6b6b&style=flat-square"/>&nbsp;&nbsp;<img src="https://badgen.net/github/followers/mdnuruzzamanKALLOL"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Focus-Computer%20Vision%20%26%20DL-blueviolet?style=flat-square"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Lives-Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9-success?style=flat-square"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Open%20To-Collaborations-orange?style=flat-square"/>
 
 </div>
 
@@ -204,11 +204,11 @@
 
 | Repository | ⭐ Stars | 🍴 Forks | 🔴 Issues | 🟣 Pull Requests |
 |:---:|:---:|:---:|:---:|:---:|
-| [📚 **Machine Learning Book Collections**](https://github.com/mdnuruzzamanKALLOL/Machine-Learning-Book-Collections) | ![](https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Machine-Learning-Book-Collections?style=for-the-badge&color=ffd700&labelColor=161b22&logo=github) | ![](https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Machine-Learning-Book-Collections?style=for-the-badge&color=4ecdc4&labelColor=161b22&logo=github) | ![](https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Machine-Learning-Book-Collections?style=for-the-badge&color=ff6b6b&labelColor=161b22) | ![](https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Machine-Learning-Book-Collections?style=for-the-badge&color=a78bfa&labelColor=161b22) |
-| [📊 **Data Science Book Collections**](https://github.com/mdnuruzzamanKALLOL/Data-Science-Book-Collections) | ![](https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Data-Science-Book-Collections?style=for-the-badge&color=ffd700&labelColor=161b22&logo=github) | ![](https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Data-Science-Book-Collections?style=for-the-badge&color=4ecdc4&labelColor=161b22&logo=github) | ![](https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Data-Science-Book-Collections?style=for-the-badge&color=ff6b6b&labelColor=161b22) | ![](https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Data-Science-Book-Collections?style=for-the-badge&color=a78bfa&labelColor=161b22) |
-| [📋 **Cheat Sheet**](https://github.com/mdnuruzzamanKALLOL/Cheat-Sheet) | ![](https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Cheat-Sheet?style=for-the-badge&color=ffd700&labelColor=161b22&logo=github) | ![](https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Cheat-Sheet?style=for-the-badge&color=4ecdc4&labelColor=161b22&logo=github) | ![](https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Cheat-Sheet?style=for-the-badge&color=ff6b6b&labelColor=161b22) | ![](https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Cheat-Sheet?style=for-the-badge&color=a78bfa&labelColor=161b22) |
-| [🤖 **AI Cheat Sheet**](https://github.com/mdnuruzzamanKALLOL/AI-Cheat-Sheet) | ![](https://img.shields.io/github/stars/mdnuruzzamanKALLOL/AI-Cheat-Sheet?style=for-the-badge&color=ffd700&labelColor=161b22&logo=github) | ![](https://img.shields.io/github/forks/mdnuruzzamanKALLOL/AI-Cheat-Sheet?style=for-the-badge&color=4ecdc4&labelColor=161b22&logo=github) | ![](https://img.shields.io/github/issues/mdnuruzzamanKALLOL/AI-Cheat-Sheet?style=for-the-badge&color=ff6b6b&labelColor=161b22) | ![](https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/AI-Cheat-Sheet?style=for-the-badge&color=a78bfa&labelColor=161b22) |
-| [📄 **AI Important Documents**](https://github.com/mdnuruzzamanKALLOL/AI-Importand-Document) | ![](https://img.shields.io/github/stars/mdnuruzzamanKALLOL/AI-Importand-Document?style=for-the-badge&color=ffd700&labelColor=161b22&logo=github) | ![](https://img.shields.io/github/forks/mdnuruzzamanKALLOL/AI-Importand-Document?style=for-the-badge&color=4ecdc4&labelColor=161b22&logo=github) | ![](https://img.shields.io/github/issues/mdnuruzzamanKALLOL/AI-Importand-Document?style=for-the-badge&color=ff6b6b&labelColor=161b22) | ![](https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/AI-Importand-Document?style=for-the-badge&color=a78bfa&labelColor=161b22) |
+| [📚 **Machine Learning Book Collections**](https://github.com/mdnuruzzamanKALLOL/Machine-Learning-Book-Collections) | ![](https://badgen.net/github/stars/mdnuruzzamanKALLOL/Machine-Learning-Book-Collections) | ![](https://badgen.net/github/forks/mdnuruzzamanKALLOL/Machine-Learning-Book-Collections) | ![](https://badgen.net/github/open-issues/mdnuruzzamanKALLOL/Machine-Learning-Book-Collections) | ![](https://badgen.net/github/open-prs/mdnuruzzamanKALLOL/Machine-Learning-Book-Collections) |
+| [📊 **Data Science Book Collections**](https://github.com/mdnuruzzamanKALLOL/Data-Science-Book-Collections) | ![](https://badgen.net/github/stars/mdnuruzzamanKALLOL/Data-Science-Book-Collections) | ![](https://badgen.net/github/forks/mdnuruzzamanKALLOL/Data-Science-Book-Collections) | ![](https://badgen.net/github/open-issues/mdnuruzzamanKALLOL/Data-Science-Book-Collections) | ![](https://badgen.net/github/open-prs/mdnuruzzamanKALLOL/Data-Science-Book-Collections) |
+| [📋 **Cheat Sheet**](https://github.com/mdnuruzzamanKALLOL/Cheat-Sheet) | ![](https://badgen.net/github/stars/mdnuruzzamanKALLOL/Cheat-Sheet) | ![](https://badgen.net/github/forks/mdnuruzzamanKALLOL/Cheat-Sheet) | ![](https://badgen.net/github/open-issues/mdnuruzzamanKALLOL/Cheat-Sheet) | ![](https://badgen.net/github/open-prs/mdnuruzzamanKALLOL/Cheat-Sheet) |
+| [🤖 **AI Cheat Sheet**](https://github.com/mdnuruzzamanKALLOL/AI-Cheat-Sheet) | ![](https://badgen.net/github/stars/mdnuruzzamanKALLOL/AI-Cheat-Sheet) | ![](https://badgen.net/github/forks/mdnuruzzamanKALLOL/AI-Cheat-Sheet) | ![](https://badgen.net/github/open-issues/mdnuruzzamanKALLOL/AI-Cheat-Sheet) | ![](https://badgen.net/github/open-prs/mdnuruzzamanKALLOL/AI-Cheat-Sheet) |
+| [📄 **AI Important Documents**](https://github.com/mdnuruzzamanKALLOL/AI-Importand-Document) | ![](https://badgen.net/github/stars/mdnuruzzamanKALLOL/AI-Importand-Document) | ![](https://badgen.net/github/forks/mdnuruzzamanKALLOL/AI-Importand-Document) | ![](https://badgen.net/github/open-issues/mdnuruzzamanKALLOL/AI-Importand-Document) | ![](https://badgen.net/github/open-prs/mdnuruzzamanKALLOL/AI-Importand-Document) |
 
 </div>
 
@@ -276,17 +276,17 @@
 <tbody>
 <tr>
 <td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/TensorFlow-Pretrained-Model-Zoo">🧠 <b>TensorFlow Model Zoo</b></a></td>
-<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/TensorFlow-Pretrained-Model-Zoo?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github"/></td>
-<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/TensorFlow-Pretrained-Model-Zoo?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/TensorFlow-Pretrained-Model-Zoo?style=for-the-badge&color=ff6b6b&labelColor=B71C1C"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/TensorFlow-Pretrained-Model-Zoo?style=for-the-badge&color=CE93D8&labelColor=4A148C"/></td>
+<td align="center"><img src="https://badgen.net/github/stars/mdnuruzzamanKALLOL/TensorFlow-Pretrained-Model-Zoo"/></td>
+<td align="center"><img src="https://badgen.net/github/forks/mdnuruzzamanKALLOL/TensorFlow-Pretrained-Model-Zoo"/></td>
+<td align="center"><img src="https://badgen.net/github/open-issues/mdnuruzzamanKALLOL/TensorFlow-Pretrained-Model-Zoo"/></td>
+<td align="center"><img src="https://badgen.net/github/open-prs/mdnuruzzamanKALLOL/TensorFlow-Pretrained-Model-Zoo"/></td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/PyTorch-Pretrained-Model-Zoo">🔥 <b>PyTorch Model Zoo</b></a></td>
-<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/PyTorch-Pretrained-Model-Zoo?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github"/></td>
-<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/PyTorch-Pretrained-Model-Zoo?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/PyTorch-Pretrained-Model-Zoo?style=for-the-badge&color=ff6b6b&labelColor=B71C1C"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/PyTorch-Pretrained-Model-Zoo?style=for-the-badge&color=CE93D8&labelColor=4A148C"/></td>
+<td align="center"><img src="https://badgen.net/github/stars/mdnuruzzamanKALLOL/PyTorch-Pretrained-Model-Zoo"/></td>
+<td align="center"><img src="https://badgen.net/github/forks/mdnuruzzamanKALLOL/PyTorch-Pretrained-Model-Zoo"/></td>
+<td align="center"><img src="https://badgen.net/github/open-issues/mdnuruzzamanKALLOL/PyTorch-Pretrained-Model-Zoo"/></td>
+<td align="center"><img src="https://badgen.net/github/open-prs/mdnuruzzamanKALLOL/PyTorch-Pretrained-Model-Zoo"/></td>
 </tr>
 </tbody>
 </table>
