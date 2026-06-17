@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1&pause=100000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer+%F0%9F%9A%80" alt="Machine Learning Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer+%F0%9F%9A%80;Deep+Learning+Researcher+%F0%9F%A7%A0;Computer+Vision+Specialist+%F0%9F%8C%90;TensorFlow+%26+PyTorch+Expert+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/><br/>
 
