@@ -221,6 +221,14 @@
 </tr>
 </table>
 
+<div align="center">
+<img src="https://img.shields.io/badge/%E2%AC%86%20TensorFlow%20Models-38%20Pretrained-FF6F00?style=for-the-badge&labelColor=0b1220&color=ff7a00"/>
+<img src="https://img.shields.io/badge/%F0%9F%94%A5%20PyTorch%20Models-80%20Pretrained-EE4C2C?style=for-the-badge&labelColor=0b1220&color=ff6b35"/>
+<br/>
+<img src="https://img.shields.io/badge/%F0%9F%90%99%20Total%20Models-118%20Ready-7C3AED?style=for-the-badge&labelColor=0b1220&color=7c3aed"/>
+<img src="https://img.shields.io/badge/Families-30%20Architectures-2DD4BF?style=for-the-badge&labelColor=0b1220&color=2dd4bf"/>
+</div>
+
 <br/>
 
 <table width="96%">
