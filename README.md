@@ -223,17 +223,15 @@
 <table width="96%">
 <tr>
 <td align="center" width="50%">
+<h4>⚡ TensorFlow Zoo — 10 Families</h4>
 <img src="https://quickchart.io/chart?width=780&height=500&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22horizontalBar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22EfficientNet%22%2C%22EfficientNetV2%22%2C%22ResNet%22%2C%22ConvNeXt%22%2C%22DenseNet%22%2C%22Inception%22%2C%22MobileNet%22%2C%22NASNet%22%2C%22VGG%22%2C%22Xception%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B8%2C7%2C6%2C5%2C3%2C2%2C2%2C2%2C2%2C1%5D%2C%22backgroundColor%22%3A%5B%22%23ff7a00%22%2C%22%23f59e0b%22%2C%22%23ff5f6d%22%2C%22%23fb7185%22%2C%22%23d946ef%22%2C%22%238b5cf6%22%2C%22%2322d3ee%22%2C%22%23fbbf24%22%2C%22%23a78bfa%22%2C%22%23fb7185%22%5D%2C%22borderWidth%22%3A0%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22%5Cu26a1%20TensorFlow%20Zoo%20%5Cu2014%2010%20Families%22%2C%22fontColor%22%3A%22%23f8fafc%22%2C%22fontSize%22%3A20%7D%2C%22scales%22%3A%7B%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A8%2C%22fontColor%22%3A%22%23cbd5e1%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.2%29%22%7D%7D%5D%2C%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23e5e7eb%22%7D%2C%22gridLines%22%3A%7B%22display%22%3Afalse%7D%7D%5D%7D%2C%22layout%22%3A%7B%22padding%22%3A%7B%22left%22%3A8%2C%22right%22%3A8%2C%22top%22%3A8%2C%22bottom%22%3A8%7D%7D%7D%7D" width="100%" alt="TensorFlow zoo chart"/>
 </td>
 <td align="center" width="50%">
+<h4>🔥 PyTorch Zoo — 20 Families</h4>
 <img src="https://quickchart.io/chart?width=780&height=640&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22horizontalBar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22RegNet%22%2C%22EfficientNet%22%2C%22VGG%22%2C%22Swin%20Transformer%22%2C%22Vision%20Transformer%22%2C%22ResNet%22%2C%22ConvNeXt%22%2C%22DenseNet%22%2C%22ShuffleNet%20V2%22%2C%22MNASNet%22%2C%22EfficientNetV2%22%2C%22ResNeXt%22%2C%22Wide%20ResNet%22%2C%22MobileNet%20V3%22%2C%22SqueezeNet%22%2C%22MobileNet%20V2%22%2C%22Inception%20V3%22%2C%22GoogLeNet%22%2C%22MaxViT%22%2C%22AlexNet%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B14%2C8%2C8%2C6%2C5%2C5%2C4%2C4%2C4%2C4%2C3%2C3%2C2%2C2%2C2%2C1%2C1%2C1%2C1%2C1%5D%2C%22backgroundColor%22%3A%5B%22%23fbbf24%22%2C%22%23ff7a00%22%2C%22%2322d3ee%22%2C%22%237c3aed%22%2C%22%23a78bfa%22%2C%22%23ef4444%22%2C%22%23fb7185%22%2C%22%23d946ef%22%2C%22%2334d399%22%2C%22%23facc15%22%2C%22%23f59e0b%22%2C%22%23fb7185%22%2C%22%23f87171%22%2C%22%2322d3ee%22%2C%22%2394a3b8%22%2C%22%2338bdf8%22%2C%22%23f97316%22%2C%22%23fb923c%22%2C%22%238b5cf6%22%2C%22%2364748b%22%5D%2C%22borderWidth%22%3A0%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22%5Cud83d%5Cudd25%20PyTorch%20Zoo%20%5Cu2014%2020%20Families%22%2C%22fontColor%22%3A%22%23f8fafc%22%2C%22fontSize%22%3A20%7D%2C%22scales%22%3A%7B%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A14%2C%22fontColor%22%3A%22%23cbd5e1%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.2%29%22%7D%7D%5D%2C%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23e5e7eb%22%7D%2C%22gridLines%22%3A%7B%22display%22%3Afalse%7D%7D%5D%7D%2C%22layout%22%3A%7B%22padding%22%3A%7B%22left%22%3A8%2C%22right%22%3A8%2C%22top%22%3A8%2C%22bottom%22%3A8%7D%7D%7D%7D" width="100%" alt="PyTorch zoo chart"/>
 </td>
 </tr>
 </table>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1800&pause=700&color=FF4D6D&center=true&vCenter=true&width=700&height=42&lines=%E2%9D%A4%EF%B8%8F+AI+Heartbeat+%7C+Learn+%E2%86%92+Build+%E2%86%92+Repeat+%E2%9D%A4%EF%B8%8F;%F0%9F%92%93+Always+alive+for+Machine+Learning+%F0%9F%92%93" alt="Heartbeat line" />
-</div>
 
 <br/>
 
