@@ -274,21 +274,17 @@
 
 <table width="96%">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <h4>📓 Notebooks</h4>
 <sub>Interactive Jupyter walkthrough<br/>architecture · training · eval</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <h4>🐍 Python Scripts</h4>
 <sub>Build from scratch · train loop<br/>single-image inference</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <h4>⚖️ Pretrained Weights</h4>
 <sub>Feature extraction (frozen)<br/>fine-tuning (progressive)</sub>
-</td>
-<td align="center" width="25%">
-<h4>📖 SEO README</h4>
-<sub>Architecture · accuracy · BibTeX<br/>use-cases · quick start</sub>
 </td>
 </tr>
 </table>
