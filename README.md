@@ -208,18 +208,6 @@
 
 <br/>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/TensorFlow%20Models-38%20Pretrained-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a0a00"/>
-&nbsp;
-<img src="https://img.shields.io/badge/PyTorch%20Models-80%20Pretrained-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=1a0000"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Total%20Models-118%20Ready-7b2ff7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Families-30%20Architectures-4ecdc4?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
-
-<br/><br/>
-
 <table width="96%">
 <tr>
 <td align="center" width="50%">
