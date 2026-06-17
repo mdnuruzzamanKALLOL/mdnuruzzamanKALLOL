@@ -4,13 +4,11 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=ASSALAMU+AALAIKUM;I+AM+KALLOL;WELCOME+TO+MY+PROFILE;THANK+YOU+EVERYONE" alt="Typing SVG" />
-
-<br/><br/>
-
-<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22" />
-<img src="https://komarev.com/ghpvc/?username=mdnuruzzamanKALLOL&label=PROFILE+VIEWS&color=ff4ecd&style=for-the-badge" />
-<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22" />
+<img src="https://komarev.com/ghpvc/?username=mdnuruzzamanKALLOL&label=Profile%20Views&color=ff6b6b&style=flat-square" />
+<img src="https://img.shields.io/github/followers/mdnuruzzamanKALLOL?label=Followers&style=flat-square&color=4ecdc4" />
+<img src="https://img.shields.io/badge/Focus-Computer%20Vision%20%26%20DL-blueviolet?style=flat-square" />
+<img src="https://img.shields.io/badge/Lives-Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9-success?style=flat-square" />
+<img src="https://img.shields.io/badge/Open%20To-Collaborations-orange?style=flat-square" />
 
 </div>
 
