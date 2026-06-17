@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6a11cb,30:2575fc,65:ff4ecd,100:ff9a44&text=mdNURUZZAMAN&fontAlign=50&fontAlignY=36&fontSize=62&desc=AI%20Engineer%20%7C%20Computer%20Vision%20Researcher%20%7C%20Open%20Source&descAlign=50&descAlignY=58&fontColor=ffffff&descColor=f8fafc&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6a11cb,30:2575fc,65:ff4ecd,100:ff9a44&text=I%20AM%20MD.%20NURUZZAMAN&fontAlign=50&fontAlignY=36&fontSize=56&desc=Machine%20Learning%20Engineer%20%7C%20Data%20Scientist&descAlign=50&descAlignY=58&fontColor=ffffff&descColor=f8fafc&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2600&pause=900&color=FF6B9D&center=true&vCenter=true&width=980&lines=Building+deep+learning+systems+from+scratch+%F0%9F%A7%A0;Researching+modern+vision+architectures+%F0%9F%94%AC;Turning+ideas+into+real+AI+products+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2600&pause=900&color=FF6B9D&center=true&vCenter=true&width=980&lines=ASSALAMU+AALAIKUM;I+AM+MD.+NURUZZAMAN;WELCOME+TO+MY+PROFILE" alt="Typing SVG" />
 
 <br/>
 
