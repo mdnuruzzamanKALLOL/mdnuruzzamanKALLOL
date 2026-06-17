@@ -208,7 +208,7 @@
 
 <br/>
 
-<table width="96%" align="center" style="margin: 0 auto;">
+<table width="62%" align="center" style="margin: 0 auto;">
 <tr>
 <td align="center" width="50%">
 <h4>⚡ TensorFlow Zoo — 10 Families</h4>
