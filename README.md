@@ -220,55 +220,25 @@
 
 <br/><br/>
 
-<table width="96%">
-<tr>
+<h4 align="center">⚡ TensorFlow Zoo &mdash; 10 Families</h4>
 
-<td valign="top" width="50%" align="center">
+```mermaid
+xychart-beta
+    title "TensorFlow Variant Count"
+    x-axis ["EfficientNet","EfficientNetV2","ResNet","ConvNeXt","DenseNet","Inception","MobileNet","NASNet","VGG","Xception"]
+    y-axis "Variants" 0 --> 8
+    bar [8,7,6,5,3,2,2,2,2,1]
+```
 
-<h4>⚡ TensorFlow Zoo &mdash; 10 Families</h4>
+<h4 align="center">🔥 PyTorch Zoo &mdash; 20 Families</h4>
 
-<img src="https://img.shields.io/badge/ConvNeXt-5%20variants-FF6F00?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/EfficientNet-8%20variants-FF8C00?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/EfficientNetV2-7%20variants-FFA040?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/ResNet-6%20variants-ff6b6b?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/DenseNet-3%20variants-f107a3?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/Inception-2%20variants-7b2ff7?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/MobileNet-2%20variants-4ecdc4?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/NASNet-2%20variants-fcb045?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/VGG-2%20variants-a78bfa?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/Xception-1%20variant-f43f5e?style=flat-square&labelColor=161b22"/>
-
-</td>
-
-<td valign="top" width="50%" align="center">
-
-<h4>🔥 PyTorch Zoo &mdash; 20 Families</h4>
-
-<img src="https://img.shields.io/badge/ResNet-5%20variants-EE4C2C?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/ConvNeXt-4%20variants-FF6B35?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/EfficientNet-8%20variants-FF8C00?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/EfficientNetV2-3%20variants-FFA040?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/Swin%20Transformer-6%20variants-7b2ff7?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/Vision%20Transformer-5%20variants-a78bfa?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/VGG-8%20variants-4ecdc4?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/DenseNet-4%20variants-f107a3?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/RegNet-14%20variants-fcb045?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/ResNeXt-3%20variants-ff6b6b?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/MobileNet%20V2-1%20variant-4ecdc4?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/MobileNet%20V3-2%20variants-22d3ee?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/Wide%20ResNet-2%20variants-f43f5e?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/ShuffleNet%20V2-4%20variants-34d399?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/MNASNet-4%20variants-fbbf24?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/MaxViT-1%20variant-7b2ff7?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/Inception%20V3-1%20variant-FF6F00?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/GoogLeNet-1%20variant-fb923c?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/SqueezeNet-2%20variants-94a3b8?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/AlexNet-1%20variant-64748b?style=flat-square&labelColor=161b22"/>
-
-</td>
-
-</tr>
-</table>
+```mermaid
+xychart-beta
+    title "PyTorch Variant Count"
+    x-axis ["RegNet","EfficientNet","VGG","SwinTransformer","VisionTransformer","ResNet","ConvNeXt","DenseNet","ShuffleNetV2","MNASNet","EfficientNetV2","ResNeXt","WideResNet","MobileNetV3","SqueezeNet","MobileNetV2","InceptionV3","GoogLeNet","MaxViT","AlexNet"]
+    y-axis "Variants" 0 --> 14
+    bar [14,8,8,6,5,5,4,4,4,4,3,3,2,2,2,1,1,1,1,1]
+```
 
 <br/>
 
