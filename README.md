@@ -248,7 +248,7 @@
 
 <div align="center">
 <table align="center">
-  <tr style="display:inline-block; margin-bottom: 6px;">
+  <tr margin-bottom: 10px;">
     <td align="center" width="220" style="padding-bottom: 14px;">
       <h4>📓 Notebooks</h4>
       <sub style="display:inline-block; margin-bottom: 6px;">Interactive Jupyter walkthrough<br/>architecture · training · eval</sub>
