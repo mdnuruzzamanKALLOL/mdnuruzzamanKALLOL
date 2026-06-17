@@ -97,106 +97,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-<h2 align="center">🎯 Core Expertise</h2>
+<h2 align="center">🎯 Signature Expertise</h2>
 
 <div align="center">
 
-<!-- ── summary row ───────────────────────────────────────── -->
-<table width="90%">
-<tr>
-<td valign="top" width="62%">
-<h3>&#x1F9E0; AI Research &middot; Deep Learning &middot; Computer Vision</h3>
-<p>
-&#x26A1; <b>Frameworks:</b> Expert-level TensorFlow 2.x &amp; PyTorch — custom loops, raw tensor operations, edge deployment<br/>
-&#x2699;&#xFE0F; <b>Model Engineering:</b> Framework translation, INT8/FP16 quantization &amp; novel architecture design<br/>
-&#x1F4DD; <b>Research:</b> IEEE &amp; arXiv paper authoring, CVPR / NeurIPS / ICCV paper reproduction<br/>
-&#x1F52C; <b>Domains:</b> Low-Light Enhancement &bull; Agricultural AI &bull; Medical Imaging &bull; Spacecraft &bull; NASA Space Data
-</p>
-<p>
-<img src="https://img.shields.io/badge/Builds%20From-Scratch%20%F0%9F%94%A5-7b2ff7?style=for-the-badge&amp;labelColor=161b22"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Research-Driven%20%F0%9F%A7%A0-ff6b6b?style=for-the-badge&amp;labelColor=161b22"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Papers-Published%20%F0%9F%93%84-4ecdc4?style=for-the-badge&amp;labelColor=161b22"/>
-</p>
-</td>
-<td valign="middle" width="38%" align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260" alt="AI GIF"/>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ── 3 × 2 domain cards ────────────────────────────────── -->
-<table width="94%">
-<tr>
-
-<td valign="top" width="33%" align="center">
-<h4>&#x26A1; TensorFlow Mastery</h4>
-<p align="left">
-&bull; Custom loops &bull; @tf.function<br/>
-&bull; TF Serving &bull; SavedModel<br/>
-&bull; TFLite &bull; Mixed Precision<br/>
-&bull; tf.data &bull; Keras subclassing
-</p>
-</td>
-
-<td valign="top" width="33%" align="center">
-<h4>&#x1F525; PyTorch Powerhouse</h4>
-<p align="left">
-&bull; Autograd &bull; TorchScript &bull; JIT<br/>
-&bull; DistributedDataParallel &bull; AMP<br/>
-&bull; W&amp;B tracking &bull; PyTorch Hub<br/>
-&bull; Custom datasets &bull; DataLoaders
-</p>
-</td>
-
-<td valign="top" width="33%" align="center">
-<h4>&#x2699;&#xFE0F; Model Engineering</h4>
-<p align="left">
-&bull; Layer-by-layer weight transfer<br/>
-&bull; TensorRT &bull; TFLite &bull; CoreML<br/>
-&bull; INT8 &bull; FP16 &bull; Quantization<br/>
-&bull; Novel CNN + Transformer design
-</p>
-</td>
-
-</tr>
-<tr>
-
-<td valign="top" width="33%" align="center">
-<h4>&#x1F4DD; Research &amp; Publications</h4>
-<p align="left">
-&bull; IEEE &bull; arXiv paper writing<br/>
-&bull; LaTeX &bull; Overleaf &bull; BibTeX<br/>
-&bull; CVPR / NeurIPS / ICCV repro.<br/>
-&bull; Ablation &bull; metric matching
-</p>
-</td>
-
-<td valign="top" width="33%" align="center">
-<h4>&#x1F319; Image Restoration</h4>
-<p align="left">
-&bull; Zero-DCE &bull; RetinexNet &bull; LLFlow<br/>
-&bull; LIME &bull; Noise Estimation<br/>
-&bull; SSIM &bull; PSNR &bull; LPIPS &bull; BRISQUE<br/>
-&bull; X-ray &bull; MRI &bull; DICOM &bull; MONAI
-</p>
-</td>
-
-<td valign="top" width="33%" align="center">
-<h4>&#x1F680; Space &amp; Scientific AI</h4>
-<p align="left">
-&bull; SAR &bull; Super-Resolution &bull; NDWI<br/>
-&bull; Change Detection &bull; Pansharpen<br/>
-&bull; FITS &bull; Exoplanet Transit AI<br/>
-&bull; Astropy &bull; Lightkurve &bull; GDAL
-</p>
-</td>
-
-</tr>
-</table>
+| Area | Strength |
+|---|---|
+| Model Development | Training pipelines, custom layers, evaluation, optimization |
+| Framework Depth | TensorFlow 2.x, PyTorch, Keras, Scikit-Learn |
+| Research Workflow | Paper reproduction, ablations, benchmark-driven iteration |
+| Domain Work | Low-light enhancement, medical imaging, scientific vision tasks |
 
 </div>
 
