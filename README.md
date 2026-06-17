@@ -241,6 +241,8 @@
 <img src="https://img.shields.io/badge/Families-30%20Architectures-2DD4BF?style=for-the-badge&labelColor=0b1220&color=2dd4bf"/>
 </div>
 
+<br/><br/>
+
 <table width="96%">
 <tr>
 <td align="center" width="50%">
