@@ -266,10 +266,10 @@
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Classic-CNN-GoogLeNet-PT2TF">🔍 <b>GoogLeNet</b></a></td>
-<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Classic-CNN-GoogLeNet-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github"/></td>
-<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Classic-CNN-GoogLeNet-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Classic-CNN-GoogLeNet-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Classic-CNN-GoogLeNet-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C"/></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Classic-CNN-GoogLeNet-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Classic-CNN-GoogLeNet-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Classic-CNN-GoogLeNet-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Classic-CNN-GoogLeNet-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Classic-CNN-Inception-V3-PT2TF">🌀 <b>Inception V3</b></a></td>
