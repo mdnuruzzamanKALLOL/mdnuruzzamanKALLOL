@@ -338,7 +338,7 @@
 
 <br/>
 
-<h2 align="center">🧩 Modern CNN</h2>
+<h2 align="center">🧩 Modern CNN Weight Transfer</h2>
 
 <div align="center">
 <table align="center">
