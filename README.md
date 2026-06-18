@@ -544,10 +544,10 @@
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Vision-Transformer-ViT-DINO-PT2TF">🦖 <b>DINO</b></a></td>
-<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Vision-Transformer-ViT-DINO-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github&cacheSeconds=86400"/></td>
-<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Vision-Transformer-ViT-DINO-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github&cacheSeconds=86400"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Vision-Transformer-ViT-DINO-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Vision-Transformer-ViT-DINO-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Vision-Transformer-ViT-DINO-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github&cacheSeconds=86400&v=2"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Vision-Transformer-ViT-DINO-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github&cacheSeconds=86400&v=2"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Vision-Transformer-ViT-DINO-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400&v=2"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Vision-Transformer-ViT-DINO-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400&v=2"/></td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Vision-Transformer-ViT-DeiT-PT2TF">🎓 <b>DeiT</b></a></td>
@@ -574,8 +574,8 @@
 <table width="78%" align="center">
 <tr>
 <td align="center" width="50%">
-<h4>🧿 Vision Transformer ViT Zoo — 5 Families (Bar View)</h4>
-<img src="https://quickchart.io/chart?width=480&height=340&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22DeiT%22%2C%22DINO%22%2C%22ViT%20%28Base%29%22%2C%22EVA%22%2C%22BEiT%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B9%2C5%2C5%2C4%2C3%5D%2C%22backgroundColor%22%3A%5B%22%237b2ff7%22%2C%22%23f107a3%22%2C%22%23ff6b6b%22%2C%22%23fcb045%22%2C%22%234ecdc4%22%5D%2C%22borderWidth%22%3A0%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scales%22%3A%7B%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23e5e7eb%22%7D%2C%22gridLines%22%3A%7B%22display%22%3Afalse%7D%7D%5D%2C%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A9%2C%22stepSize%22%3A1%2C%22fontColor%22%3A%22%23cbd5e1%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.2%29%22%7D%7D%5D%7D%7D%7D" width="100%" alt="Vision Transformer ViT zoo bar chart"/>
+<h4>🧿 Vision Transformer ViT Zoo — 5 Families (Radar View)</h4>
+<img src="https://quickchart.io/chart?width=480&height=380&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22DeiT%22%2C%22DINO%22%2C%22ViT%20%28Base%29%22%2C%22EVA%22%2C%22BEiT%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Variants%22%2C%22data%22%3A%5B9%2C5%2C5%2C4%2C3%5D%2C%22backgroundColor%22%3A%22rgba%28123%2C47%2C247%2C0.35%29%22%2C%22borderColor%22%3A%22%237b2ff7%22%2C%22pointBackgroundColor%22%3A%22%23f107a3%22%2C%22pointBorderColor%22%3A%22%23ffffff%22%2C%22borderWidth%22%3A2%2C%22pointRadius%22%3A5%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scale%22%3A%7B%22angleLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.3%29%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.25%29%22%7D%2C%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A9%2C%22stepSize%22%3A3%2C%22fontColor%22%3A%22%23cbd5e1%22%2C%22backdropColor%22%3A%22transparent%22%7D%2C%22pointLabels%22%3A%7B%22fontColor%22%3A%22%23e5e7eb%22%2C%22fontSize%22%3A12%7D%7D%7D%7D" width="100%" alt="Vision Transformer ViT zoo radar chart"/>
 </td>
 <td align="center" width="50%">
 <h4>🧿 Vision Transformer ViT Zoo — Variant Share (Doughnut View)</h4>
