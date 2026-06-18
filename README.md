@@ -305,7 +305,7 @@
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Classic-CNN-GoogLeNet-PT2TF">🔍 <b>GoogLeNet</b></a></td>
-<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Classic-CNN-GoogLeNet-PT2TF?style=for-the-badge&label=&color=ffd700&labelColor=E65100&cacheSeconds=300&_bust=gnet7"/></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Classic-CNN-GoogLeNet-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=86400&_bust=gnet8"/></td>
 <td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Classic-CNN-GoogLeNet-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&cacheSeconds=86400"/></td>
 <td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Classic-CNN-GoogLeNet-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
 <td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Classic-CNN-GoogLeNet-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
@@ -553,7 +553,7 @@
 
 <br/>
 
-<h2 align="center">🧿 Vision Transformer ViT Weight Transfer</h2>
+<h2 align="center">🧿 Vision Transformer (ViT) Weight Transfer</h2>
 
 <div align="center">
 <table align="center">
@@ -569,7 +569,7 @@
 <tbody>
 <tr>
 <td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Vision-Transformer-ViT-PT2TF">👁️ <b>Vision Transformer (ViT)</b></a></td>
-<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Vision-Transformer-ViT-PT2TF?style=for-the-badge&label=&color=ffd700&labelColor=E65100&cacheSeconds=300&_bust=vit7"/></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Vision-Transformer-ViT-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=86400&_bust=vit8"/></td>
 <td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Vision-Transformer-ViT-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&cacheSeconds=86400"/></td>
 <td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Vision-Transformer-ViT-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
 <td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Vision-Transformer-ViT-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
@@ -590,7 +590,7 @@
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Vision-Transformer-ViT-DeiT-PT2TF">🎓 <b>DeiT</b></a></td>
-<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Vision-Transformer-ViT-DeiT-PT2TF?style=for-the-badge&label=&color=ffd700&labelColor=E65100&cacheSeconds=300&_bust=deit7"/></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Vision-Transformer-ViT-DeiT-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=86400&_bust=deit8"/></td>
 <td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Vision-Transformer-ViT-DeiT-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&cacheSeconds=86400"/></td>
 <td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Vision-Transformer-ViT-DeiT-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
 <td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Vision-Transformer-ViT-DeiT-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
