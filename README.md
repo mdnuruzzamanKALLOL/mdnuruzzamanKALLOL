@@ -23,7 +23,8 @@
 <h2 align="center">🧑‍💻 About Me</h2>
 
 <div align="center">
-<table>
+
+<table align="center">
 <tr>
 <td valign="top" align="center" width="55%">
 
@@ -52,7 +53,7 @@
 
 <!-- WEEKLY:START -->
 <div align="center">
-<table width="90%">
+<table align="center" width="90%">
 <tr>
 <td valign="top" width="60%">
 <h3>&#x26A1; TensorFlow Deep Dive</h3>
@@ -177,7 +178,7 @@
 <h2 align="center">🦁 Pretrained Model Zoo</h2>
 
 <div align="center">
-<table width="100%">
+<table align="center">
 <thead>
 <tr>
 <th width="35%" align="center">Repository</th>
@@ -208,6 +209,8 @@
 
 <br/>
 
+<div align="center">
+
 <table align="center">
 <tr>
 <td align="center" width="50%">
@@ -220,6 +223,8 @@
 </td>
 </tr>
 </table>
+
+</div>
 
 <div align="center">
 <img src="https://img.shields.io/badge/%E2%AC%86%20TensorFlow%20Models-38%20Pretrained-FF6F00?style=for-the-badge&labelColor=0b1220&color=ff7a00"/>
@@ -234,7 +239,7 @@
 <h2 align="center">🏛️ Classic CNN Weight Transfer</h2>
 
 <div align="center">
-<table width="100%">
+<table align="center">
 <thead>
 <tr>
 <th width="35%" align="center">Repository</th>
@@ -314,6 +319,8 @@
 
 <br/>
 
+<div align="center">
+
 <table width="62%" align="center">
 <tr>
 <td align="center" width="50%">
@@ -326,6 +333,8 @@
 </td>
 </tr>
 </table>
+
+</div>
 
 <br/>
 
@@ -453,6 +462,8 @@ const KALLOL = {
 
 <br/>
 
+<div align="center">
+
 <table align="center">
 <tr>
 <td align="center" width="33%">
@@ -472,6 +483,8 @@ const KALLOL = {
 </td>
 </tr>
 </table>
+
+</div>
 
 <br/>
 
