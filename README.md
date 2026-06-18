@@ -395,11 +395,15 @@
 
 <div align="center">
 
-<table width="45%" align="center">
+<table width="78%" align="center">
 <tr>
-<td align="center" width="100%">
+<td align="center" width="50%">
 <h4>🧩 Modern CNN Zoo — 5 Families (Bar View)</h4>
 <img src="https://quickchart.io/chart?width=480&height=320&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22RepVGG%22%2C%22ConvNeXt%22%2C%22ConvNeXt%20V2%22%2C%22FocalNet%22%2C%22InceptionNeXt%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B6%2C4%2C4%2C3%2C3%5D%2C%22backgroundColor%22%3A%5B%22%237b2ff7%22%2C%22%23f107a3%22%2C%22%23ff6b6b%22%2C%22%23fcb045%22%2C%22%234ecdc4%22%5D%2C%22borderWidth%22%3A0%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scales%22%3A%7B%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23e5e7eb%22%7D%2C%22gridLines%22%3A%7B%22display%22%3Afalse%7D%7D%5D%2C%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A6%2C%22stepSize%22%3A1%2C%22fontColor%22%3A%22%23cbd5e1%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.2%29%22%7D%7D%5D%7D%7D%7D" width="100%" alt="Modern CNN zoo bar chart"/>
+</td>
+<td align="center" width="50%">
+<h4>🧩 Modern CNN Zoo — Variant Share (Doughnut View)</h4>
+<img src="https://quickchart.io/chart?width=480&height=380&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22RepVGG%22%2C%22ConvNeXt%22%2C%22ConvNeXt%20V2%22%2C%22FocalNet%22%2C%22InceptionNeXt%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B6%2C4%2C4%2C3%2C3%5D%2C%22backgroundColor%22%3A%5B%22%237b2ff7%22%2C%22%23f107a3%22%2C%22%23ff6b6b%22%2C%22%23fcb045%22%2C%22%234ecdc4%22%5D%2C%22borderWidth%22%3A2%2C%22borderColor%22%3A%22%23040b1a%22%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Atrue%2C%22position%22%3A%22bottom%22%2C%22labels%22%3A%7B%22fontColor%22%3A%22%23e5e7eb%22%2C%22boxWidth%22%3A14%2C%22fontSize%22%3A11%7D%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%7D%7D" width="100%" alt="Modern CNN zoo doughnut chart"/>
 </td>
 </tr>
 </table>
