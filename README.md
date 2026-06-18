@@ -604,24 +604,24 @@
 <tbody>
 <tr>
 <td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Hierarchical-Transformer-MaxVit-PT2TF">🏔️ <b>MaxViT</b></a></td>
-<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Hierarchical-Transformer-MaxVit-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github&cacheSeconds=300&v=3"/></td>
-<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Hierarchical-Transformer-MaxVit-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github&cacheSeconds=86400&v=2"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Hierarchical-Transformer-MaxVit-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400&v=2"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Hierarchical-Transformer-MaxVit-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400&v=2"/></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Hierarchical-Transformer-MaxVit-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github&cacheSeconds=3600&v=5"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Hierarchical-Transformer-MaxVit-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github&cacheSeconds=3600&v=5"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Hierarchical-Transformer-MaxVit-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=3600&v=5"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Hierarchical-Transformer-MaxVit-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=3600&v=5"/></td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Hierarchical-Transformer-SwinTransformer-PT2TF">🪟 <b>Swin Transformer</b></a></td>
-<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Hierarchical-Transformer-SwinTransformer-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github&cacheSeconds=86400"/></td>
-<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Hierarchical-Transformer-SwinTransformer-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github&cacheSeconds=86400"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Hierarchical-Transformer-SwinTransformer-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Hierarchical-Transformer-SwinTransformer-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Hierarchical-Transformer-SwinTransformer-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github&cacheSeconds=3600&v=5"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Hierarchical-Transformer-SwinTransformer-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github&cacheSeconds=3600&v=5"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Hierarchical-Transformer-SwinTransformer-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=3600&v=5"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Hierarchical-Transformer-SwinTransformer-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=3600&v=5"/></td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Hierarchical-Transformer-SwinTransformerV2-PT2TF">🌐 <b>Swin Transformer V2</b></a></td>
-<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Hierarchical-Transformer-SwinTransformerV2-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github&cacheSeconds=86400"/></td>
-<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Hierarchical-Transformer-SwinTransformerV2-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github&cacheSeconds=86400"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Hierarchical-Transformer-SwinTransformerV2-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Hierarchical-Transformer-SwinTransformerV2-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Hierarchical-Transformer-SwinTransformerV2-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github&cacheSeconds=3600&v=5"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Hierarchical-Transformer-SwinTransformerV2-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github&cacheSeconds=3600&v=5"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Hierarchical-Transformer-SwinTransformerV2-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=3600&v=5"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Hierarchical-Transformer-SwinTransformerV2-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=3600&v=5"/></td>
 </tr>
 </tbody>
 </table>
