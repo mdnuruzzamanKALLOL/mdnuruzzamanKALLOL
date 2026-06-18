@@ -354,38 +354,38 @@
 <tbody>
 <tr>
 <td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Modern-CNN-ConvNeXt-PT2TF">🧱 <b>ConvNeXt</b></a></td>
-<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Modern-CNN-ConvNeXt-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github"/></td>
-<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Modern-CNN-ConvNeXt-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Modern-CNN-ConvNeXt-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Modern-CNN-ConvNeXt-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C"/></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Modern-CNN-ConvNeXt-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Modern-CNN-ConvNeXt-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Modern-CNN-ConvNeXt-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Modern-CNN-ConvNeXt-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Modern-CNN-ConvNeXtV2-PT2TF">🧊 <b>ConvNeXt V2</b></a></td>
-<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Modern-CNN-ConvNeXtV2-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github"/></td>
-<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Modern-CNN-ConvNeXtV2-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Modern-CNN-ConvNeXtV2-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Modern-CNN-ConvNeXtV2-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C"/></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Modern-CNN-ConvNeXtV2-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Modern-CNN-ConvNeXtV2-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Modern-CNN-ConvNeXtV2-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Modern-CNN-ConvNeXtV2-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Modern-CNN-FocalNet-PT2TF">🔭 <b>FocalNet</b></a></td>
-<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Modern-CNN-FocalNet-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github"/></td>
-<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Modern-CNN-FocalNet-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Modern-CNN-FocalNet-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Modern-CNN-FocalNet-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C"/></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Modern-CNN-FocalNet-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Modern-CNN-FocalNet-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Modern-CNN-FocalNet-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Modern-CNN-FocalNet-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Modern-CNN-InceptionNeXt-PT2TF">🌌 <b>InceptionNeXt</b></a></td>
-<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Modern-CNN-InceptionNeXt-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github"/></td>
-<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Modern-CNN-InceptionNeXt-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Modern-CNN-InceptionNeXt-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Modern-CNN-InceptionNeXt-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C"/></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Modern-CNN-InceptionNeXt-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Modern-CNN-InceptionNeXt-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Modern-CNN-InceptionNeXt-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Modern-CNN-InceptionNeXt-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Modern-CNN-RepVGG-PT2TF">♻️ <b>RepVGG</b></a></td>
-<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Modern-CNN-RepVGG-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github"/></td>
-<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Modern-CNN-RepVGG-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Modern-CNN-RepVGG-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Modern-CNN-RepVGG-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C"/></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Modern-CNN-RepVGG-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&logo=github&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Modern-CNN-RepVGG-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&logo=github&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Modern-CNN-RepVGG-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Modern-CNN-RepVGG-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
 </tr>
 </tbody>
 </table>
