@@ -782,6 +782,146 @@
 
 <br/>
 
+<h2 align="center">🐍 Mamba State Space Model Weight Transfer</h2>
+
+<div align="center">
+<table align="center">
+<thead>
+<tr>
+<th width="35%" align="center">Repository</th>
+<th align="center">⭐ Stars</th>
+<th align="center">🍴 Forks</th>
+<th align="center">🔴 Issues</th>
+<th align="center">🟣 Pull Requests</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Mamba-State-Space-Model-Mamba-PT2TF">🐍 <b>Mamba</b></a></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Mamba-State-Space-Model-Mamba-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Mamba-State-Space-Model-Mamba-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Mamba-State-Space-Model-Mamba-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Mamba-State-Space-Model-Mamba-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Mamba-State-Space-Model-Mamba2-PT2TF">🔁 <b>Mamba-2</b></a></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Mamba-State-Space-Model-Mamba2-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Mamba-State-Space-Model-Mamba2-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Mamba-State-Space-Model-Mamba2-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Mamba-State-Space-Model-Mamba2-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Mamba-State-Space-Model-VMamba-PT2TF">🌪️ <b>VMamba</b></a></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Mamba-State-Space-Model-VMamba-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Mamba-State-Space-Model-VMamba-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Mamba-State-Space-Model-VMamba-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Mamba-State-Space-Model-VMamba-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Mamba-State-Space-Model-VisionMamba-PT2TF">👀 <b>Vision Mamba (Vim)</b></a></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Mamba-State-Space-Model-VisionMamba-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=86400&v=2"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Mamba-State-Space-Model-VisionMamba-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Mamba-State-Space-Model-VisionMamba-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Mamba-State-Space-Model-VisionMamba-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Mamba-State-Space-Model-VideoMamba-PT2TF">🎬 <b>VideoMamba</b></a></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Mamba-State-Space-Model-VideoMamba-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Mamba-State-Space-Model-VideoMamba-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Mamba-State-Space-Model-VideoMamba-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Mamba-State-Space-Model-VideoMamba-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Mamba-State-Space-Model-MedMamba-PT2TF">⚕️ <b>MedMamba</b></a></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Mamba-State-Space-Model-MedMamba-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Mamba-State-Space-Model-MedMamba-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Mamba-State-Space-Model-MedMamba-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Mamba-State-Space-Model-MedMamba-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Mamba-State-Space-Model-SegMamba-PT2TF">✂️ <b>SegMamba</b></a></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Mamba-State-Space-Model-SegMamba-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Mamba-State-Space-Model-SegMamba-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Mamba-State-Space-Model-SegMamba-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Mamba-State-Space-Model-SegMamba-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Mamba-State-Space-Model-MambaUNet-PT2TF">🩺 <b>Mamba-UNet</b></a></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Mamba-State-Space-Model-MambaUNet-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Mamba-State-Space-Model-MambaUNet-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Mamba-State-Space-Model-MambaUNet-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Mamba-State-Space-Model-MambaUNet-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Mamba-State-Space-Model-SwinUMamba-PT2TF">🏨 <b>Swin-UMamba</b></a></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Mamba-State-Space-Model-SwinUMamba-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Mamba-State-Space-Model-SwinUMamba-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Mamba-State-Space-Model-SwinUMamba-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Mamba-State-Space-Model-SwinUMamba-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Mamba-State-Space-Model-LocalMamba-PT2TF">📍 <b>LocalMamba</b></a></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Mamba-State-Space-Model-LocalMamba-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Mamba-State-Space-Model-LocalMamba-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Mamba-State-Space-Model-LocalMamba-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Mamba-State-Space-Model-LocalMamba-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Mamba-State-Space-Model-PlainMamba-PT2TF">📄 <b>PlainMamba</b></a></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Mamba-State-Space-Model-PlainMamba-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Mamba-State-Space-Model-PlainMamba-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Mamba-State-Space-Model-PlainMamba-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Mamba-State-Space-Model-PlainMamba-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Mamba-State-Space-Model-MoEMamba-PT2TF">🧩 <b>MoE-Mamba</b></a></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Mamba-State-Space-Model-MoEMamba-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Mamba-State-Space-Model-MoEMamba-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Mamba-State-Space-Model-MoEMamba-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Mamba-State-Space-Model-MoEMamba-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Mamba-State-Space-Model-Jamba-PT2TF">🎺 <b>Jamba</b></a></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Mamba-State-Space-Model-Jamba-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Mamba-State-Space-Model-Jamba-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Mamba-State-Space-Model-Jamba-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Mamba-State-Space-Model-Jamba-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Mamba-State-Space-Model-FalconMamba-PT2TF">🦅 <b>Falcon-Mamba</b></a></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Mamba-State-Space-Model-FalconMamba-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Mamba-State-Space-Model-FalconMamba-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Mamba-State-Space-Model-FalconMamba-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Mamba-State-Space-Model-FalconMamba-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Mamba-State-Space-Model-VLMamba-PT2TF">💬 <b>VL-Mamba</b></a></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Mamba-State-Space-Model-VLMamba-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Mamba-State-Space-Model-VLMamba-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Mamba-State-Space-Model-VLMamba-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Mamba-State-Space-Model-VLMamba-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<br/>
+
+<div align="center">
+
+<table width="78%" align="center">
+<tr>
+<td align="center" width="100%">
+<h4>🐍 Mamba State Space Model Zoo — 15 Families</h4>
+<img src="https://quickchart.io/chart?width=900&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Mamba%22%2C%22Mamba-2%22%2C%22VMamba%22%2C%22Vision%20Mamba%20%28Vim%29%22%2C%22VideoMamba%22%2C%22MedMamba%22%2C%22SegMamba%22%2C%22Mamba-UNet%22%2C%22Swin-UMamba%22%2C%22LocalMamba%22%2C%22PlainMamba%22%2C%22MoE-Mamba%22%2C%22Jamba%22%2C%22Falcon-Mamba%22%2C%22VL-Mamba%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Variants%22%2C%22data%22%3A%5B1%2C1%2C1%2C1%2C1%2C1%2C1%2C1%2C1%2C1%2C1%2C1%2C1%2C1%2C1%5D%2C%22fill%22%3Afalse%2C%22borderColor%22%3A%22%23ff7a00%22%2C%22backgroundColor%22%3A%22%23ff7a00%22%2C%22pointRadius%22%3A4%2C%22pointHoverRadius%22%3A5%2C%22borderWidth%22%3A3%2C%22lineTension%22%3A0.25%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scales%22%3A%7B%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23cbd5e1%22%2C%22maxRotation%22%3A40%2C%22minRotation%22%3A40%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.18%29%22%7D%7D%5D%2C%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A2%2C%22stepSize%22%3A1%2C%22fontColor%22%3A%22%23cbd5e1%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.18%29%22%7D%7D%5D%7D%7D%7D" width="100%" alt="Mamba State Space Model zoo line chart"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
 <div align="center">
 <table align="center">
   <tr margin-bottom: 10px;">
