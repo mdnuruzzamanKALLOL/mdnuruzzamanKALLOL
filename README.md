@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=mdnuruzzamanKALLOL.mdnuruzzamanKALLOL&left_text=Profile%20Views&left_color=grey&right_color=ff6b6b" />
+<img src="https://komarev.com/ghpvc/?username=mdnuruzzamanKALLOL&label=Profile%20Views&color=ff6b6b&style=flat-square" />
 <img src="https://img.shields.io/github/followers/mdnuruzzamanKALLOL?label=Followers&style=flat-square&color=4ecdc4" />
 <img src="https://img.shields.io/badge/Focus-Computer%20Vision%20%26%20DL-blueviolet?style=flat-square" />
 <img src="https://img.shields.io/badge/Lives-Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9-success?style=flat-square" />
