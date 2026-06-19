@@ -687,6 +687,101 @@
 
 <br/>
 
+<h2 align="center">🧬 CNN Transformer Hybrid Weight Transfer</h2>
+
+<div align="center">
+<table align="center">
+<thead>
+<tr>
+<th width="35%" align="center">Repository</th>
+<th align="center">⭐ Stars</th>
+<th align="center">🍴 Forks</th>
+<th align="center">🔴 Issues</th>
+<th align="center">🟣 Pull Requests</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/CNN-Transformer-Hybrid-CoAtNet-PT2TF">🧬 <b>CoAtNet</b></a></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/CNN-Transformer-Hybrid-CoAtNet-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/CNN-Transformer-Hybrid-CoAtNet-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/CNN-Transformer-Hybrid-CoAtNet-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/CNN-Transformer-Hybrid-CoAtNet-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/CNN-Transformer-Hybrid-CvT-PT2TF">🔲 <b>CvT</b></a></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/CNN-Transformer-Hybrid-CvT-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/CNN-Transformer-Hybrid-CvT-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/CNN-Transformer-Hybrid-CvT-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/CNN-Transformer-Hybrid-CvT-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/CNN-Transformer-Hybrid-EdgeViT-PT2TF">📡 <b>EdgeViT</b></a></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/CNN-Transformer-Hybrid-EdgeViT-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/CNN-Transformer-Hybrid-EdgeViT-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/CNN-Transformer-Hybrid-EdgeViT-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/CNN-Transformer-Hybrid-EdgeViT-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/CNN-Transformer-Hybrid-EfficientFormer-PT2TF">🏎️ <b>EfficientFormer</b></a></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/CNN-Transformer-Hybrid-EfficientFormer-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/CNN-Transformer-Hybrid-EfficientFormer-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/CNN-Transformer-Hybrid-EfficientFormer-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/CNN-Transformer-Hybrid-EfficientFormer-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/CNN-Transformer-Hybrid-FastViT-PT2TF">💨 <b>FastViT</b></a></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/CNN-Transformer-Hybrid-FastViT-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/CNN-Transformer-Hybrid-FastViT-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/CNN-Transformer-Hybrid-FastViT-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/CNN-Transformer-Hybrid-FastViT-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/CNN-Transformer-Hybrid-LeViT-PT2TF">🪂 <b>LeViT</b></a></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/CNN-Transformer-Hybrid-LeViT-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/CNN-Transformer-Hybrid-LeViT-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/CNN-Transformer-Hybrid-LeViT-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/CNN-Transformer-Hybrid-LeViT-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/CNN-Transformer-Hybrid-RMT-PT2TF">🧠 <b>RMT</b></a></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/CNN-Transformer-Hybrid-RMT-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/CNN-Transformer-Hybrid-RMT-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/CNN-Transformer-Hybrid-RMT-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/CNN-Transformer-Hybrid-RMT-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/CNN-Transformer-Hybrid-UniFormer-PT2TF">🦄 <b>UniFormer</b></a></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/CNN-Transformer-Hybrid-UniFormer-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/CNN-Transformer-Hybrid-UniFormer-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/CNN-Transformer-Hybrid-UniFormer-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/CNN-Transformer-Hybrid-UniFormer-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<br/>
+
+<div align="center">
+
+<table width="78%" align="center">
+<tr>
+<td align="center" width="50%">
+<h4>🧬 CNN Transformer Hybrid Zoo — 8 Families (Bar View)</h4>
+<img src="https://quickchart.io/chart?width=520&height=360&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22CoAtNet%22%2C%22FastViT%22%2C%22LeViT%22%2C%22CvT%22%2C%22EdgeViT%22%2C%22EfficientFormer%22%2C%22UniFormer%22%2C%22RMT%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B6%2C6%2C5%2C4%2C3%2C3%2C3%2C1%5D%2C%22backgroundColor%22%3A%5B%22%237b2ff7%22%2C%22%23f107a3%22%2C%22%23ff6b6b%22%2C%22%23fcb045%22%2C%22%234ecdc4%22%2C%22%238b5cf6%22%2C%22%2322d3ee%22%2C%22%23fbbf24%22%5D%2C%22borderWidth%22%3A0%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scales%22%3A%7B%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23e5e7eb%22%2C%22maxRotation%22%3A35%2C%22minRotation%22%3A35%7D%2C%22gridLines%22%3A%7B%22display%22%3Afalse%7D%7D%5D%2C%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A6%2C%22stepSize%22%3A1%2C%22fontColor%22%3A%22%23cbd5e1%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.2%29%22%7D%7D%5D%7D%7D%7D" width="100%" alt="CNN Transformer Hybrid zoo bar chart"/>
+</td>
+<td align="center" width="50%">
+<h4>🧬 CNN Transformer Hybrid Zoo — 8 Families (Radar View)</h4>
+<img src="https://quickchart.io/chart?width=480&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22CoAtNet%22%2C%22FastViT%22%2C%22LeViT%22%2C%22CvT%22%2C%22EdgeViT%22%2C%22EfficientFormer%22%2C%22UniFormer%22%2C%22RMT%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Variants%22%2C%22data%22%3A%5B6%2C6%2C5%2C4%2C3%2C3%2C3%2C1%5D%2C%22backgroundColor%22%3A%22rgba%28123%2C47%2C247%2C0.35%29%22%2C%22borderColor%22%3A%22%237b2ff7%22%2C%22pointBackgroundColor%22%3A%22%23f107a3%22%2C%22pointBorderColor%22%3A%22%23ffffff%22%2C%22borderWidth%22%3A2%2C%22pointRadius%22%3A4%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scale%22%3A%7B%22angleLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.3%29%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.25%29%22%7D%2C%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A6%2C%22stepSize%22%3A2%2C%22fontColor%22%3A%22%23cbd5e1%22%2C%22backdropColor%22%3A%22transparent%22%7D%2C%22pointLabels%22%3A%7B%22fontColor%22%3A%22%23e5e7eb%22%2C%22fontSize%22%3A10%7D%7D%7D%7D" width="100%" alt="CNN Transformer Hybrid zoo radar chart"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
 <div align="center">
 <table align="center">
   <tr margin-bottom: 10px;">
