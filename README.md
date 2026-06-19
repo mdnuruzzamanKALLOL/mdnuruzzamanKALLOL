@@ -469,64 +469,64 @@
 <td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-EfficientNet-PT2TF">⚡ <b>EfficientNet</b></a></td>
 <td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-EfficientNet-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=86400"/></td>
 <td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-EfficientNet-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&cacheSeconds=86400"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-EfficientNet-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-EfficientNet-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-EfficientNet-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=3600&v=6"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-EfficientNet-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=3600&v=6"/></td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-EfficientNetV2-PT2TF">🔋 <b>EfficientNet V2</b></a></td>
 <td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-EfficientNetV2-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=86400"/></td>
 <td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-EfficientNetV2-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&cacheSeconds=86400"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-EfficientNetV2-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-EfficientNetV2-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-EfficientNetV2-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=3600&v=6"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-EfficientNetV2-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=3600&v=6"/></td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-GhostNetV2-PT2TF">👻 <b>GhostNet V2</b></a></td>
 <td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-GhostNetV2-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=86400"/></td>
 <td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-GhostNetV2-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&cacheSeconds=86400"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-GhostNetV2-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-GhostNetV2-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-GhostNetV2-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=3600&v=6"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-GhostNetV2-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=3600&v=6"/></td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-MNASNet-PT2TF">🔍 <b>MNASNet</b></a></td>
 <td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-MNASNet-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=86400"/></td>
 <td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-MNASNet-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&cacheSeconds=86400"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-MNASNet-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-MNASNet-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-MNASNet-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=3600&v=6"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-MNASNet-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=3600&v=6"/></td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-MicroNet-PT2TF">🔬 <b>MicroNet</b></a></td>
 <td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-MicroNet-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=86400"/></td>
 <td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-MicroNet-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&cacheSeconds=86400"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-MicroNet-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-MicroNet-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-MicroNet-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=3600&v=6"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-MicroNet-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=3600&v=6"/></td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-MobileNetV2-PT2TF">📱 <b>MobileNet V2</b></a></td>
 <td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-MobileNetV2-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=86400"/></td>
 <td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-MobileNetV2-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&cacheSeconds=86400"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-MobileNetV2-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-MobileNetV2-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-MobileNetV2-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=3600&v=6"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-MobileNetV2-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=3600&v=6"/></td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-MobileNetV3-PT2TF">📲 <b>MobileNet V3</b></a></td>
 <td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-MobileNetV3-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=86400"/></td>
 <td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-MobileNetV3-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&cacheSeconds=86400"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-MobileNetV3-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-MobileNetV3-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-MobileNetV3-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=3600&v=6"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-MobileNetV3-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=3600&v=6"/></td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-RegNet-PT2TF">📊 <b>RegNet</b></a></td>
 <td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-RegNet-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=86400"/></td>
 <td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-RegNet-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&cacheSeconds=86400"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-RegNet-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-RegNet-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-RegNet-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=3600&v=6"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-RegNet-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=3600&v=6"/></td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-ShuffleNetV2-PT2TF">🔄 <b>ShuffleNet V2</b></a></td>
 <td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-ShuffleNetV2-PT2TF?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=86400"/></td>
 <td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-ShuffleNetV2-PT2TF?style=for-the-badge&color=00E5FF&labelColor=006064&cacheSeconds=86400"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-ShuffleNetV2-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=86400"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-ShuffleNetV2-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-ShuffleNetV2-PT2TF?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=3600&v=6"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Efficient-Lightweight-CNN-ShuffleNetV2-PT2TF?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=3600&v=6"/></td>
 </tr>
 </tbody>
 </table>
