@@ -397,7 +397,7 @@
 <table align="center">
 <thead>
 <tr>
-<th align="center" width="12%">Name</th>
+<th align="center">Name</th>
 <th align="center">Concept</th>
 <th align="center">Parameters</th>
 <th align="center">Neuron Model</th>
