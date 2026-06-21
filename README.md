@@ -53,7 +53,7 @@
 
 <!-- WEEKLY:START -->
 <div align="center">
-<table align="center" width="90%">
+<table width="90%">
 <tr>
 <td valign="top" width="60%">
 <h3>&#x26A1; TensorFlow Deep Dive</h3>
