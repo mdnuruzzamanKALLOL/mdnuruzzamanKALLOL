@@ -398,7 +398,7 @@
 <thead>
 <tr>
 <th align="center" width="18%">Name</th>
-<th align="center">Concept</th>
+<th align="center" width="28%">Concept</th>
 <th align="center">Parameters</th>
 <th align="center">Neuron Model</th>
 <th align="center">Application</th>
