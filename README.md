@@ -1256,6 +1256,109 @@
 
 </div>
 
+<br/>
+
+<h2 align="center">🌗 Custom Low Light Image Enhancement Model Registry (Private)</h2>
+
+<div align="center">
+<table align="center">
+<thead>
+<tr>
+<th align="center">Name</th>
+<th align="center">Concept</th>
+<th align="center">Parameters</th>
+<th align="center">Base Model</th>
+<th align="center">Application</th>
+<th align="center">Dataset Target</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/LumaNet">🌗 <b>LumaNet</b></a></td>
+<td align="center">Luminance-guided low light enhancer</td>
+<td align="center">~4.2M</td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">CNN</span></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">Night Vision</span></td>
+<td align="center">LOL / VE-LOL</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/DarkFormer">🌑 <b>DarkFormer</b></a></td>
+<td align="center">Transformer-based dark image restorer</td>
+<td align="center">~12.8M</td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">Transformer</span></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">Surveillance</span></td>
+<td align="center">SID / SMID</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/NightEdge">🌃 <b>NightEdge</b></a></td>
+<td align="center">Edge-preserving night image enhancer</td>
+<td align="center">~2.1M</td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">CNN</span></td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">Edge IoT</span></td>
+<td align="center">DICM / NPE</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/GlowNet">✨ <b>GlowNet</b></a></td>
+<td align="center">Adaptive glow restoration network</td>
+<td align="center">~6.5M</td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">GAN</span></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">Photography</span></td>
+<td align="center">LOL / MIT FiveK</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/RetinexPro">👓 <b>RetinexPro</b></a></td>
+<td align="center">Retinex-theory driven enhancement model</td>
+<td align="center">~3.7M</td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">CNN</span></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">Medical Imaging</span></td>
+<td align="center">VE-LOL / LIME</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/ShadowLift">🕶️ <b>ShadowLift</b></a></td>
+<td align="center">Shadow region detail recovery SNN</td>
+<td align="center">~5.3M</td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">U-Net</span></td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">Autonomous Driving</span></td>
+<td align="center">ExDARK / ACDC</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/PhotonBoost">💡 <b>PhotonBoost</b></a></td>
+<td align="center">Photon-noise aware low light booster</td>
+<td align="center">~8.9M</td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">Diffusion</span></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">Surveillance</span></td>
+<td align="center">SID / ELD</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/ClarityNet">🪞 <b>ClarityNet</b></a></td>
+<td align="center">Clarity-focused denoising enhancer</td>
+<td align="center">~7.1M</td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">GAN</span></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">Photography</span></td>
+<td align="center">MIT FiveK / LOL</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/NoctiForge">🦉 <b>NoctiForge</b></a></td>
+<td align="center">Nocturnal image forge enhancement</td>
+<td align="center">~10.4M</td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">Transformer</span></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">Night Vision</span></td>
+<td align="center">SMID / VE-LOL</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/BrightCore">☀️ <b>BrightCore</b></a></td>
+<td align="center">Core brightness & contrast optimizer</td>
+<td align="center">~3.0M</td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">U-Net</span></td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">Autonomous Driving</span></td>
+<td align="center">ACDC / ExDARK</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 <h2 align="center">👨‍💻 A Little More About Me</h2>
