@@ -281,7 +281,6 @@
 <table align="center">
 <thead>
 <tr>
-<th align="center">#</th>
 <th align="center">Name</th>
 <th align="center">Concept</th>
 <th align="center">Parameters</th>
@@ -292,8 +291,7 @@
 </thead>
 <tbody>
 <tr>
-<td align="center">1</td>
-<td align="center"><b>NeuraSurge</b></td>
+<td align="center"><a href="#">🌊 <b>NeuraSurge</b></a></td>
 <td align="center">Surge of neural spike activity</td>
 <td align="center">~2.1M</td>
 <td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">LIF</span></td>
@@ -301,8 +299,7 @@
 <td align="center">GPU / Loihi</td>
 </tr>
 <tr>
-<td align="center">2</td>
-<td align="center"><b>SpikeNova</b></td>
+<td align="center"><a href="#">💥 <b>SpikeNova</b></a></td>
 <td align="center">Explosive new-gen SNN architecture</td>
 <td align="center">~5.8M</td>
 <td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">ALIF</span></td>
@@ -310,8 +307,7 @@
 <td align="center">GPU / BrainScaleS</td>
 </tr>
 <tr>
-<td align="center">3</td>
-<td align="center"><b>PulseEdge</b></td>
+<td align="center"><a href="#">📶 <b>PulseEdge</b></a></td>
 <td align="center">Edge-optimized pulse-coded model</td>
 <td align="center">~0.9M</td>
 <td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">LIF</span></td>
@@ -319,8 +315,7 @@
 <td align="center">Intel Loihi</td>
 </tr>
 <tr>
-<td align="center">4</td>
-<td align="center"><b>AxonBlast</b></td>
+<td align="center"><a href="#">💢 <b>AxonBlast</b></a></td>
 <td align="center">High-speed axonal signal model</td>
 <td align="center">~3.4M</td>
 <td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">Izhikevich</span></td>
@@ -328,8 +323,7 @@
 <td align="center">GPU</td>
 </tr>
 <tr>
-<td align="center">5</td>
-<td align="center"><b>ThreshX</b></td>
+<td align="center"><a href="#">🎚️ <b>ThreshX</b></a></td>
 <td align="center">Adaptive threshold extreme model</td>
 <td align="center">~1.7M</td>
 <td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">ALIF</span></td>
@@ -337,8 +331,7 @@
 <td align="center">CPU / FPGA</td>
 </tr>
 <tr>
-<td align="center">6</td>
-<td align="center"><b>SynaptiCore</b></td>
+<td align="center"><a href="#">⚙️ <b>SynaptiCore</b></a></td>
 <td align="center">Core synaptic computation engine</td>
 <td align="center">~8.2M</td>
 <td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">Izhikevich</span></td>
@@ -346,8 +339,7 @@
 <td align="center">BrainScaleS</td>
 </tr>
 <tr>
-<td align="center">7</td>
-<td align="center"><b>FireWave</b></td>
+<td align="center"><a href="#">🔥 <b>FireWave</b></a></td>
 <td align="center">Wave-like neuron firing propagation</td>
 <td align="center">~4.5M</td>
 <td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">LIF</span></td>
@@ -355,8 +347,7 @@
 <td align="center">GPU</td>
 </tr>
 <tr>
-<td align="center">8</td>
-<td align="center"><b>CortexFlux</b></td>
+<td align="center"><a href="#">🫧 <b>CortexFlux</b></a></td>
 <td align="center">Cortical flux-driven SNN</td>
 <td align="center">~6.3M</td>
 <td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">HH</span></td>
@@ -364,8 +355,7 @@
 <td align="center">BrainScaleS</td>
 </tr>
 <tr>
-<td align="center">9</td>
-<td align="center"><b>VoltFormer</b></td>
+<td align="center"><a href="#">🌩️ <b>VoltFormer</b></a></td>
 <td align="center">Voltage-dynamic transformer hybrid</td>
 <td align="center">~12.6M</td>
 <td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">ALIF</span></td>
@@ -373,8 +363,7 @@
 <td align="center">GPU / TPU</td>
 </tr>
 <tr>
-<td align="center">10</td>
-<td align="center"><b>SpikeLattice</b></td>
+<td align="center"><a href="#">🕸️ <b>SpikeLattice</b></a></td>
 <td align="center">Structured lattice-topology SNN</td>
 <td align="center">~3.9M</td>
 <td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">LIF</span></td>
