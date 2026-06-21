@@ -1269,7 +1269,7 @@
 <th align="center">Parameters</th>
 <th align="center">Base Model</th>
 <th align="center">Application</th>
-<th align="center">Dataset Target</th>
+<th align="center" width="16%">Dataset Target</th>
 </tr>
 </thead>
 <tbody>
