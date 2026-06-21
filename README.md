@@ -275,7 +275,7 @@
 
 <br/>
 
-<h2 align="center">🧪 Custom Spiking Neural Networks</h2>
+<h2 align="center">🧪 Custom Spiking Neural Network Model Registry (Private)</h2>
 
 <div align="center">
 <table align="center">
