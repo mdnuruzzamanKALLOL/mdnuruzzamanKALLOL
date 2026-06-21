@@ -1264,8 +1264,8 @@
 <table align="center">
 <thead>
 <tr>
-<th align="center" width="15%">Name</th>
-<th align="center" width="35%">Concept</th>
+<th align="center" width="16%">Name</th>
+<th align="center" width="38%">Concept</th>
 <th align="center">Parameters</th>
 <th align="center">Base Model</th>
 <th align="center">Application</th>
