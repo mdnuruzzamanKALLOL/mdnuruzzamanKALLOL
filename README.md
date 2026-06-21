@@ -391,7 +391,7 @@
 
 <br/>
 
-<h2 align="center">🧪 MumbaNet SNN Model Catalog (Private)</h2>
+<h2 align="center">🧪 Custom MumbaNet SNN Model Catalog (Private)</h2>
 
 <div align="center">
 <table align="center">
