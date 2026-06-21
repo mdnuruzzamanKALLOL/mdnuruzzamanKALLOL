@@ -391,6 +391,126 @@
 
 <br/>
 
+<h2 align="center">🧪 MumbaNet SNN Model Catalog (Private)</h2>
+
+<div align="center">
+<table align="center">
+<thead>
+<tr>
+<th align="center">Name</th>
+<th align="center">Concept</th>
+<th align="center">Parameters</th>
+<th align="center">Neuron Model</th>
+<th align="center">Application</th>
+<th align="center">Hardware Target</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/MumbaCore">🏙️ <b>MumbaCore</b></a></td>
+<td align="center">Core dense-spike urban network</td>
+<td align="center">~6.4M</td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">LIF</span></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">Vision</span></td>
+<td align="center">GPU / Loihi</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/MumbaPulse">💓 <b>MumbaPulse</b></a></td>
+<td align="center">High-frequency pulse-coded SNN</td>
+<td align="center">~3.2M</td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">ALIF</span></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">NLP</span></td>
+<td align="center">GPU / TPU</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/MumbaFlux">🔆 <b>MumbaFlux</b></a></td>
+<td align="center">Flux-driven adaptive spiking model</td>
+<td align="center">~5.1M</td>
+<td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">Izhikevich</span></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">Robotics</span></td>
+<td align="center">GPU</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/MumbaEdge">🧲 <b>MumbaEdge</b></a></td>
+<td align="center">Lightweight edge-optimized SNN</td>
+<td align="center">~0.7M</td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">LIF</span></td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">Edge IoT</span></td>
+<td align="center">Intel Loihi</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/MumbaWave">💧 <b>MumbaWave</b></a></td>
+<td align="center">Wave-propagation layered SNN</td>
+<td align="center">~4.8M</td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">ALIF</span></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">Vision</span></td>
+<td align="center">FPGA / GPU</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/MumbaNeuro">🧫 <b>MumbaNeuro</b></a></td>
+<td align="center">Bio-realistic neuron-dense model</td>
+<td align="center">~8.9M</td>
+<td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">HH</span></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">Neuroscience</span></td>
+<td align="center">BrainScaleS</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/MumbaFormer">🤖 <b>MumbaFormer</b></a></td>
+<td align="center">Transformer-hybrid spike model</td>
+<td align="center">~13.5M</td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">ALIF</span></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">NLP</span></td>
+<td align="center">GPU / TPU</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/MumbaBlaze">🌟 <b>MumbaBlaze</b></a></td>
+<td align="center">Ultra-fast blazing spike engine</td>
+<td align="center">~2.3M</td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">LIF</span></td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">Edge IoT</span></td>
+<td align="center">CPU / FPGA</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/MumbaSynapse">🧷 <b>MumbaSynapse</b></a></td>
+<td align="center">Synapse-centric learning SNN</td>
+<td align="center">~7.6M</td>
+<td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">Izhikevich</span></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">Neuroscience</span></td>
+<td align="center">BrainScaleS</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/MumbaVolt">🪫 <b>MumbaVolt</b></a></td>
+<td align="center">Voltage-dynamics optimized SNN</td>
+<td align="center">~5.5M</td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">ALIF</span></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">Robotics</span></td>
+<td align="center">GPU / Loihi</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<br/>
+
+<div align="center">
+
+<table width="78%" align="center">
+<tr>
+<td align="center" width="50%">
+<h4>🧪 MumbaNet Zoo — Parameter Share (Polar Area View)</h4>
+<img src="https://quickchart.io/chart?width=480&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22polarArea%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22MumbaCore%22%2C%22MumbaPulse%22%2C%22MumbaFlux%22%2C%22MumbaEdge%22%2C%22MumbaWave%22%2C%22MumbaNeuro%22%2C%22MumbaFormer%22%2C%22MumbaBlaze%22%2C%22MumbaSynapse%22%2C%22MumbaVolt%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B6.4%2C3.2%2C5.1%2C0.7%2C4.8%2C8.9%2C13.5%2C2.3%2C7.6%2C5.5%5D%2C%22backgroundColor%22%3A%5B%22%237b2ff7b3%22%2C%22%23f107a3b3%22%2C%22%23ff6b6bb3%22%2C%22%23fcb045b3%22%2C%22%234ecdc4b3%22%2C%22%238b5cf6b3%22%2C%22%2322d3eeb3%22%2C%22%23fbbf24b3%22%2C%22%23fb7185b3%22%2C%22%2334d399b3%22%5D%2C%22borderColor%22%3A%22%23040b1a%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Atrue%2C%22position%22%3A%22bottom%22%2C%22labels%22%3A%7B%22fontColor%22%3A%22%23e5e7eb%22%2C%22boxWidth%22%3A10%2C%22fontSize%22%3A8%7D%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scale%22%3A%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A14%2C%22fontColor%22%3A%22%23cbd5e1%22%2C%22backdropColor%22%3A%22transparent%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.25%29%22%7D%2C%22angleLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.25%29%22%7D%7D%7D%7D" width="100%" alt="MumbaNet polar area chart"/>
+</td>
+<td align="center" width="50%">
+<h4>🧪 MumbaNet Zoo — Parameter Spread (Radar View)</h4>
+<img src="https://quickchart.io/chart?width=480&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22MumbaCore%22%2C%22MumbaPulse%22%2C%22MumbaFlux%22%2C%22MumbaEdge%22%2C%22MumbaWave%22%2C%22MumbaNeuro%22%2C%22MumbaFormer%22%2C%22MumbaBlaze%22%2C%22MumbaSynapse%22%2C%22MumbaVolt%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Parameters%20%28M%29%22%2C%22data%22%3A%5B6.4%2C3.2%2C5.1%2C0.7%2C4.8%2C8.9%2C13.5%2C2.3%2C7.6%2C5.5%5D%2C%22backgroundColor%22%3A%22rgba%2852%2C211%2C153%2C0.3%29%22%2C%22borderColor%22%3A%22%2334d399%22%2C%22pointBackgroundColor%22%3A%22%23f107a3%22%2C%22pointBorderColor%22%3A%22%23ffffff%22%2C%22borderWidth%22%3A2%2C%22pointRadius%22%3A4%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scale%22%3A%7B%22angleLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.3%29%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.25%29%22%7D%2C%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A14%2C%22stepSize%22%3A4%2C%22fontColor%22%3A%22%23cbd5e1%22%2C%22backdropColor%22%3A%22transparent%22%7D%2C%22pointLabels%22%3A%7B%22fontColor%22%3A%22%23e5e7eb%22%2C%22fontSize%22%3A9%7D%7D%7D%7D" width="100%" alt="MumbaNet radar chart"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
 <h2 align="center">🏛️ Classic CNN Weight Transfer</h2>
 
 <div align="center">
