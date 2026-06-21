@@ -1264,8 +1264,8 @@
 <table align="center">
 <thead>
 <tr>
-<th align="center">Name</th>
-<th align="center">Concept</th>
+<th align="center" width="18%">Name</th>
+<th align="center" width="32%">Concept</th>
 <th align="center">Parameters</th>
 <th align="center">Base Model</th>
 <th align="center">Application</th>
@@ -1355,6 +1355,25 @@
 </tr>
 </tbody>
 </table>
+</div>
+
+<br/>
+
+<div align="center">
+
+<table width="78%" align="center">
+<tr>
+<td align="center" width="50%">
+<h4>🌗 Low Light Enhancement Zoo — Parameter Spread (Radar View)</h4>
+<img src="https://quickchart.io/chart?width=480&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22LumaNet%22%2C%22DarkFormer%22%2C%22NightEdge%22%2C%22GlowNet%22%2C%22RetinexPro%22%2C%22ShadowLift%22%2C%22PhotonBoost%22%2C%22ClarityNet%22%2C%22NoctiForge%22%2C%22BrightCore%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Parameters%20%28M%29%22%2C%22data%22%3A%5B4.2%2C12.8%2C2.1%2C6.5%2C3.7%2C5.3%2C8.9%2C7.1%2C10.4%2C3.0%5D%2C%22backgroundColor%22%3A%22rgba%2834%2C211%2C238%2C0.3%29%22%2C%22borderColor%22%3A%22%2322d3ee%22%2C%22pointBackgroundColor%22%3A%22%23f107a3%22%2C%22pointBorderColor%22%3A%22%23ffffff%22%2C%22borderWidth%22%3A2%2C%22pointRadius%22%3A4%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scale%22%3A%7B%22angleLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.3%29%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.25%29%22%7D%2C%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A14%2C%22stepSize%22%3A4%2C%22fontColor%22%3A%22%23cbd5e1%22%2C%22backdropColor%22%3A%22transparent%22%7D%2C%22pointLabels%22%3A%7B%22fontColor%22%3A%22%23e5e7eb%22%2C%22fontSize%22%3A9%7D%7D%7D%7D" width="100%" alt="Low Light Enhancement radar chart"/>
+</td>
+<td align="center" width="50%">
+<h4>🌗 Low Light Enhancement Zoo — Parameter Count (Bar View)</h4>
+<img src="https://quickchart.io/chart?width=480&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22LumaNet%22%2C%22DarkFormer%22%2C%22NightEdge%22%2C%22GlowNet%22%2C%22RetinexPro%22%2C%22ShadowLift%22%2C%22PhotonBoost%22%2C%22ClarityNet%22%2C%22NoctiForge%22%2C%22BrightCore%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Parameters%20%28M%29%22%2C%22data%22%3A%5B4.2%2C12.8%2C2.1%2C6.5%2C3.7%2C5.3%2C8.9%2C7.1%2C10.4%2C3.0%5D%2C%22backgroundColor%22%3A%5B%22%237b2ff7%22%2C%22%23f107a3%22%2C%22%23ff6b6b%22%2C%22%23fcb045%22%2C%22%234ecdc4%22%2C%22%238b5cf6%22%2C%22%2322d3ee%22%2C%22%23fbbf24%22%2C%22%23fb7185%22%2C%22%2334d399%22%5D%2C%22borderWidth%22%3A0%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scales%22%3A%7B%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23cbd5e1%22%2C%22maxRotation%22%3A30%2C%22minRotation%22%3A30%7D%2C%22gridLines%22%3A%7B%22display%22%3Afalse%7D%7D%5D%2C%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A14%2C%22stepSize%22%3A2%2C%22fontColor%22%3A%22%23cbd5e1%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.18%29%22%7D%7D%5D%7D%7D%7D" width="100%" alt="Low Light Enhancement bar chart"/>
+</td>
+</tr>
+</table>
+
 </div>
 
 <br/>
