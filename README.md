@@ -281,7 +281,7 @@
 <table align="center">
 <thead>
 <tr>
-<th align="center">Name</th>
+<th align="center" width="30%">Name</th>
 <th align="center">Core Technique</th>
 <th align="center">Concept</th>
 <th align="center">Parameters</th>
@@ -439,7 +439,7 @@
 <table align="center">
 <thead>
 <tr>
-<th align="center">Name</th>
+<th align="center" width="30%">Name</th>
 <th align="center">Core Technique</th>
 <th align="center">Concept</th>
 <th align="center">Parameters</th>
