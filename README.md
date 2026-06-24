@@ -354,6 +354,21 @@
 
 <br/>
 
+<div align="center">
+
+<table width="78%" align="center">
+<tr>
+<td align="center" width="100%">
+<h4>🧱 CNN Foundations — Parameter Count by Model (M)</h4>
+<img src="https://quickchart.io/chart?width=820&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22StackLite%22%2C%22SkipLite%22%2C%22SeparaLite%22%2C%22BranchLite%22%2C%22DilateLite%22%2C%22GlobalLite%22%2C%22PreActLite%22%2C%22BottleLite%22%2C%22GroupLite%22%2C%22DenseLite%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Parameters%20%28M%29%22%2C%22data%22%3A%5B0.8%2C1.2%2C0.6%2C1.8%2C1.0%2C0.9%2C1.3%2C1.5%2C1.6%2C2.0%5D%2C%22fill%22%3Atrue%2C%22borderColor%22%3A%22%2338bdf8%22%2C%22backgroundColor%22%3A%22rgba%2856%2C189%2C248%2C0.25%29%22%2C%22pointBackgroundColor%22%3A%22%23facc15%22%2C%22pointBorderColor%22%3A%22%23ffffff%22%2C%22pointRadius%22%3A5%2C%22pointHoverRadius%22%3A6%2C%22borderWidth%22%3A3%2C%22lineTension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scales%22%3A%7B%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23cbd5e1%22%2C%22maxRotation%22%3A30%2C%22minRotation%22%3A30%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.18%29%22%7D%7D%5D%2C%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A2.5%2C%22stepSize%22%3A0.5%2C%22fontColor%22%3A%22%23cbd5e1%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.18%29%22%7D%7D%5D%7D%7D%7D" width="100%" alt="CNN Foundations parameter line chart"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
 <h2 align="center">⚙️ Custom CNN Efficiency &amp; Attention Catalog (Intermediate) — Private</h2>
 
 <div align="center">
@@ -433,6 +448,21 @@
 
 <br/>
 
+<div align="center">
+
+<table width="78%" align="center">
+<tr>
+<td align="center" width="100%">
+<h4>⚙️ CNN Efficiency &amp; Attention — Parameter Count by Model (M)</h4>
+<img src="https://quickchart.io/chart?width=820&height=460&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22horizontalBar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22AttenCore%22%2C%22CBAMCore%22%2C%22PyramidFlex%22%2C%22StochDepth%22%2C%22CoordSense%22%2C%22DynaKernel%22%2C%22BlurGuard%22%2C%22SelfCalib%22%2C%22OctaveSplit%22%2C%22GhostLean%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Parameters%20%28M%29%22%2C%22data%22%3A%5B2.5%2C2.8%2C3.2%2C2.2%2C2.6%2C3.5%2C2.0%2C3.0%2C2.7%2C1.4%5D%2C%22backgroundColor%22%3A%5B%22%2360a5fab3%22%2C%22%23a78bfab3%22%2C%22%23f87171b3%22%2C%22%2334d399b3%22%2C%22%23fb923cb3%22%2C%22%2338bdf8b3%22%2C%22%23facc15b3%22%2C%22%23fb7185b3%22%2C%22%2322d3eeb3%22%2C%22%2334d399b3%22%5D%2C%22borderColor%22%3A%22%23040b1a%22%2C%22borderWidth%22%3A1%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scales%22%3A%7B%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A4%2C%22stepSize%22%3A0.5%2C%22fontColor%22%3A%22%23cbd5e1%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.18%29%22%7D%7D%5D%2C%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23cbd5e1%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.1%29%22%7D%7D%5D%7D%7D%7D" width="100%" alt="CNN Efficiency and Attention parameter bar chart"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
 <h2 align="center">🚀 Custom CNN Advanced Architecture Catalog (Advanced) — Private</h2>
 
 <div align="center">
@@ -508,6 +538,25 @@
 </tr>
 </tbody>
 </table>
+</div>
+
+<br/>
+
+<div align="center">
+
+<table width="78%" align="center">
+<tr>
+<td align="center" width="50%">
+<h4>🚀 CNN Advanced — Parameter Share (Polar Area View)</h4>
+<img src="https://quickchart.io/chart?width=480&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22polarArea%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22NeXtForge%22%2C%22InvoNet%22%2C%22DeformCore%22%2C%22ArchSearch%22%2C%22ConvAttenHybrid%22%2C%22RouteMix%22%2C%22SpectralConv%22%2C%22KernelSelect%22%2C%22FlowDepth%22%2C%22HyperGen%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B6.5%2C4.8%2C5.5%2C7.0%2C8.5%2C6.0%2C5.0%2C4.5%2C5.8%2C7.5%5D%2C%22backgroundColor%22%3A%5B%22%237b2ff7b3%22%2C%22%23f107a3b3%22%2C%22%23ff6b6bb3%22%2C%22%23fcb045b3%22%2C%22%234ecdc4b3%22%2C%22%238b5cf6b3%22%2C%22%2322d3eeb3%22%2C%22%23fbbf24b3%22%2C%22%23fb7185b3%22%2C%22%2334d399b3%22%5D%2C%22borderColor%22%3A%22%23040b1a%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Atrue%2C%22position%22%3A%22bottom%22%2C%22labels%22%3A%7B%22fontColor%22%3A%22%23e5e7eb%22%2C%22boxWidth%22%3A10%2C%22fontSize%22%3A8%7D%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scale%22%3A%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A9%2C%22fontColor%22%3A%22%23cbd5e1%22%2C%22backdropColor%22%3A%22transparent%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.25%29%22%7D%2C%22angleLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.25%29%22%7D%7D%7D%7D" width="100%" alt="CNN Advanced polar area chart"/>
+</td>
+<td align="center" width="50%">
+<h4>🚀 CNN Advanced — Parameter Spread (Radar View)</h4>
+<img src="https://quickchart.io/chart?width=480&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22NeXtForge%22%2C%22InvoNet%22%2C%22DeformCore%22%2C%22ArchSearch%22%2C%22ConvAttenHybrid%22%2C%22RouteMix%22%2C%22SpectralConv%22%2C%22KernelSelect%22%2C%22FlowDepth%22%2C%22HyperGen%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Parameters%20%28M%29%22%2C%22data%22%3A%5B6.5%2C4.8%2C5.5%2C7.0%2C8.5%2C6.0%2C5.0%2C4.5%2C5.8%2C7.5%5D%2C%22backgroundColor%22%3A%22rgba%28167%2C139%2C250%2C0.3%29%22%2C%22borderColor%22%3A%22%23a78bfa%22%2C%22pointBackgroundColor%22%3A%22%23f107a3%22%2C%22pointBorderColor%22%3A%22%23ffffff%22%2C%22borderWidth%22%3A2%2C%22pointRadius%22%3A4%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scale%22%3A%7B%22angleLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.3%29%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.25%29%22%7D%2C%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A9%2C%22stepSize%22%3A3%2C%22fontColor%22%3A%22%23cbd5e1%22%2C%22backdropColor%22%3A%22transparent%22%7D%2C%22pointLabels%22%3A%7B%22fontColor%22%3A%22%23e5e7eb%22%2C%22fontSize%22%3A9%7D%7D%7D%7D" width="100%" alt="CNN Advanced radar chart"/>
+</td>
+</tr>
+</table>
+
 </div>
 
 <br/>
