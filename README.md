@@ -275,6 +275,243 @@
 
 <br/>
 
+<h2 align="center">🧱 Custom CNN Foundations Catalog (Beginner) — Private</h2>
+
+<div align="center">
+<table align="center">
+<thead>
+<tr>
+<th align="center">Name</th>
+<th align="center">Core Technique</th>
+<th align="center">Concept</th>
+<th align="center">Parameters</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/StackLite">🧱 <b>StackLite</b></a></td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">Sequential Conv-Pool Stack</span></td>
+<td align="center">Classic mini-VGG pattern — the foundation of learning feature hierarchy</td>
+<td align="center">~0.8M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/SkipLite">🔀 <b>SkipLite</b></a></td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">Basic Residual Connection</span></td>
+<td align="center">Simple skip connection — solves the gradient flow problem</td>
+<td align="center">~1.2M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/SeparaLite">✂️ <b>SeparaLite</b></a></td>
+<td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">Depthwise-Separable Conv</span></td>
+<td align="center">MobileNet-style efficient convolution</td>
+<td align="center">~0.6M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/BranchLite">🌿 <b>BranchLite</b></a></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">Multi-Branch Parallel Kernel</span></td>
+<td align="center">Inception-style — multiple kernel sizes processed in parallel</td>
+<td align="center">~1.8M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/DilateLite">🔭 <b>DilateLite</b></a></td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">Dilated Convolution</span></td>
+<td align="center">Expands the receptive field without pooling</td>
+<td align="center">~1.0M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/GlobalLite">🌐 <b>GlobalLite</b></a></td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">Global Average Pooling</span></td>
+<td align="center">The core idea of global context aggregation</td>
+<td align="center">~0.9M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/PreActLite">⏮️ <b>PreActLite</b></a></td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">Pre-Activation Ordering</span></td>
+<td align="center">BN-ReLU-Conv order (instead of post-activation)</td>
+<td align="center">~1.3M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/BottleLite">🍾 <b>BottleLite</b></a></td>
+<td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">1x1 Bottleneck Compression</span></td>
+<td align="center">The core technique of channel compression</td>
+<td align="center">~1.5M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/GroupLite">👥 <b>GroupLite</b></a></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">Grouped Convolution</span></td>
+<td align="center">ResNeXt-style cardinality concept</td>
+<td align="center">~1.6M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/DenseLite">🔗 <b>DenseLite</b></a></td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">Dense Concatenative Connection</span></td>
+<td align="center">DenseNet-style feature reuse</td>
+<td align="center">~2.0M</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<br/>
+
+<h2 align="center">⚙️ Custom CNN Efficiency &amp; Attention Catalog (Intermediate) — Private</h2>
+
+<div align="center">
+<table align="center">
+<thead>
+<tr>
+<th align="center">Name</th>
+<th align="center">Core Technique</th>
+<th align="center">Concept</th>
+<th align="center">Parameters</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/AttenCore">👁️ <b>AttenCore</b></a></td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">Squeeze-and-Excitation</span></td>
+<td align="center">Channel attention</td>
+<td align="center">~2.5M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/CBAMCore">🎯 <b>CBAMCore</b></a></td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">CBAM Dual Attention</span></td>
+<td align="center">Combines channel + spatial attention</td>
+<td align="center">~2.8M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/PyramidFlex">🔺 <b>PyramidFlex</b></a></td>
+<td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">Feature Pyramid Fusion</span></td>
+<td align="center">Multi-scale feature fusion</td>
+<td align="center">~3.2M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/StochDepth">🎲 <b>StochDepth</b></a></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">Stochastic Depth</span></td>
+<td align="center">Randomly drops residual blocks during training</td>
+<td align="center">~2.2M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/CoordSense">📍 <b>CoordSense</b></a></td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">Coordinate Attention</span></td>
+<td align="center">Position-aware attention</td>
+<td align="center">~2.6M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/DynaKernel">🌀 <b>DynaKernel</b></a></td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">Dynamic/Conditional Conv</span></td>
+<td align="center">Input-dependent kernel weighting (CondConv-style)</td>
+<td align="center">~3.5M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/BlurGuard">🌫️ <b>BlurGuard</b></a></td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">Anti-Aliased Downsampling</span></td>
+<td align="center">Blur-pool — improves shift-invariance</td>
+<td align="center">~2.0M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/SelfCalib">🎛️ <b>SelfCalib</b></a></td>
+<td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">Self-Calibrated Conv</span></td>
+<td align="center">Adaptive receptive field</td>
+<td align="center">~3.0M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/OctaveSplit">🎼 <b>OctaveSplit</b></a></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">Octave Convolution</span></td>
+<td align="center">Separates high/low frequency feature processing</td>
+<td align="center">~2.7M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/GhostLean">👻 <b>GhostLean</b></a></td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">Ghost Module</span></td>
+<td align="center">Cheap feature map generation (GhostNet-style)</td>
+<td align="center">~1.4M</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<br/>
+
+<h2 align="center">🚀 Custom CNN Advanced Architecture Catalog (Advanced) — Private</h2>
+
+<div align="center">
+<table align="center">
+<thead>
+<tr>
+<th align="center">Name</th>
+<th align="center">Core Technique</th>
+<th align="center">Concept</th>
+<th align="center">Parameters</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/NeXtForge">⚒️ <b>NeXtForge</b></a></td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">ConvNeXt-style Modernization</span></td>
+<td align="center">Large-kernel depthwise + inverted bottleneck + LayerNorm</td>
+<td align="center">~6.5M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/InvoNet">🔄 <b>InvoNet</b></a></td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">Involution</span></td>
+<td align="center">Location-specific, channel-agnostic kernel (inverse of conv)</td>
+<td align="center">~4.8M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/DeformCore">🔧 <b>DeformCore</b></a></td>
+<td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">Deformable Convolution</span></td>
+<td align="center">Learnable sampling offsets</td>
+<td align="center">~5.5M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/ArchSearch">🔍 <b>ArchSearch</b></a></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">NAS-inspired Mixed-Op</span></td>
+<td align="center">Learned mixture of multiple operations (DARTS-style)</td>
+<td align="center">~7.0M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/ConvAttenHybrid">🧩 <b>ConvAttenHybrid</b></a></td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">Local Conv + Global Attention</span></td>
+<td align="center">CoAtNet-style hybrid fusion</td>
+<td align="center">~8.5M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/RouteMix">🚦 <b>RouteMix</b></a></td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">Dynamic Routing / MoE</span></td>
+<td align="center">Learned routing among multiple branches</td>
+<td align="center">~6.0M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/SpectralConv">🌈 <b>SpectralConv</b></a></td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">Frequency-Domain Conv</span></td>
+<td align="center">FFT-based spectral feature processing</td>
+<td align="center">~5.0M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/KernelSelect">🗳️ <b>KernelSelect</b></a></td>
+<td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">Selective Kernel (SKNet)</span></td>
+<td align="center">Attention-based selection among multiple kernel-size branches per input</td>
+<td align="center">~4.5M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/FlowDepth">♾️ <b>FlowDepth</b></a></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">Neural ODE Continuous Depth</span></td>
+<td align="center">ODE-solver-based continuous residual depth</td>
+<td align="center">~5.8M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/HyperGen">⚡ <b>HyperGen</b></a></td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">Hypernetwork-Conditioned Conv</span></td>
+<td align="center">A small hypernetwork dynamically generates conv weights</td>
+<td align="center">~7.5M</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<br/>
+
 <h2 align="center">🧪 Custom Spiking Neural Network Model Registry (Private)</h2>
 
 <div align="center">
