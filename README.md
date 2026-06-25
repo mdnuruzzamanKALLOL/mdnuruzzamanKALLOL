@@ -863,6 +863,104 @@
 
 <br/>
 
+<h2 align="center">🔁 Custom LSTM &amp; Bi-LSTM Architecture Catalog — Private</h2>
+
+<div align="center">
+<table align="center">
+<thead>
+<tr>
+<th align="center" width="18%">Name</th>
+<th align="center">Core Technique</th>
+<th align="center">Concept</th>
+<th align="center">Parameters</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/VanillaCell">🍦 <b>VanillaCell</b></a></td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">Vanilla LSTM Cell</span></td>
+<td align="center">Basic forget/input/output gates plus a cell state</td>
+<td align="center">~0.5M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/BiFlowCell">🔁 <b>BiFlowCell</b></a></td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">Bidirectional LSTM</span></td>
+<td align="center">Forward and backward passes concatenated together</td>
+<td align="center">~0.9M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/StackCell">🧱 <b>StackCell</b></a></td>
+<td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">Stacked Multi-Layer LSTM</span></td>
+<td align="center">Depth added via two or more stacked LSTM layers</td>
+<td align="center">~1.1M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/PeepCell">👁️ <b>PeepCell</b></a></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">Peephole LSTM Connections</span></td>
+<td align="center">Gates directly see the cell state, not just the hidden state</td>
+<td align="center">~0.6M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/ResidCell">🪜 <b>ResidCell</b></a></td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">Residual LSTM Stack</span></td>
+<td align="center">A skip connection bypassing one stacked LSTM layer</td>
+<td align="center">~1.3M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/LayerNormCell">📏 <b>LayerNormCell</b></a></td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">Layer Normalization in LSTM</span></td>
+<td align="center">Normalizing the gate pre-activations inside the cell</td>
+<td align="center">~0.6M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/GateDropCell">🚪 <b>GateDropCell</b></a></td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">Recurrent Dropout / Zoneout</span></td>
+<td align="center">Regularization applied directly to the recurrent connection</td>
+<td align="center">~0.6M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/AttnPoolCell">🎯 <b>AttnPoolCell</b></a></td>
+<td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">Attention-Pooled Readout</span></td>
+<td align="center">A learned attention-weighted pool over every time step</td>
+<td align="center">~0.9M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/MixGateCell">🌀 <b>MixGateCell</b></a></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">GRU-style Merged Gates</span></td>
+<td align="center">Forget and input gates merged into a single update gate</td>
+<td align="center">~0.5M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/ConvCell">🪟 <b>ConvCell</b></a></td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">Convolutional Gate LSTM</span></td>
+<td align="center">A 1D convolution replacing the linear gate projections</td>
+<td align="center">~0.7M</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<br/>
+
+<div align="center">
+
+<table width="78%" align="center">
+<tr>
+<td align="center" width="50%">
+<h4>🔁 LSTM &amp; Bi-LSTM — Parameter Comparison (Horizontal Bar View)</h4>
+<img src="https://quickchart.io/chart?width=480&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22horizontalBar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22VanillaCell%22%2C%22BiFlowCell%22%2C%22StackCell%22%2C%22PeepCell%22%2C%22ResidCell%22%2C%22LayerNormCell%22%2C%22GateDropCell%22%2C%22AttnPoolCell%22%2C%22MixGateCell%22%2C%22ConvCell%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Parameters%20%28M%29%22%2C%22data%22%3A%5B0.5%2C0.9%2C1.1%2C0.6%2C1.3%2C0.6%2C0.6%2C0.9%2C0.5%2C0.7%5D%2C%22backgroundColor%22%3A%5B%22%2360a5fab3%22%2C%22%23a78bfab3%22%2C%22%23f87171b3%22%2C%22%2334d399b3%22%2C%22%23fb923cb3%22%2C%22%2338bdf8b3%22%2C%22%23f472b6b3%22%2C%22%23facc15b3%22%2C%22%2322d3eeb3%22%2C%22%23818cf8b3%22%5D%2C%22borderColor%22%3A%22%23040b1a%22%2C%22borderWidth%22%3A1%2C%22barPercentage%22%3A0.7%2C%22categoryPercentage%22%3A0.8%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scales%22%3A%7B%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A1.5%2C%22fontColor%22%3A%22%23cbd5e1%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.18%29%22%7D%7D%5D%2C%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23cbd5e1%22%2C%22fontSize%22%3A10%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.1%29%22%7D%7D%5D%7D%7D%7D" width="100%" alt="LSTM and Bi-LSTM horizontal bar chart"/>
+</td>
+<td align="center" width="50%">
+<h4>🔁 LSTM &amp; Bi-LSTM — Parameter Share (Doughnut View)</h4>
+<img src="https://quickchart.io/chart?width=480&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22VanillaCell%22%2C%22BiFlowCell%22%2C%22StackCell%22%2C%22PeepCell%22%2C%22ResidCell%22%2C%22LayerNormCell%22%2C%22GateDropCell%22%2C%22AttnPoolCell%22%2C%22MixGateCell%22%2C%22ConvCell%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B0.5%2C0.9%2C1.1%2C0.6%2C1.3%2C0.6%2C0.6%2C0.9%2C0.5%2C0.7%5D%2C%22backgroundColor%22%3A%5B%22%2360a5fab3%22%2C%22%23a78bfab3%22%2C%22%23f87171b3%22%2C%22%2334d399b3%22%2C%22%23fb923cb3%22%2C%22%2338bdf8b3%22%2C%22%23f472b6b3%22%2C%22%23facc15b3%22%2C%22%2322d3eeb3%22%2C%22%23818cf8b3%22%5D%2C%22borderColor%22%3A%22%23040b1a%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Atrue%2C%22position%22%3A%22bottom%22%2C%22labels%22%3A%7B%22fontColor%22%3A%22%23e5e7eb%22%2C%22boxWidth%22%3A10%2C%22fontSize%22%3A8%7D%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22plugins%22%3A%7B%22datalabels%22%3A%7B%22color%22%3A%22%23ffffff%22%7D%7D%7D%7D" width="100%" alt="LSTM and Bi-LSTM doughnut chart"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
 <h2 align="center">🧪 Custom Spiking Neural Network Model Registry (Private)</h2>
 
 <div align="center">
