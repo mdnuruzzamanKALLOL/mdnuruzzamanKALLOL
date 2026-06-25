@@ -569,6 +569,300 @@
 
 <br/>
 
+<h2 align="center">🧩 Custom Transformer Foundations Catalog (Beginner) — Private</h2>
+
+<div align="center">
+<table align="center">
+<thead>
+<tr>
+<th align="center" width="20%">Name</th>
+<th align="center">Core Technique</th>
+<th align="center">Concept</th>
+<th align="center">Parameters</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/ScaledDotBase">📐 <b>ScaledDotBase</b></a></td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">Scaled Dot-Product Attention</span></td>
+<td align="center">The core Q·Kᵀ/√d softmax mechanism behind all attention</td>
+<td align="center">~0.8M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/MultiHeadBase">🐙 <b>MultiHeadBase</b></a></td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">Multi-Head Attention</span></td>
+<td align="center">Splitting one attention computation into parallel heads</td>
+<td align="center">~1.2M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/SinePosBase">🌊 <b>SinePosBase</b></a></td>
+<td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">Sinusoidal Positional Encoding</span></td>
+<td align="center">Fixed, non-learned sine/cosine position signal</td>
+<td align="center">~0.6M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/LearnPosBase">🎓 <b>LearnPosBase</b></a></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">Learned Positional Embeddings</span></td>
+<td align="center">Position as a directly learnable embedding table</td>
+<td align="center">~0.9M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/PreNormBase">🔼 <b>PreNormBase</b></a></td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">Pre-LayerNorm Ordering</span></td>
+<td align="center">Normalize before attention/FFN — stabilizes deep training</td>
+<td align="center">~1.0M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/PostNormBase">📜 <b>PostNormBase</b></a></td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">Post-LayerNorm Ordering (original)</span></td>
+<td align="center">Normalize after the residual add — the original 2017 design</td>
+<td align="center">~1.0M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/CausalMaskBase">🎭 <b>CausalMaskBase</b></a></td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">Causal (Masked) Self-Attention</span></td>
+<td align="center">Masking future tokens for autoregressive decoding</td>
+<td align="center">~1.3M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/CrossAttnBase">🌉 <b>CrossAttnBase</b></a></td>
+<td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">Encoder-Decoder Cross-Attention</span></td>
+<td align="center">Bridging encoder output into the decoder</td>
+<td align="center">~1.8M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/TiedEmbedBase">🔗 <b>TiedEmbedBase</b></a></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">Weight-Tied Input/Output Embeddings</span></td>
+<td align="center">Sharing one weight matrix between embedding and output</td>
+<td align="center">~1.6M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/FFNExpandBase">📈 <b>FFNExpandBase</b></a></td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">Position-wise Feed-Forward Network</span></td>
+<td align="center">Per-token expand-then-reduce MLP block</td>
+<td align="center">~2.0M</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<br/>
+
+<div align="center">
+
+<table width="78%" align="center">
+<tr>
+<td align="center" width="50%">
+<h4>🧩 Transformer Foundations — Parameter Share (Polar Area View)</h4>
+<img src="https://quickchart.io/chart?width=480&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22polarArea%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22ScaledDotBase%22%2C%22MultiHeadBase%22%2C%22SinePosBase%22%2C%22LearnPosBase%22%2C%22PreNormBase%22%2C%22PostNormBase%22%2C%22CausalMaskBase%22%2C%22CrossAttnBase%22%2C%22TiedEmbedBase%22%2C%22FFNExpandBase%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B0.8%2C1.2%2C0.6%2C0.9%2C1.0%2C1.0%2C1.3%2C1.8%2C1.6%2C2.0%5D%2C%22backgroundColor%22%3A%5B%22%2338bdf8b3%22%2C%22%23a78bfab3%22%2C%22%23f87171b3%22%2C%22%2334d399b3%22%2C%22%23fb923cb3%22%2C%22%2360a5fab3%22%2C%22%23f472b6b3%22%2C%22%23facc15b3%22%2C%22%2322d3eeb3%22%2C%22%23818cf8b3%22%5D%2C%22borderColor%22%3A%22%23040b1a%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Atrue%2C%22position%22%3A%22bottom%22%2C%22labels%22%3A%7B%22fontColor%22%3A%22%23e5e7eb%22%2C%22boxWidth%22%3A10%2C%22fontSize%22%3A8%7D%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scale%22%3A%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A2.5%2C%22fontColor%22%3A%22%23cbd5e1%22%2C%22backdropColor%22%3A%22transparent%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.25%29%22%7D%2C%22angleLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.25%29%22%7D%7D%7D%7D" width="100%" alt="Transformer Foundations polar area chart"/>
+</td>
+<td align="center" width="50%">
+<h4>🧩 Transformer Foundations — Parameter Spread (Radar View)</h4>
+<img src="https://quickchart.io/chart?width=480&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22ScaledDotBase%22%2C%22MultiHeadBase%22%2C%22SinePosBase%22%2C%22LearnPosBase%22%2C%22PreNormBase%22%2C%22PostNormBase%22%2C%22CausalMaskBase%22%2C%22CrossAttnBase%22%2C%22TiedEmbedBase%22%2C%22FFNExpandBase%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Parameters%20%28M%29%22%2C%22data%22%3A%5B0.8%2C1.2%2C0.6%2C0.9%2C1.0%2C1.0%2C1.3%2C1.8%2C1.6%2C2.0%5D%2C%22backgroundColor%22%3A%22rgba%2856%2C189%2C248%2C0.3%29%22%2C%22borderColor%22%3A%22%2338bdf8%22%2C%22pointBackgroundColor%22%3A%22%23facc15%22%2C%22pointBorderColor%22%3A%22%23ffffff%22%2C%22borderWidth%22%3A2%2C%22pointRadius%22%3A4%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scale%22%3A%7B%22angleLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.3%29%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.25%29%22%7D%2C%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A2.5%2C%22stepSize%22%3A0.8333333333333334%2C%22fontColor%22%3A%22%23cbd5e1%22%2C%22backdropColor%22%3A%22transparent%22%7D%2C%22pointLabels%22%3A%7B%22fontColor%22%3A%22%23e5e7eb%22%2C%22fontSize%22%3A9%7D%7D%7D%7D" width="100%" alt="Transformer Foundations radar chart"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<h2 align="center">⚙️ Custom Transformer Efficiency &amp; Attention Catalog (Intermediate) — Private</h2>
+
+<div align="center">
+<table align="center">
+<thead>
+<tr>
+<th align="center">Name</th>
+<th align="center">Core Technique</th>
+<th align="center">Concept</th>
+<th align="center">Parameters</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/RelPosSpan">📏 <b>RelPosSpan</b></a></td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">Relative Positional Encoding</span></td>
+<td align="center">Encoding token-to-token distance, not absolute position</td>
+<td align="center">~2.2M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/RoPESpin">🌀 <b>RoPESpin</b></a></td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">Rotary Positional Embedding (RoPE)</span></td>
+<td align="center">Rotating Q/K vectors by a position-dependent angle</td>
+<td align="center">~2.5M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/ALiBiSlope">📉 <b>ALiBiSlope</b></a></td>
+<td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">Attention with Linear Biases</span></td>
+<td align="center">Distance-based linear penalty instead of position embeddings</td>
+<td align="center">~2.0M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/SparseAttnMesh">🕸️ <b>SparseAttnMesh</b></a></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">Sparse Attention</span></td>
+<td align="center">Fixed sparse pattern avoiding full O(N²) attention</td>
+<td align="center">~2.6M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/LinearFlowNet">💨 <b>LinearFlowNet</b></a></td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">Linear Attention</span></td>
+<td align="center">Kernel-trick attention computed in O(N)</td>
+<td align="center">~2.8M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/WindowPaneCore">🪟 <b>WindowPaneCore</b></a></td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">Local/Sliding Window Attention</span></td>
+<td align="center">Each token attends only within a nearby window</td>
+<td align="center">~2.3M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/GateFFNFlex">🚪 <b>GateFFNFlex</b></a></td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">Gated Linear Unit FFN (SwiGLU/GeGLU)</span></td>
+<td align="center">Adding a gating mechanism inside the FFN block</td>
+<td align="center">~3.0M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/DeepNormScale">🏗️ <b>DeepNormScale</b></a></td>
+<td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">DeepNorm Scaling</span></td>
+<td align="center">Normalization fix enabling 1000+ layer Transformers</td>
+<td align="center">~2.7M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/TalkingHeadMix">🗣️ <b>TalkingHeadMix</b></a></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">Talking-Heads Attention</span></td>
+<td align="center">Mixing information across heads before/after softmax</td>
+<td align="center">~2.4M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/RMSNormTrim">✂️ <b>RMSNormTrim</b></a></td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">RMSNorm</span></td>
+<td align="center">Scale-only normalization, dropping mean-centering</td>
+<td align="center">~3.5M</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<br/>
+
+<div align="center">
+
+<table width="78%" align="center">
+<tr>
+<td align="center" width="50%">
+<h4>⚙️ Transformer Efficiency &amp; Attention — Parameter Share (Polar Area View)</h4>
+<img src="https://quickchart.io/chart?width=480&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22polarArea%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22RelPosSpan%22%2C%22RoPESpin%22%2C%22ALiBiSlope%22%2C%22SparseAttnMesh%22%2C%22LinearFlowNet%22%2C%22WindowPaneCore%22%2C%22GateFFNFlex%22%2C%22DeepNormScale%22%2C%22TalkingHeadMix%22%2C%22RMSNormTrim%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B2.2%2C2.5%2C2.0%2C2.6%2C2.8%2C2.3%2C3.0%2C2.7%2C2.4%2C3.5%5D%2C%22backgroundColor%22%3A%5B%22%2338bdf8b3%22%2C%22%23a78bfab3%22%2C%22%23f87171b3%22%2C%22%2334d399b3%22%2C%22%23fb923cb3%22%2C%22%2360a5fab3%22%2C%22%23f472b6b3%22%2C%22%23facc15b3%22%2C%22%2322d3eeb3%22%2C%22%23818cf8b3%22%5D%2C%22borderColor%22%3A%22%23040b1a%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Atrue%2C%22position%22%3A%22bottom%22%2C%22labels%22%3A%7B%22fontColor%22%3A%22%23e5e7eb%22%2C%22boxWidth%22%3A10%2C%22fontSize%22%3A8%7D%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scale%22%3A%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A4%2C%22fontColor%22%3A%22%23cbd5e1%22%2C%22backdropColor%22%3A%22transparent%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.25%29%22%7D%2C%22angleLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.25%29%22%7D%7D%7D%7D" width="100%" alt="Transformer Efficiency polar area chart"/>
+</td>
+<td align="center" width="50%">
+<h4>⚙️ Transformer Efficiency &amp; Attention — Parameter Spread (Radar View)</h4>
+<img src="https://quickchart.io/chart?width=480&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22RelPosSpan%22%2C%22RoPESpin%22%2C%22ALiBiSlope%22%2C%22SparseAttnMesh%22%2C%22LinearFlowNet%22%2C%22WindowPaneCore%22%2C%22GateFFNFlex%22%2C%22DeepNormScale%22%2C%22TalkingHeadMix%22%2C%22RMSNormTrim%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Parameters%20%28M%29%22%2C%22data%22%3A%5B2.2%2C2.5%2C2.0%2C2.6%2C2.8%2C2.3%2C3.0%2C2.7%2C2.4%2C3.5%5D%2C%22backgroundColor%22%3A%22rgba%28244%2C114%2C182%2C0.3%29%22%2C%22borderColor%22%3A%22%23f472b6%22%2C%22pointBackgroundColor%22%3A%22%2334d399%22%2C%22pointBorderColor%22%3A%22%23ffffff%22%2C%22borderWidth%22%3A2%2C%22pointRadius%22%3A4%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scale%22%3A%7B%22angleLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.3%29%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.25%29%22%7D%2C%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A4%2C%22stepSize%22%3A1.3333333333333333%2C%22fontColor%22%3A%22%23cbd5e1%22%2C%22backdropColor%22%3A%22transparent%22%7D%2C%22pointLabels%22%3A%7B%22fontColor%22%3A%22%23e5e7eb%22%2C%22fontSize%22%3A9%7D%7D%7D%7D" width="100%" alt="Transformer Efficiency radar chart"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<h2 align="center">🚀 Custom Transformer Advanced Architecture Catalog (Advanced) — Private</h2>
+
+<div align="center">
+<table align="center">
+<thead>
+<tr>
+<th align="center">Name</th>
+<th align="center">Core Technique</th>
+<th align="center">Concept</th>
+<th align="center">Parameters</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/FlashAttnCore">⚡ <b>FlashAttnCore</b></a></td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">FlashAttention</span></td>
+<td align="center">IO-aware tiling for memory-efficient exact attention</td>
+<td align="center">~5.5M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/MoEGateNet">🎰 <b>MoEGateNet</b></a></td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">Mixture-of-Experts (Switch Transformer-style)</span></td>
+<td align="center">Token-level sparse expert routing inside the FFN</td>
+<td align="center">~7.0M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/StateScanFlow">📡 <b>StateScanFlow</b></a></td>
+<td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">State-Space Model (Mamba-style)</span></td>
+<td align="center">Selective state-space scanning replacing attention</td>
+<td align="center">~6.0M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/RetainSense">🧲 <b>RetainSense</b></a></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">Retentive Network</span></td>
+<td align="center">Explicit decay-based retention, an attention alternative</td>
+<td align="center">~5.0M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/GroupQueryMix">👥 <b>GroupQueryMix</b></a></td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">Grouped-Query Attention</span></td>
+<td align="center">Multiple query heads sharing fewer Key/Value heads</td>
+<td align="center">~4.5M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/LatentQueryEdge">🫧 <b>LatentQueryEdge</b></a></td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">Perceiver IO</span></td>
+<td align="center">Cross-attention into a fixed-size latent bottleneck</td>
+<td align="center">~6.5M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/GlobalWindowMesh">🌐 <b>GlobalWindowMesh</b></a></td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">Local + Global Attention Hybrid</span></td>
+<td align="center">Local window attention plus a few globally-visible tokens</td>
+<td align="center">~5.8M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/SegmentMemCache">💾 <b>SegmentMemCache</b></a></td>
+<td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">Transformer-XL Segment Recurrence</span></td>
+<td align="center">Caching the previous segment's hidden states for longer context</td>
+<td align="center">~7.5M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/AdaptiveSpanFlex">🤸 <b>AdaptiveSpanFlex</b></a></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">Adaptive Attention Span</span></td>
+<td align="center">Each head learns how far back it needs to attend</td>
+<td align="center">~4.8M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/DiffAttnPulse">➖ <b>DiffAttnPulse</b></a></td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">Differential Attention</span></td>
+<td align="center">Subtracting two softmax attention maps to cancel noise</td>
+<td align="center">~8.5M</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<br/>
+
+<div align="center">
+
+<table width="78%" align="center">
+<tr>
+<td align="center" width="50%">
+<h4>🚀 Transformer Advanced — Parameter Share (Polar Area View)</h4>
+<img src="https://quickchart.io/chart?width=480&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22polarArea%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22FlashAttnCore%22%2C%22MoEGateNet%22%2C%22StateScanFlow%22%2C%22RetainSense%22%2C%22GroupQueryMix%22%2C%22LatentQueryEdge%22%2C%22GlobalWindowMesh%22%2C%22SegmentMemCache%22%2C%22AdaptiveSpanFlex%22%2C%22DiffAttnPulse%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B5.5%2C7.0%2C6.0%2C5.0%2C4.5%2C6.5%2C5.8%2C7.5%2C4.8%2C8.5%5D%2C%22backgroundColor%22%3A%5B%22%2338bdf8b3%22%2C%22%23a78bfab3%22%2C%22%23f87171b3%22%2C%22%2334d399b3%22%2C%22%23fb923cb3%22%2C%22%2360a5fab3%22%2C%22%23f472b6b3%22%2C%22%23facc15b3%22%2C%22%2322d3eeb3%22%2C%22%23818cf8b3%22%5D%2C%22borderColor%22%3A%22%23040b1a%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Atrue%2C%22position%22%3A%22bottom%22%2C%22labels%22%3A%7B%22fontColor%22%3A%22%23e5e7eb%22%2C%22boxWidth%22%3A10%2C%22fontSize%22%3A8%7D%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scale%22%3A%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A9%2C%22fontColor%22%3A%22%23cbd5e1%22%2C%22backdropColor%22%3A%22transparent%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.25%29%22%7D%2C%22angleLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.25%29%22%7D%7D%7D%7D" width="100%" alt="Transformer Advanced polar area chart"/>
+</td>
+<td align="center" width="50%">
+<h4>🚀 Transformer Advanced — Parameter Spread (Radar View)</h4>
+<img src="https://quickchart.io/chart?width=480&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22FlashAttnCore%22%2C%22MoEGateNet%22%2C%22StateScanFlow%22%2C%22RetainSense%22%2C%22GroupQueryMix%22%2C%22LatentQueryEdge%22%2C%22GlobalWindowMesh%22%2C%22SegmentMemCache%22%2C%22AdaptiveSpanFlex%22%2C%22DiffAttnPulse%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Parameters%20%28M%29%22%2C%22data%22%3A%5B5.5%2C7.0%2C6.0%2C5.0%2C4.5%2C6.5%2C5.8%2C7.5%2C4.8%2C8.5%5D%2C%22backgroundColor%22%3A%22rgba%28167%2C139%2C250%2C0.3%29%22%2C%22borderColor%22%3A%22%23a78bfa%22%2C%22pointBackgroundColor%22%3A%22%23f107a3%22%2C%22pointBorderColor%22%3A%22%23ffffff%22%2C%22borderWidth%22%3A2%2C%22pointRadius%22%3A4%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scale%22%3A%7B%22angleLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.3%29%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.25%29%22%7D%2C%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A9%2C%22stepSize%22%3A3.0%2C%22fontColor%22%3A%22%23cbd5e1%22%2C%22backdropColor%22%3A%22transparent%22%7D%2C%22pointLabels%22%3A%7B%22fontColor%22%3A%22%23e5e7eb%22%2C%22fontSize%22%3A9%7D%7D%7D%7D" width="100%" alt="Transformer Advanced radar chart"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
 <h2 align="center">🧪 Custom Spiking Neural Network Model Registry (Private)</h2>
 
 <div align="center">
