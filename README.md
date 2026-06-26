@@ -975,61 +975,61 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/VanillaUnit">🍦 <b>VanillaUnit</b></a></td>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/CoreFlux">🍦 <b>CoreFlux</b></a></td>
 <td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">Standard GRU Cell</span></td>
 <td align="center">Basic update/reset gates plus a single hidden state</td>
 <td align="center">~0.5M</td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/BiFlowUnit">🔁 <b>BiFlowUnit</b></a></td>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/TwinFlux">🔁 <b>TwinFlux</b></a></td>
 <td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">Bidirectional GRU</span></td>
 <td align="center">Forward and backward GRU passes concatenated together</td>
 <td align="center">~0.8M</td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/StackUnit">🧱 <b>StackUnit</b></a></td>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/DeepFlux">🧱 <b>DeepFlux</b></a></td>
 <td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">Stacked Multi-Layer GRU</span></td>
 <td align="center">Depth added via two or more stacked GRU layers</td>
 <td align="center">~1.0M</td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/MinGateUnit">➖ <b>MinGateUnit</b></a></td>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/LiteFlux">➖ <b>LiteFlux</b></a></td>
 <td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">Minimal GRU (Type-3)</span></td>
 <td align="center">Reset gate removed, relying on the update gate alone</td>
 <td align="center">~0.4M</td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/ResidUnit">🪜 <b>ResidUnit</b></a></td>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/SkipFlux">🪜 <b>SkipFlux</b></a></td>
 <td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">Residual GRU Stack</span></td>
 <td align="center">A skip connection bypassing one stacked GRU layer</td>
 <td align="center">~1.2M</td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/LayerNormUnit">📏 <b>LayerNormUnit</b></a></td>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/CalmFlux">📏 <b>CalmFlux</b></a></td>
 <td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">Layer Normalization in GRU</span></td>
 <td align="center">Normalizing the gate pre-activations inside the cell</td>
 <td align="center">~0.6M</td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/GateDropUnit">🚪 <b>GateDropUnit</b></a></td>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/FadeFlux">🚪 <b>FadeFlux</b></a></td>
 <td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">Gate-Level Dropout</span></td>
 <td align="center">Regularization applied directly to the candidate update</td>
 <td align="center">~0.5M</td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/AttnPoolUnit">🎯 <b>AttnPoolUnit</b></a></td>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/FocusFlux">🎯 <b>FocusFlux</b></a></td>
 <td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">Attention-Pooled Readout</span></td>
 <td align="center">A learned attention-weighted pool over every time step</td>
 <td align="center">~0.8M</td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/OutGateUnit">🔓 <b>OutGateUnit</b></a></td>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/GuardFlux">🔓 <b>GuardFlux</b></a></td>
 <td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">GRU + Output Gate</span></td>
 <td align="center">An added output gate, borrowed from the LSTM design</td>
 <td align="center">~0.6M</td>
 </tr>
 <tr>
-<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/ConvUnit">🪟 <b>ConvUnit</b></a></td>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/LensFlux">🪟 <b>LensFlux</b></a></td>
 <td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">Conv1D-Preprocessed GRU</span></td>
 <td align="center">A 1D convolution extracting local features before the GRU</td>
 <td align="center">~0.6M</td>
@@ -1047,11 +1047,11 @@
 <tr>
 <td align="center" width="50%">
 <h4>🌀 GRU &amp; Bi-GRU — Parameter Share (Pie View)</h4>
-<img src="https://quickchart.io/chart?width=480&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22VanillaUnit%22%2C%22BiFlowUnit%22%2C%22StackUnit%22%2C%22MinGateUnit%22%2C%22ResidUnit%22%2C%22LayerNormUnit%22%2C%22GateDropUnit%22%2C%22AttnPoolUnit%22%2C%22OutGateUnit%22%2C%22ConvUnit%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B0.5%2C0.8%2C1.0%2C0.4%2C1.2%2C0.6%2C0.5%2C0.8%2C0.6%2C0.6%5D%2C%22backgroundColor%22%3A%5B%22%2360a5fab3%22%2C%22%23a78bfab3%22%2C%22%23f87171b3%22%2C%22%2334d399b3%22%2C%22%23fb923cb3%22%2C%22%2338bdf8b3%22%2C%22%23f472b6b3%22%2C%22%23facc15b3%22%2C%22%2322d3eeb3%22%2C%22%23818cf8b3%22%5D%2C%22borderColor%22%3A%22%23040b1a%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Atrue%2C%22position%22%3A%22bottom%22%2C%22labels%22%3A%7B%22fontColor%22%3A%22%23e5e7eb%22%2C%22boxWidth%22%3A10%2C%22fontSize%22%3A8%7D%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22plugins%22%3A%7B%22datalabels%22%3A%7B%22color%22%3A%22%23ffffff%22%7D%7D%7D%7D" width="100%" alt="GRU and Bi-GRU pie chart"/>
+<img src="https://quickchart.io/chart?width=480&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22CoreFlux%22%2C%22TwinFlux%22%2C%22DeepFlux%22%2C%22LiteFlux%22%2C%22SkipFlux%22%2C%22CalmFlux%22%2C%22FadeFlux%22%2C%22FocusFlux%22%2C%22GuardFlux%22%2C%22LensFlux%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B0.5%2C0.8%2C1.0%2C0.4%2C1.2%2C0.6%2C0.5%2C0.8%2C0.6%2C0.6%5D%2C%22backgroundColor%22%3A%5B%22%2360a5fab3%22%2C%22%23a78bfab3%22%2C%22%23f87171b3%22%2C%22%2334d399b3%22%2C%22%23fb923cb3%22%2C%22%2338bdf8b3%22%2C%22%23f472b6b3%22%2C%22%23facc15b3%22%2C%22%2322d3eeb3%22%2C%22%23818cf8b3%22%5D%2C%22borderColor%22%3A%22%23040b1a%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Atrue%2C%22position%22%3A%22bottom%22%2C%22labels%22%3A%7B%22fontColor%22%3A%22%23e5e7eb%22%2C%22boxWidth%22%3A10%2C%22fontSize%22%3A8%7D%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22plugins%22%3A%7B%22datalabels%22%3A%7B%22color%22%3A%22%23ffffff%22%7D%7D%7D%7D" width="100%" alt="GRU and Bi-GRU pie chart"/>
 </td>
 <td align="center" width="50%">
 <h4>🌀 GRU &amp; Bi-GRU — Parameter Comparison (Radar View)</h4>
-<img src="https://quickchart.io/chart?width=480&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22VanillaUnit%22%2C%22BiFlowUnit%22%2C%22StackUnit%22%2C%22MinGateUnit%22%2C%22ResidUnit%22%2C%22LayerNormUnit%22%2C%22GateDropUnit%22%2C%22AttnPoolUnit%22%2C%22OutGateUnit%22%2C%22ConvUnit%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Parameters%20%28M%29%22%2C%22data%22%3A%5B0.5%2C0.8%2C1.0%2C0.4%2C1.2%2C0.6%2C0.5%2C0.8%2C0.6%2C0.6%5D%2C%22backgroundColor%22%3A%22rgba%2896%2C165%2C250%2C0.25%29%22%2C%22borderColor%22%3A%22%2360a5fa%22%2C%22pointBackgroundColor%22%3A%22%2360a5fa%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scale%22%3A%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22fontColor%22%3A%22%23cbd5e1%22%2C%22backdropColor%22%3A%22rgba%280%2C0%2C0%2C0%29%22%7D%2C%22pointLabels%22%3A%7B%22fontColor%22%3A%22%23cbd5e1%22%2C%22fontSize%22%3A9%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.18%29%22%7D%2C%22angleLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.18%29%22%7D%7D%7D%7D" width="100%" alt="GRU and Bi-GRU radar chart"/>
+<img src="https://quickchart.io/chart?width=480&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22CoreFlux%22%2C%22TwinFlux%22%2C%22DeepFlux%22%2C%22LiteFlux%22%2C%22SkipFlux%22%2C%22CalmFlux%22%2C%22FadeFlux%22%2C%22FocusFlux%22%2C%22GuardFlux%22%2C%22LensFlux%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Parameters%20%28M%29%22%2C%22data%22%3A%5B0.5%2C0.8%2C1.0%2C0.4%2C1.2%2C0.6%2C0.5%2C0.8%2C0.6%2C0.6%5D%2C%22backgroundColor%22%3A%22rgba%2896%2C165%2C250%2C0.25%29%22%2C%22borderColor%22%3A%22%2360a5fa%22%2C%22pointBackgroundColor%22%3A%22%2360a5fa%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scale%22%3A%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22fontColor%22%3A%22%23cbd5e1%22%2C%22backdropColor%22%3A%22rgba%280%2C0%2C0%2C0%29%22%7D%2C%22pointLabels%22%3A%7B%22fontColor%22%3A%22%23cbd5e1%22%2C%22fontSize%22%3A9%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.18%29%22%7D%2C%22angleLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.18%29%22%7D%7D%7D%7D" width="100%" alt="GRU and Bi-GRU radar chart"/>
 </td>
 </tr>
 </table>
