@@ -2163,6 +2163,105 @@
 
 <br/>
 
+<h2 align="center">🔂 Custom Vanilla RNN &amp; Bi-RNN Architecture Catalog — Private</h2>
+
+<div align="center">
+<table align="center">
+<thead>
+<tr>
+<th align="center" width="18%">Name</th>
+<th align="center">Core Technique</th>
+<th align="center">Concept</th>
+<th align="center">Parameters</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/CoreEcho">🍦 <b>CoreEcho</b></a></td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">Standard Vanilla RNN Cell</span></td>
+<td align="center">Basic tanh activation with a single hidden-state recurrence</td>
+<td align="center">~0.3M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/TwinEcho">🔁 <b>TwinEcho</b></a></td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">Bidirectional Vanilla RNN</span></td>
+<td align="center">Forward and backward RNN passes concatenated together</td>
+<td align="center">~0.6M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/DeepEcho">🧱 <b>DeepEcho</b></a></td>
+<td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">Stacked Multi-Layer RNN</span></td>
+<td align="center">Depth added via two or more stacked RNN layers</td>
+<td align="center">~0.7M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/ReLUEcho">⚡ <b>ReLUEcho</b></a></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">ReLU-Activation RNN</span></td>
+<td align="center">tanh replaced with ReLU, testing exploding-gradient sensitivity</td>
+<td align="center">~0.3M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/LeakEcho">💧 <b>LeakEcho</b></a></td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">Leaky-Integrator RNN</span></td>
+<td align="center">A fixed leak rate blends the previous and new hidden state</td>
+<td align="center">~0.3M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/IndEcho">🧩 <b>IndEcho</b></a></td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">Independent (Diagonal) Recurrence</span></td>
+<td align="center">IndRNN-style per-unit recurrent scalar instead of a full weight matrix</td>
+<td align="center">~0.2M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/ClipEcho">✂️ <b>ClipEcho</b></a></td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">Gradient-Clipped Training</span></td>
+<td align="center">Explicit gradient-norm clipping applied during BPTT</td>
+<td align="center">~0.3M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/SkipEcho">🪜 <b>SkipEcho</b></a></td>
+<td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">Residual Recurrent Stack</span></td>
+<td align="center">A skip connection bypassing one stacked RNN layer</td>
+<td align="center">~0.7M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/CalmEcho">📏 <b>CalmEcho</b></a></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">Layer Normalization in RNN</span></td>
+<td align="center">Normalizing the hidden pre-activation inside the cell</td>
+<td align="center">~0.4M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/FocusEcho">🎯 <b>FocusEcho</b></a></td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">Attention-Pooled Readout</span></td>
+<td align="center">A learned attention-weighted pool over every time step</td>
+<td align="center">~0.6M</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<table width="78%" align="center">
+<tr>
+<td align="center" width="50%">
+<h4>🔂 Vanilla RNN &amp; Bi-RNN — Parameter Spread (Radar View)</h4>
+<img src="https://quickchart.io/chart?width=480&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22CoreEcho%22%2C%22TwinEcho%22%2C%22DeepEcho%22%2C%22ReLUEcho%22%2C%22LeakEcho%22%2C%22IndEcho%22%2C%22ClipEcho%22%2C%22SkipEcho%22%2C%22CalmEcho%22%2C%22FocusEcho%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Parameters%20%28M%29%22%2C%22data%22%3A%5B0.3%2C0.6%2C0.7%2C0.3%2C0.3%2C0.2%2C0.3%2C0.7%2C0.4%2C0.6%5D%2C%22backgroundColor%22%3A%22rgba%2896%2C165%2C250%2C0.25%29%22%2C%22borderColor%22%3A%22%2360a5fa%22%2C%22pointBackgroundColor%22%3A%22%2360a5fa%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scale%22%3A%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22fontColor%22%3A%22%23cbd5e1%22%2C%22backdropColor%22%3A%22rgba%280%2C0%2C0%2C0%29%22%7D%2C%22pointLabels%22%3A%7B%22fontColor%22%3A%22%23cbd5e1%22%2C%22fontSize%22%3A9%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.18%29%22%7D%2C%22angleLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.18%29%22%7D%7D%7D%7D" width="100%" alt="Vanilla RNN and Bi-RNN radar chart"/>
+</td>
+<td align="center" width="50%">
+<h4>🔂 Vanilla RNN &amp; Bi-RNN — Parameter Count (Bar View)</h4>
+<img src="https://quickchart.io/chart?width=480&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22CoreEcho%22%2C%22TwinEcho%22%2C%22DeepEcho%22%2C%22ReLUEcho%22%2C%22LeakEcho%22%2C%22IndEcho%22%2C%22ClipEcho%22%2C%22SkipEcho%22%2C%22CalmEcho%22%2C%22FocusEcho%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Parameters%20%28M%29%22%2C%22data%22%3A%5B0.3%2C0.6%2C0.7%2C0.3%2C0.3%2C0.2%2C0.3%2C0.7%2C0.4%2C0.6%5D%2C%22backgroundColor%22%3A%5B%22%2360a5fab3%22%2C%22%23a78bfab3%22%2C%22%23f87171b3%22%2C%22%2334d399b3%22%2C%22%23fb923cb3%22%2C%22%2338bdf8b3%22%2C%22%23f472b6b3%22%2C%22%23facc15b3%22%2C%22%2322d3eeb3%22%2C%22%23818cf8b3%22%5D%2C%22borderWidth%22%3A0%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scales%22%3A%7B%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23cbd5e1%22%2C%22maxRotation%22%3A30%2C%22minRotation%22%3A30%7D%2C%22gridLines%22%3A%7B%22display%22%3Afalse%7D%7D%5D%2C%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22fontColor%22%3A%22%23cbd5e1%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.18%29%22%7D%7D%5D%7D%7D%7D" width="100%" alt="Vanilla RNN and Bi-RNN bar chart"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 <h2 align="center">👨‍💻 A Little More About Me</h2>
