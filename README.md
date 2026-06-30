@@ -2022,7 +2022,7 @@
 
 <div align="center">
 <table align="center">
-  <tr margin-bottom: 10px;">
+  <tr style="margin-bottom: 10px;">
     <td align="center" width="220" style="padding-bottom: 14px;">
       <h4>📓 Notebooks</h4>
       <sub style="display:inline-block; margin-bottom: 6px;">Interactive Jupyter walkthrough<br/>architecture · training · eval</sub>
@@ -2037,8 +2037,6 @@
     </td>
   </tr>
 </table>
-</div>
-
 </div>
 
 <br/>
@@ -2254,6 +2252,612 @@
 <td align="center" width="50%">
 <h4>🔂 Vanilla RNN &amp; Bi-RNN — Parameter Count (Bar View)</h4>
 <img src="https://quickchart.io/chart?width=480&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22CoreEcho%22%2C%22TwinEcho%22%2C%22DeepEcho%22%2C%22ReLUEcho%22%2C%22LeakEcho%22%2C%22IndEcho%22%2C%22ClipEcho%22%2C%22SkipEcho%22%2C%22CalmEcho%22%2C%22FocusEcho%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Parameters%20%28M%29%22%2C%22data%22%3A%5B0.3%2C0.6%2C0.7%2C0.3%2C0.3%2C0.2%2C0.3%2C0.7%2C0.4%2C0.6%5D%2C%22backgroundColor%22%3A%5B%22%2360a5fab3%22%2C%22%23a78bfab3%22%2C%22%23f87171b3%22%2C%22%2334d399b3%22%2C%22%23fb923cb3%22%2C%22%2338bdf8b3%22%2C%22%23f472b6b3%22%2C%22%23facc15b3%22%2C%22%2322d3eeb3%22%2C%22%23818cf8b3%22%5D%2C%22borderWidth%22%3A0%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scales%22%3A%7B%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23cbd5e1%22%2C%22maxRotation%22%3A30%2C%22minRotation%22%3A30%7D%2C%22gridLines%22%3A%7B%22display%22%3Afalse%7D%7D%5D%2C%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22fontColor%22%3A%22%23cbd5e1%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.18%29%22%7D%7D%5D%7D%7D%7D" width="100%" alt="Vanilla RNN and Bi-RNN bar chart"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<h2 align="center">🕸️ Custom Graph Neural Network Catalog — Private</h2>
+
+<div align="center">
+<table align="center">
+<thead>
+<tr>
+<th align="center" width="18%">Name</th>
+<th align="center">Core Technique</th>
+<th align="center">Concept</th>
+<th align="center">Parameters</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/ConvHop">🕸️ <b>ConvHop</b></a></td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">GCN</span></td>
+<td align="center">Stacked graph convolutions aggregating neighbors via the normalized graph Laplacian</td>
+<td align="center">~0.3M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/AttnHop">🎯 <b>AttnHop</b></a></td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">GAT</span></td>
+<td align="center">Learned attention weights over each node's neighbors before aggregation</td>
+<td align="center">~0.5M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/SampleHop">🎲 <b>SampleHop</b></a></td>
+<td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">GraphSAGE</span></td>
+<td align="center">Inductive learning via fixed-size neighbor sampling, generalizing to unseen nodes</td>
+<td align="center">~0.4M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/MsgHop">✉️ <b>MsgHop</b></a></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">MPNN</span></td>
+<td align="center">General message-passing with learned edge-conditioned messages summed at each node</td>
+<td align="center">~0.6M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/SumHop">➕ <b>SumHop</b></a></td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">GIN</span></td>
+<td align="center">Sum aggregation over neighbors, as expressive as the Weisfeiler-Lehman test</td>
+<td align="center">~0.3M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/RelHop">🔀 <b>RelHop</b></a></td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">R-GCN</span></td>
+<td align="center">Relation-specific weight matrices for multi-relational/heterogeneous edges</td>
+<td align="center">~0.7M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/FullHop">🌐 <b>FullHop</b></a></td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">Graph Transformer</span></td>
+<td align="center">Full pairwise self-attention across all nodes, structure as a bias only</td>
+<td align="center">~1.2M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/PoolHop">🫧 <b>PoolHop</b></a></td>
+<td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">DiffPool</span></td>
+<td align="center">A learned, differentiable soft-clustering layer pooling nodes into a coarser graph</td>
+<td align="center">~0.8M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/JumpHop">🦘 <b>JumpHop</b></a></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">Jumping Knowledge</span></td>
+<td align="center">Aggregates representations from every layer's depth, not just the last</td>
+<td align="center">~0.5M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/ReconHop">🔧 <b>ReconHop</b></a></td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">Graph Autoencoder</span></td>
+<td align="center">Encodes nodes then decodes pairwise dot-products to reconstruct adjacency (link prediction)</td>
+<td align="center">~0.4M</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+<br/>
+
+<br/>
+
+<div align="center">
+
+<table width="78%" align="center">
+<tr>
+<td align="center" width="50%">
+<h4>🕸️ GNN — Parameter Spread (Polar Area View)</h4>
+<img src="https://quickchart.io/chart?width=480&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22polarArea%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22ConvHop%22%2C%22AttnHop%22%2C%22SampleHop%22%2C%22MsgHop%22%2C%22SumHop%22%2C%22RelHop%22%2C%22FullHop%22%2C%22PoolHop%22%2C%22JumpHop%22%2C%22ReconHop%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B0.3%2C0.5%2C0.4%2C0.6%2C0.3%2C0.7%2C1.2%2C0.8%2C0.5%2C0.4%5D%2C%22backgroundColor%22%3A%5B%22%2360a5fab3%22%2C%22%23a78bfab3%22%2C%22%23f87171b3%22%2C%22%2334d399b3%22%2C%22%23fb923cb3%22%2C%22%2338bdf8b3%22%2C%22%23f472b6b3%22%2C%22%23facc15b3%22%2C%22%2322d3eeb3%22%2C%22%23818cf8b3%22%5D%2C%22borderColor%22%3A%22%23040b1a%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Atrue%2C%22position%22%3A%22bottom%22%2C%22labels%22%3A%7B%22fontColor%22%3A%22%23e5e7eb%22%2C%22boxWidth%22%3A10%2C%22fontSize%22%3A8%7D%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%7D%7D" width="100%" alt="Graph Neural Network polarArea chart"/>
+</td>
+<td align="center" width="50%">
+<h4>🕸️ GNN — Parameter Comparison (Horizontal Bar View)</h4>
+<img src="https://quickchart.io/chart?width=480&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22horizontalBar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22ConvHop%22%2C%22AttnHop%22%2C%22SampleHop%22%2C%22MsgHop%22%2C%22SumHop%22%2C%22RelHop%22%2C%22FullHop%22%2C%22PoolHop%22%2C%22JumpHop%22%2C%22ReconHop%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Parameters%20%28M%29%22%2C%22data%22%3A%5B0.3%2C0.5%2C0.4%2C0.6%2C0.3%2C0.7%2C1.2%2C0.8%2C0.5%2C0.4%5D%2C%22backgroundColor%22%3A%5B%22%2360a5fab3%22%2C%22%23a78bfab3%22%2C%22%23f87171b3%22%2C%22%2334d399b3%22%2C%22%23fb923cb3%22%2C%22%2338bdf8b3%22%2C%22%23f472b6b3%22%2C%22%23facc15b3%22%2C%22%2322d3eeb3%22%2C%22%23818cf8b3%22%5D%2C%22borderColor%22%3A%22%23040b1a%22%2C%22borderWidth%22%3A1%2C%22barPercentage%22%3A0.7%2C%22categoryPercentage%22%3A0.8%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scales%22%3A%7B%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22fontColor%22%3A%22%23cbd5e1%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.18%29%22%7D%7D%5D%2C%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23cbd5e1%22%2C%22fontSize%22%3A10%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.1%29%22%7D%7D%5D%7D%7D%7D" width="100%" alt="Graph Neural Network horizontalBar chart"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<h2 align="center">⚔️ Custom GAN Catalog — Private</h2>
+
+<div align="center">
+<table align="center">
+<thead>
+<tr>
+<th align="center" width="18%">Name</th>
+<th align="center">Core Technique</th>
+<th align="center">Concept</th>
+<th align="center">Parameters</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/VanillaDuel">🍦 <b>VanillaDuel</b></a></td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">Original GAN</span></td>
+<td align="center">A simple generator/discriminator pair trained with the original minimax loss</td>
+<td align="center">~1.5M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/ConvDuel">🧱 <b>ConvDuel</b></a></td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">DCGAN</span></td>
+<td align="center">Deep convolutional generator/discriminator with strided/transposed convolutions</td>
+<td align="center">~3.5M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/CondDuel">🏷️ <b>CondDuel</b></a></td>
+<td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">Conditional GAN</span></td>
+<td align="center">Generator and discriminator both additionally condition on a class label</td>
+<td align="center">~3.8M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/CycleDuel">🔄 <b>CycleDuel</b></a></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">CycleGAN</span></td>
+<td align="center">Two generators trained with a cycle-consistency loss for unpaired translation</td>
+<td align="center">~7.0M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/StyleDuel">🎨 <b>StyleDuel</b></a></td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">StyleGAN</span></td>
+<td align="center">A mapping network plus style-modulated convolutions injecting latent style per layer</td>
+<td align="center">~9.0M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/WassDuel">📏 <b>WassDuel</b></a></td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">WGAN</span></td>
+<td align="center">Same generator/discriminator as VanillaDuel, trained with Wasserstein distance instead</td>
+<td align="center">~1.5M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/PairDuel">🤝 <b>PairDuel</b></a></td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">Pix2Pix</span></td>
+<td align="center">A U-Net generator and PatchGAN discriminator for paired image translation</td>
+<td align="center">~5.0M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/ProgDuel">📈 <b>ProgDuel</b></a></td>
+<td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">Progressive GAN</span></td>
+<td align="center">Generator/discriminator grown progressively, adding resolution over training</td>
+<td align="center">~6.0M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/SuperResDuel">🔍 <b>SuperResDuel</b></a></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">SRGAN</span></td>
+<td align="center">A residual generator upsamples images, trained with adversarial + perceptual loss</td>
+<td align="center">~4.5M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/SelfAttnDuel">🎯 <b>SelfAttnDuel</b></a></td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">SAGAN</span></td>
+<td align="center">Self-attention layers model long-range spatial dependencies in generator/discriminator</td>
+<td align="center">~5.5M</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+<br/>
+
+<br/>
+
+<div align="center">
+
+<table width="78%" align="center">
+<tr>
+<td align="center" width="50%">
+<h4>⚔️ GAN — Parameter Share (Pie View)</h4>
+<img src="https://quickchart.io/chart?width=480&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22VanillaDuel%22%2C%22ConvDuel%22%2C%22CondDuel%22%2C%22CycleDuel%22%2C%22StyleDuel%22%2C%22WassDuel%22%2C%22PairDuel%22%2C%22ProgDuel%22%2C%22SuperResDuel%22%2C%22SelfAttnDuel%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B1.5%2C3.5%2C3.8%2C7.0%2C9.0%2C1.5%2C5.0%2C6.0%2C4.5%2C5.5%5D%2C%22backgroundColor%22%3A%5B%22%2360a5fab3%22%2C%22%23a78bfab3%22%2C%22%23f87171b3%22%2C%22%2334d399b3%22%2C%22%23fb923cb3%22%2C%22%2338bdf8b3%22%2C%22%23f472b6b3%22%2C%22%23facc15b3%22%2C%22%2322d3eeb3%22%2C%22%23818cf8b3%22%5D%2C%22borderColor%22%3A%22%23040b1a%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Atrue%2C%22position%22%3A%22bottom%22%2C%22labels%22%3A%7B%22fontColor%22%3A%22%23e5e7eb%22%2C%22boxWidth%22%3A10%2C%22fontSize%22%3A8%7D%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%7D%7D" width="100%" alt="GAN pie chart"/>
+</td>
+<td align="center" width="50%">
+<h4>⚔️ GAN — Parameter Count (Bar View)</h4>
+<img src="https://quickchart.io/chart?width=480&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22VanillaDuel%22%2C%22ConvDuel%22%2C%22CondDuel%22%2C%22CycleDuel%22%2C%22StyleDuel%22%2C%22WassDuel%22%2C%22PairDuel%22%2C%22ProgDuel%22%2C%22SuperResDuel%22%2C%22SelfAttnDuel%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Parameters%20%28M%29%22%2C%22data%22%3A%5B1.5%2C3.5%2C3.8%2C7.0%2C9.0%2C1.5%2C5.0%2C6.0%2C4.5%2C5.5%5D%2C%22backgroundColor%22%3A%5B%22%2360a5fab3%22%2C%22%23a78bfab3%22%2C%22%23f87171b3%22%2C%22%2334d399b3%22%2C%22%23fb923cb3%22%2C%22%2338bdf8b3%22%2C%22%23f472b6b3%22%2C%22%23facc15b3%22%2C%22%2322d3eeb3%22%2C%22%23818cf8b3%22%5D%2C%22borderWidth%22%3A0%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scales%22%3A%7B%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23cbd5e1%22%2C%22maxRotation%22%3A30%2C%22minRotation%22%3A30%7D%2C%22gridLines%22%3A%7B%22display%22%3Afalse%7D%7D%5D%2C%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22fontColor%22%3A%22%23cbd5e1%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.18%29%22%7D%7D%5D%7D%7D%7D" width="100%" alt="GAN bar chart"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<h2 align="center">🌫️ Custom Diffusion Model Catalog — Private</h2>
+
+<div align="center">
+<table align="center">
+<thead>
+<tr>
+<th align="center" width="18%">Name</th>
+<th align="center">Core Technique</th>
+<th align="center">Concept</th>
+<th align="center">Parameters</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/NoiseDrift">🌫️ <b>NoiseDrift</b></a></td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">DDPM</span></td>
+<td align="center">A U-Net denoiser predicts added noise per timestep, sampled via the full reverse chain</td>
+<td align="center">~6.0M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/FastDrift">⚡ <b>FastDrift</b></a></td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">DDIM</span></td>
+<td align="center">Same denoiser as NoiseDrift, sampled via a deterministic non-Markovian shortcut</td>
+<td align="center">~6.0M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/ScoreDrift">📉 <b>ScoreDrift</b></a></td>
+<td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">Score-based SDE</span></td>
+<td align="center">Estimates the score of progressively noised data, sampled by solving a reverse-time SDE</td>
+<td align="center">~6.5M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/LatentDrift">🗜️ <b>LatentDrift</b></a></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">Latent Diffusion</span></td>
+<td align="center">Diffusion runs in a compressed autoencoder latent space, not pixel space</td>
+<td align="center">~7.0M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/GuideDrift">🧭 <b>GuideDrift</b></a></td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">Classifier-Free Guidance</span></td>
+<td align="center">A denoiser jointly trained with/without conditioning, blended at sampling time</td>
+<td align="center">~6.0M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/CascadeDrift">🌊 <b>CascadeDrift</b></a></td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">Cascaded super-res diffusion</span></td>
+<td align="center">A low-res base model followed by one or more diffusion super-resolution stages</td>
+<td align="center">~8.0M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/ConsistDrift">⏱️ <b>ConsistDrift</b></a></td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">Consistency Model</span></td>
+<td align="center">Maps any point on the diffusion trajectory directly to the origin for single-step generation</td>
+<td align="center">~6.0M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/CtrlDrift">🎛️ <b>CtrlDrift</b></a></td>
+<td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">ControlNet</span></td>
+<td align="center">A trainable encoder copy injects structural conditioning into a frozen base diffusion model</td>
+<td align="center">~9.0M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/InpaintDrift">🩹 <b>InpaintDrift</b></a></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">Inpainting diffusion</span></td>
+<td align="center">The denoiser additionally conditions on a masked image to fill in only the missing region</td>
+<td align="center">~6.5M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/CrossDrift">📝 <b>CrossDrift</b></a></td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">Text-to-image cross-attention</span></td>
+<td align="center">Cross-attention layers attend to text-token embeddings at every resolution</td>
+<td align="center">~9.0M</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+<br/>
+
+<br/>
+
+<div align="center">
+
+<table width="78%" align="center">
+<tr>
+<td align="center" width="50%">
+<h4>🌫️ Diffusion — Parameter Spread (Radar View)</h4>
+<img src="https://quickchart.io/chart?width=480&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22NoiseDrift%22%2C%22FastDrift%22%2C%22ScoreDrift%22%2C%22LatentDrift%22%2C%22GuideDrift%22%2C%22CascadeDrift%22%2C%22ConsistDrift%22%2C%22CtrlDrift%22%2C%22InpaintDrift%22%2C%22CrossDrift%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Parameters%20%28M%29%22%2C%22data%22%3A%5B6.0%2C6.0%2C6.5%2C7.0%2C6.0%2C8.0%2C6.0%2C9.0%2C6.5%2C9.0%5D%2C%22backgroundColor%22%3A%22rgba%2896%2C165%2C250%2C0.25%29%22%2C%22borderColor%22%3A%22%2360a5fa%22%2C%22pointBackgroundColor%22%3A%22%2360a5fa%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scale%22%3A%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22fontColor%22%3A%22%23cbd5e1%22%2C%22backdropColor%22%3A%22rgba%280%2C0%2C0%2C0%29%22%7D%2C%22pointLabels%22%3A%7B%22fontColor%22%3A%22%23cbd5e1%22%2C%22fontSize%22%3A9%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.18%29%22%7D%2C%22angleLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.18%29%22%7D%7D%7D%7D" width="100%" alt="Diffusion radar chart"/>
+</td>
+<td align="center" width="50%">
+<h4>🌫️ Diffusion — Parameter Trend (Line View)</h4>
+<img src="https://quickchart.io/chart?width=480&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22NoiseDrift%22%2C%22FastDrift%22%2C%22ScoreDrift%22%2C%22LatentDrift%22%2C%22GuideDrift%22%2C%22CascadeDrift%22%2C%22ConsistDrift%22%2C%22CtrlDrift%22%2C%22InpaintDrift%22%2C%22CrossDrift%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Parameters%20%28M%29%22%2C%22data%22%3A%5B6.0%2C6.0%2C6.5%2C7.0%2C6.0%2C8.0%2C6.0%2C9.0%2C6.5%2C9.0%5D%2C%22fill%22%3Atrue%2C%22backgroundColor%22%3A%22rgba%2834%2C211%2C238%2C0.2%29%22%2C%22borderColor%22%3A%22%2322d3ee%22%2C%22pointBackgroundColor%22%3A%22%23f107a3%22%2C%22borderWidth%22%3A2%2C%22tension%22%3A0.3%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scales%22%3A%7B%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23cbd5e1%22%2C%22maxRotation%22%3A30%2C%22minRotation%22%3A30%7D%2C%22gridLines%22%3A%7B%22display%22%3Afalse%7D%7D%5D%2C%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22fontColor%22%3A%22%23cbd5e1%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.18%29%22%7D%7D%5D%7D%7D%7D" width="100%" alt="Diffusion line chart"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<h2 align="center">📦 Custom Object Detection Catalog — Private</h2>
+
+<div align="center">
+<table align="center">
+<thead>
+<tr>
+<th align="center" width="18%">Name</th>
+<th align="center">Core Technique</th>
+<th align="center">Concept</th>
+<th align="center">Parameters</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/AnchorBox">⚓ <b>AnchorBox</b></a></td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">RetinaNet/SSD-style</span></td>
+<td align="center">Dense anchor boxes at every location, directly classified/regressed in one stage</td>
+<td align="center">~5.0M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/FreeBox">🆓 <b>FreeBox</b></a></td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">FCOS</span></td>
+<td align="center">Per-pixel prediction of bounding-box distances directly, no anchors</td>
+<td align="center">~4.5M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/GridBox">🔲 <b>GridBox</b></a></td>
+<td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">YOLO-style</span></td>
+<td align="center">A coarse spatial grid, each cell directly predicting boxes and class scores</td>
+<td align="center">~6.0M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/RoIBox">🔍 <b>RoIBox</b></a></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">Two-stage RoI refinement</span></td>
+<td align="center">AnchorBox's coarse proposals RoI-Aligned and refined by a second-stage head</td>
+<td align="center">~6.5M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/PyramidBox">🏔️ <b>PyramidBox</b></a></td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">FPN</span></td>
+<td align="center">A top-down feature pyramid with lateral connections fuses multi-scale features</td>
+<td align="center">~5.5M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/QueryBox">🔎 <b>QueryBox</b></a></td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">DETR</span></td>
+<td align="center">A transformer decoder with learned object queries predicts boxes via bipartite matching</td>
+<td align="center">~7.0M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/FocalBox">🎯 <b>FocalBox</b></a></td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">Focal loss</span></td>
+<td align="center">AnchorBox's architecture trained with focal loss to down-weight easy negatives</td>
+<td align="center">~5.0M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/DedupBox">🧹 <b>DedupBox</b></a></td>
+<td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">Learnable NMS</span></td>
+<td align="center">A small learned network replaces hand-crafted NMS, predicting which boxes to suppress</td>
+<td align="center">~5.2M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/CascadeBox">🪜 <b>CascadeBox</b></a></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">Cascade R-CNN</span></td>
+<td align="center">A sequence of heads at increasing IoU thresholds, each refining the previous stage</td>
+<td align="center">~7.5M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/RotateBox">🔄 <b>RotateBox</b></a></td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">Rotated/oriented detection</span></td>
+<td align="center">Predicts an additional rotation angle per box for oriented objects</td>
+<td align="center">~5.3M</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+<br/>
+
+<br/>
+
+<div align="center">
+
+<table width="78%" align="center">
+<tr>
+<td align="center" width="50%">
+<h4>📦 Object Detection — Parameter Share (Doughnut View)</h4>
+<img src="https://quickchart.io/chart?width=480&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22AnchorBox%22%2C%22FreeBox%22%2C%22GridBox%22%2C%22RoIBox%22%2C%22PyramidBox%22%2C%22QueryBox%22%2C%22FocalBox%22%2C%22DedupBox%22%2C%22CascadeBox%22%2C%22RotateBox%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B5.0%2C4.5%2C6.0%2C6.5%2C5.5%2C7.0%2C5.0%2C5.2%2C7.5%2C5.3%5D%2C%22backgroundColor%22%3A%5B%22%2360a5fab3%22%2C%22%23a78bfab3%22%2C%22%23f87171b3%22%2C%22%2334d399b3%22%2C%22%23fb923cb3%22%2C%22%2338bdf8b3%22%2C%22%23f472b6b3%22%2C%22%23facc15b3%22%2C%22%2322d3eeb3%22%2C%22%23818cf8b3%22%5D%2C%22borderColor%22%3A%22%23040b1a%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Atrue%2C%22position%22%3A%22bottom%22%2C%22labels%22%3A%7B%22fontColor%22%3A%22%23e5e7eb%22%2C%22boxWidth%22%3A10%2C%22fontSize%22%3A8%7D%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%7D%7D" width="100%" alt="Object Detection doughnut chart"/>
+</td>
+<td align="center" width="50%">
+<h4>📦 Object Detection — Parameter Comparison (Horizontal Bar View)</h4>
+<img src="https://quickchart.io/chart?width=480&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22horizontalBar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22AnchorBox%22%2C%22FreeBox%22%2C%22GridBox%22%2C%22RoIBox%22%2C%22PyramidBox%22%2C%22QueryBox%22%2C%22FocalBox%22%2C%22DedupBox%22%2C%22CascadeBox%22%2C%22RotateBox%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Parameters%20%28M%29%22%2C%22data%22%3A%5B5.0%2C4.5%2C6.0%2C6.5%2C5.5%2C7.0%2C5.0%2C5.2%2C7.5%2C5.3%5D%2C%22backgroundColor%22%3A%5B%22%2360a5fab3%22%2C%22%23a78bfab3%22%2C%22%23f87171b3%22%2C%22%2334d399b3%22%2C%22%23fb923cb3%22%2C%22%2338bdf8b3%22%2C%22%23f472b6b3%22%2C%22%23facc15b3%22%2C%22%2322d3eeb3%22%2C%22%23818cf8b3%22%5D%2C%22borderColor%22%3A%22%23040b1a%22%2C%22borderWidth%22%3A1%2C%22barPercentage%22%3A0.7%2C%22categoryPercentage%22%3A0.8%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scales%22%3A%7B%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22fontColor%22%3A%22%23cbd5e1%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.18%29%22%7D%7D%5D%2C%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23cbd5e1%22%2C%22fontSize%22%3A10%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.1%29%22%7D%7D%5D%7D%7D%7D" width="100%" alt="Object Detection horizontalBar chart"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<h2 align="center">🎭 Custom Semantic Segmentation Catalog — Private</h2>
+
+<div align="center">
+<table align="center">
+<thead>
+<tr>
+<th align="center" width="18%">Name</th>
+<th align="center">Core Technique</th>
+<th align="center">Concept</th>
+<th align="center">Parameters</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/SkipMask">🪜 <b>SkipMask</b></a></td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">U-Net</span></td>
+<td align="center">Encoder-decoder with concatenation skips combining deep context and shallow detail</td>
+<td align="center">~4.0M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/DilateMask">🔬 <b>DilateMask</b></a></td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">DeepLab atrous conv</span></td>
+<td align="center">Dilated convolutions expand the receptive field without losing resolution</td>
+<td align="center">~4.5M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/PyramidMask">🏔️ <b>PyramidMask</b></a></td>
+<td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">PSPNet</span></td>
+<td align="center">Pooling at multiple fixed grid scales then concatenating for global+local context</td>
+<td align="center">~5.0M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/FormMask">🧩 <b>FormMask</b></a></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">SegFormer</span></td>
+<td align="center">A lightweight hierarchical transformer encoder with a simple MLP decoder</td>
+<td align="center">~5.5M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/PanopMask">🖼️ <b>PanopMask</b></a></td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">Panoptic fusion</span></td>
+<td align="center">Combines semantic and instance segmentation branches into one panoptic output</td>
+<td align="center">~6.0M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/BoundMask">✂️ <b>BoundMask</b></a></td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">Boundary-aware refinement</span></td>
+<td align="center">An auxiliary boundary-prediction branch sharpens edges plain losses blur</td>
+<td align="center">~4.2M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/CRFMask">🕸️ <b>CRFMask</b></a></td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">CRF post-processing</span></td>
+<td align="center">A differentiable CRF layer refines raw predictions using pairwise pixel affinities</td>
+<td align="center">~4.3M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/InstMask">🎭 <b>InstMask</b></a></td>
+<td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">Mask R-CNN instance head</span></td>
+<td align="center">A per-RoI mask-prediction branch on top of a detection backbone</td>
+<td align="center">~6.5M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/FuseMask">🔀 <b>FuseMask</b></a></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">HRNet</span></td>
+<td align="center">Multiple resolution streams run in parallel, repeatedly exchanging information</td>
+<td align="center">~5.8M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/AttnMask">🎯 <b>AttnMask</b></a></td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">Self-attention refinement</span></td>
+<td align="center">A self-attention layer over decoder features refines boundaries via long-range context</td>
+<td align="center">~4.4M</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+<br/>
+
+<br/>
+
+<div align="center">
+
+<table width="78%" align="center">
+<tr>
+<td align="center" width="50%">
+<h4>🎭 Segmentation — Parameter Spread (Polar Area View)</h4>
+<img src="https://quickchart.io/chart?width=480&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22polarArea%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22SkipMask%22%2C%22DilateMask%22%2C%22PyramidMask%22%2C%22FormMask%22%2C%22PanopMask%22%2C%22BoundMask%22%2C%22CRFMask%22%2C%22InstMask%22%2C%22FuseMask%22%2C%22AttnMask%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B4.0%2C4.5%2C5.0%2C5.5%2C6.0%2C4.2%2C4.3%2C6.5%2C5.8%2C4.4%5D%2C%22backgroundColor%22%3A%5B%22%2360a5fab3%22%2C%22%23a78bfab3%22%2C%22%23f87171b3%22%2C%22%2334d399b3%22%2C%22%23fb923cb3%22%2C%22%2338bdf8b3%22%2C%22%23f472b6b3%22%2C%22%23facc15b3%22%2C%22%2322d3eeb3%22%2C%22%23818cf8b3%22%5D%2C%22borderColor%22%3A%22%23040b1a%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Atrue%2C%22position%22%3A%22bottom%22%2C%22labels%22%3A%7B%22fontColor%22%3A%22%23e5e7eb%22%2C%22boxWidth%22%3A10%2C%22fontSize%22%3A8%7D%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%7D%7D" width="100%" alt="Semantic Segmentation polarArea chart"/>
+</td>
+<td align="center" width="50%">
+<h4>🎭 Segmentation — Parameter Count (Bar View)</h4>
+<img src="https://quickchart.io/chart?width=480&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22SkipMask%22%2C%22DilateMask%22%2C%22PyramidMask%22%2C%22FormMask%22%2C%22PanopMask%22%2C%22BoundMask%22%2C%22CRFMask%22%2C%22InstMask%22%2C%22FuseMask%22%2C%22AttnMask%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Parameters%20%28M%29%22%2C%22data%22%3A%5B4.0%2C4.5%2C5.0%2C5.5%2C6.0%2C4.2%2C4.3%2C6.5%2C5.8%2C4.4%5D%2C%22backgroundColor%22%3A%5B%22%2360a5fab3%22%2C%22%23a78bfab3%22%2C%22%23f87171b3%22%2C%22%2334d399b3%22%2C%22%23fb923cb3%22%2C%22%2338bdf8b3%22%2C%22%23f472b6b3%22%2C%22%23facc15b3%22%2C%22%2322d3eeb3%22%2C%22%23818cf8b3%22%5D%2C%22borderWidth%22%3A0%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scales%22%3A%7B%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23cbd5e1%22%2C%22maxRotation%22%3A30%2C%22minRotation%22%3A30%7D%2C%22gridLines%22%3A%7B%22display%22%3Afalse%7D%7D%5D%2C%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22fontColor%22%3A%22%23cbd5e1%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.18%29%22%7D%7D%5D%7D%7D%7D" width="100%" alt="Semantic Segmentation bar chart"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<h2 align="center">🌉 Custom Vision-Language / Multimodal Catalog — Private</h2>
+
+<div align="center">
+<table align="center">
+<thead>
+<tr>
+<th align="center" width="18%">Name</th>
+<th align="center">Core Technique</th>
+<th align="center">Concept</th>
+<th align="center">Parameters</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/ContrastBridge">⚖️ <b>ContrastBridge</b></a></td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">CLIP</span></td>
+<td align="center">Separate image/text encoders trained with a contrastive loss to align matching pairs</td>
+<td align="center">~8.0M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/BootBridge">🥾 <b>BootBridge</b></a></td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">BLIP</span></td>
+<td align="center">A bootstrapped captioner-filter loop cleans noisy pairs before joint pretraining</td>
+<td align="center">~8.5M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/CrossBridge">✖️ <b>CrossBridge</b></a></td>
+<td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">Dense cross-attention</span></td>
+<td align="center">Every text token attends directly to every image patch, no bottleneck</td>
+<td align="center">~7.0M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/PromptBridge">💬 <b>PromptBridge</b></a></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">VL prompt tuning</span></td>
+<td align="center">Learnable prompt tokens adapt a frozen pretrained backbone to a new task</td>
+<td align="center">~2.0M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/CaptionBridge">📝 <b>CaptionBridge</b></a></td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">Captioning decoder</span></td>
+<td align="center">An autoregressive decoder generates a caption token-by-token from image features</td>
+<td align="center">~7.5M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/GroundBridge">📍 <b>GroundBridge</b></a></td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">Visual grounding</span></td>
+<td align="center">Predicts the image region corresponding to a given text phrase</td>
+<td align="center">~6.5M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/QueryBridge">🔎 <b>QueryBridge</b></a></td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">Flamingo/Perceiver fusion</span></td>
+<td align="center">Fixed learned query vectors cross-attend to image features, compressing to a fixed size</td>
+<td align="center">~7.0M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/AlignBridge">🧲 <b>AlignBridge</b></a></td>
+<td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">Non-contrastive alignment</span></td>
+<td align="center">A predictor + stop-gradient target encoder align embeddings without negative pairs</td>
+<td align="center">~7.0M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/GenBridge">🖼️ <b>GenBridge</b></a></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">Text-to-image generation</span></td>
+<td align="center">A decoder generates an image conditioned on a joint text-image embedding</td>
+<td align="center">~9.0M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/RegionBridge">📐 <b>RegionBridge</b></a></td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">Region-text alignment</span></td>
+<td align="center">Aligns individual detected regions (not the whole image) with text spans</td>
+<td align="center">~7.0M</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+<br/>
+
+<br/>
+
+<div align="center">
+
+<table width="78%" align="center">
+<tr>
+<td align="center" width="50%">
+<h4>🌉 Vision-Language — Parameter Spread (Radar View)</h4>
+<img src="https://quickchart.io/chart?width=480&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22ContrastBridge%22%2C%22BootBridge%22%2C%22CrossBridge%22%2C%22PromptBridge%22%2C%22CaptionBridge%22%2C%22GroundBridge%22%2C%22QueryBridge%22%2C%22AlignBridge%22%2C%22GenBridge%22%2C%22RegionBridge%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Parameters%20%28M%29%22%2C%22data%22%3A%5B8.0%2C8.5%2C7.0%2C2.0%2C7.5%2C6.5%2C7.0%2C7.0%2C9.0%2C7.0%5D%2C%22backgroundColor%22%3A%22rgba%2896%2C165%2C250%2C0.25%29%22%2C%22borderColor%22%3A%22%2360a5fa%22%2C%22pointBackgroundColor%22%3A%22%2360a5fa%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scale%22%3A%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22fontColor%22%3A%22%23cbd5e1%22%2C%22backdropColor%22%3A%22rgba%280%2C0%2C0%2C0%29%22%7D%2C%22pointLabels%22%3A%7B%22fontColor%22%3A%22%23cbd5e1%22%2C%22fontSize%22%3A9%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.18%29%22%7D%2C%22angleLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.18%29%22%7D%7D%7D%7D" width="100%" alt="Vision-Language radar chart"/>
+</td>
+<td align="center" width="50%">
+<h4>🌉 Vision-Language — Parameter Share (Doughnut View)</h4>
+<img src="https://quickchart.io/chart?width=480&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22ContrastBridge%22%2C%22BootBridge%22%2C%22CrossBridge%22%2C%22PromptBridge%22%2C%22CaptionBridge%22%2C%22GroundBridge%22%2C%22QueryBridge%22%2C%22AlignBridge%22%2C%22GenBridge%22%2C%22RegionBridge%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B8.0%2C8.5%2C7.0%2C2.0%2C7.5%2C6.5%2C7.0%2C7.0%2C9.0%2C7.0%5D%2C%22backgroundColor%22%3A%5B%22%2360a5fab3%22%2C%22%23a78bfab3%22%2C%22%23f87171b3%22%2C%22%2334d399b3%22%2C%22%23fb923cb3%22%2C%22%2338bdf8b3%22%2C%22%23f472b6b3%22%2C%22%23facc15b3%22%2C%22%2322d3eeb3%22%2C%22%23818cf8b3%22%5D%2C%22borderColor%22%3A%22%23040b1a%22%2C%22borderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Atrue%2C%22position%22%3A%22bottom%22%2C%22labels%22%3A%7B%22fontColor%22%3A%22%23e5e7eb%22%2C%22boxWidth%22%3A10%2C%22fontSize%22%3A8%7D%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%7D%7D" width="100%" alt="Vision-Language doughnut chart"/>
 </td>
 </tr>
 </table>
