@@ -214,6 +214,40 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
+<h2 align="center">📘 Statistical Machine Learning for Noob</h2>
+
+<div align="center">
+<table align="center">
+<thead>
+<tr>
+<th width="35%" align="center">Repository</th>
+<th align="center">⭐ Stars</th>
+<th align="center">🍴 Forks</th>
+<th align="center">🔴 Issues</th>
+<th align="center">🟣 Pull Requests</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Statistical-Machine-Learning-Foundation">🧩 <b>Foundation</b></a></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Statistical-Machine-Learning-Foundation?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=3600&v=2"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Statistical-Machine-Learning-Foundation?style=for-the-badge&color=00E5FF&labelColor=006064&cacheSeconds=3600&v=2"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Statistical-Machine-Learning-Foundation?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=3600&v=2"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Statistical-Machine-Learning-Foundation?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=3600&v=2"/></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Statistical-Machine-Learning-Classical-ML">📊 <b>Classical ML</b></a></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Statistical-Machine-Learning-Classical-ML?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=3600&v=2"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Statistical-Machine-Learning-Classical-ML?style=for-the-badge&color=00E5FF&labelColor=006064&cacheSeconds=3600&v=2"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Statistical-Machine-Learning-Classical-ML?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=3600&v=2"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Statistical-Machine-Learning-Classical-ML?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=3600&v=2"/></td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+
 <h2 align="center">🦁 Pretrained Model Zoo</h2>
 
 <div align="center">
