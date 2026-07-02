@@ -214,7 +214,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
-<h2 align="center">📘 Statistical Machine Learning for Noob</h2>
+<h2 align="center">📘 Statistical Machine Learning</h2>
 
 <div align="center">
 <table align="center">
