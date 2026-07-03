@@ -143,10 +143,10 @@
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Cheat-Sheet">📋 <b>Cheat Sheet</b></a></td>
-<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Cheat-Sheet?style=for-the-badge&color=ffd700&labelColor=161b22&cacheSeconds=86400"/></td>
-<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Cheat-Sheet?style=for-the-badge&color=4ecdc4&labelColor=161b22&cacheSeconds=86400"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Cheat-Sheet?style=for-the-badge&color=ff6b6b&labelColor=161b22&cacheSeconds=86400"/></td>
-<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Cheat-Sheet?style=for-the-badge&color=a78bfa&labelColor=161b22&cacheSeconds=86400"/></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Cheat-Sheet?style=for-the-badge&color=ffd700&labelColor=161b22&cacheSeconds=86400&v=fix1783062578"/></td>
+<td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Cheat-Sheet?style=for-the-badge&color=4ecdc4&labelColor=161b22&cacheSeconds=86400&v=fix1783062578"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Cheat-Sheet?style=for-the-badge&color=ff6b6b&labelColor=161b22&cacheSeconds=86400&v=fix1783062578"/></td>
+<td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Cheat-Sheet?style=for-the-badge&color=a78bfa&labelColor=161b22&cacheSeconds=86400&v=fix1783062578"/></td>
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/AI-Cheat-Sheet">🤖 <b>AI Cheat Sheet</b></a></td>
