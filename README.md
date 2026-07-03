@@ -251,7 +251,7 @@
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/Time-Series-Analysis">📈 <b>Time Series</b></a></td>
-<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Time-Series-Analysis?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=3600&v=2"/></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/Time-Series-Analysis?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=3600&v=fix1783068417"/></td>
 <td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/Time-Series-Analysis?style=for-the-badge&color=00E5FF&labelColor=006064&cacheSeconds=3600&v=2"/></td>
 <td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/Time-Series-Analysis?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=3600&v=2"/></td>
 <td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/Time-Series-Analysis?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=3600&v=2"/></td>
@@ -299,7 +299,7 @@
 </tr>
 <tr>
 <td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/PyTorch-Pretrained-Model-Zoo">🔥 <b>PyTorch Model Zoo</b></a></td>
-<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/PyTorch-Pretrained-Model-Zoo?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=3600&v=2"/></td>
+<td align="center"><img src="https://img.shields.io/github/stars/mdnuruzzamanKALLOL/PyTorch-Pretrained-Model-Zoo?style=for-the-badge&color=ffd700&labelColor=E65100&cacheSeconds=3600&v=fix1783068419"/></td>
 <td align="center"><img src="https://img.shields.io/github/forks/mdnuruzzamanKALLOL/PyTorch-Pretrained-Model-Zoo?style=for-the-badge&color=00E5FF&labelColor=006064&cacheSeconds=3600&v=2"/></td>
 <td align="center"><img src="https://img.shields.io/github/issues/mdnuruzzamanKALLOL/PyTorch-Pretrained-Model-Zoo?style=for-the-badge&color=ff6b6b&labelColor=B71C1C&cacheSeconds=3600&v=2"/></td>
 <td align="center"><img src="https://img.shields.io/github/issues-pr/mdnuruzzamanKALLOL/PyTorch-Pretrained-Model-Zoo?style=for-the-badge&color=CE93D8&labelColor=4A148C&cacheSeconds=3600&v=2"/></td>
