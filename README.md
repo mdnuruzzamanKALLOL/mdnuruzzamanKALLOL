@@ -56,22 +56,22 @@
 <table width="90%">
 <tr>
 <td valign="top" width="60%">
-<h3>&#x1F525; PyTorch Powerhouse</h3>
+<h3>&#x1F504; Cross-Framework Model Translation</h3>
 <p>
-&#127919; <b>Quest:</b> Custom autograd engines, TorchScript, ONNX export &amp; distributed DDP training<br/>
-&#128296; <b>Stack:</b> PyTorch &bull; TorchScript &bull; ONNX &bull; DDP &bull; W&amp;B &bull; PyTorch Hub<br/>
-&#128218; <b>Topics:</b> Autograd &bull; Custom Datasets &bull; AMP &bull; DistributedDataParallel &bull; Profiler<br/>
-&#128202; <b>Difficulty:</b> &#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9609;&#9617; Expert<br/>
-&#128172; <i>&quot;Dynamic graphs, infinite possibilities&quot;</i>
+&#127919; <b>Quest:</b> Translate PyTorch &harr; TensorFlow models flawlessly via ONNX with full output validation<br/>
+&#128296; <b>Stack:</b> ONNX &bull; onnx2tf &bull; torch.onnx &bull; tf2onnx &bull; Netron &bull; onnxruntime<br/>
+&#128218; <b>Topics:</b> Layer Mapping &bull; Weight Transfer &bull; Op Compatibility &bull; Shape Validation &bull; Benchmark<br/>
+&#128202; <b>Difficulty:</b> &#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9617;&#9617; Hard<br/>
+&#128172; <i>&quot;Train anywhere, deploy everywhere&quot;</i>
 </p>
 <p>
-<img src="https://img.shields.io/badge/Week-2%20%2F%2052-ff6b6b?style=for-the-badge&amp;labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Week-3%20%2F%2052-ff6b6b?style=for-the-badge&amp;labelColor=161b22"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Active%20%F0%9F%94%A5-success?style=for-the-badge&amp;labelColor=161b22"/>
 </p>
 </td>
 <td valign="middle" width="40%" align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
 </td>
 </tr>
 </table>
