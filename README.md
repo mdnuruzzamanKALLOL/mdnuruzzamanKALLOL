@@ -1202,6 +1202,21 @@
 
 <br/>
 
+<div align="center">
+
+<table width="78%" align="center">
+<tr>
+<td align="center" width="100%">
+<h4>🎮 Custom Reinforcement Learning — Parameter Count by Model (K)</h4>
+<img src="https://quickchart.io/chart?width=820&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22CoreScout%22%2C%22TwinScout%22%2C%22DuelScout%22%2C%22RankScout%22%2C%22PathScout%22%2C%22SyncScout%22%2C%22ClipScout%22%2C%22SteerScout%22%2C%22DelayScout%22%2C%22SoftScout%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Parameters%20%28K%29%22%2C%22data%22%3A%5B17%2C17%2C18%2C17%2C17%2C35%2C35%2C134%2C202%2C202%5D%2C%22fill%22%3Atrue%2C%22borderColor%22%3A%22%2334d399%22%2C%22backgroundColor%22%3A%22rgba%2852%2C211%2C153%2C0.22%29%22%2C%22pointBackgroundColor%22%3A%22%2360a5fa%22%2C%22pointBorderColor%22%3A%22%23ffffff%22%2C%22pointRadius%22%3A5%2C%22pointHoverRadius%22%3A6%2C%22borderWidth%22%3A3%2C%22lineTension%22%3A0.4%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scales%22%3A%7B%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23cbd5e1%22%2C%22maxRotation%22%3A30%2C%22minRotation%22%3A30%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.18%29%22%7D%7D%5D%2C%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A220%2C%22stepSize%22%3A40%2C%22fontColor%22%3A%22%23cbd5e1%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.18%29%22%7D%7D%5D%7D%7D%7D" width="100%" alt="Custom Reinforcement Learning parameter curve"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
 <h2 align="center">🧪 Custom Spiking Neural Network Model Registry (Private)</h2>
 
 <div align="center">
