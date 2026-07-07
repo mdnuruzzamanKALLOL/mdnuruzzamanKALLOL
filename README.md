@@ -1122,6 +1122,86 @@
 
 <br/>
 
+<h2 align="center">🎮 Custom Reinforcement Learning Catalog — Private</h2>
+
+<div align="center">
+<table align="center">
+<thead>
+<tr>
+<th align="center" width="18%">Name</th>
+<th align="center">Core Technique</th>
+<th align="center">Concept</th>
+<th align="center">Environment</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/CoreScout">🎯 <b>CoreScout</b></a></td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">Deep Q-Network (DQN)</span></td>
+<td align="center">Replay buffer plus a periodically hard-synced target network</td>
+<td align="center">CartPole-v1</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/TwinScout">👯 <b>TwinScout</b></a></td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">Double DQN</span></td>
+<td align="center">Online net selects the action, target net evaluates it — cuts overestimation</td>
+<td align="center">CartPole-v1</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/DuelScout">⚔️ <b>DuelScout</b></a></td>
+<td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">Dueling DQN</span></td>
+<td align="center">Separate value and advantage streams recombined into Q</td>
+<td align="center">CartPole-v1</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/RankScout">🏆 <b>RankScout</b></a></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">Prioritized Replay (PER)</span></td>
+<td align="center">Sum-tree priority sampling with importance-sampling weights</td>
+<td align="center">CartPole-v1</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/PathScout">🧭 <b>PathScout</b></a></td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">REINFORCE</span></td>
+<td align="center">Monte-Carlo policy gradient with a return-standardisation baseline</td>
+<td align="center">CartPole-v1</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/SyncScout">🔗 <b>SyncScout</b></a></td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">Advantage Actor-Critic (A2C)</span></td>
+<td align="center">A learned critic baseline cutting the policy-gradient variance</td>
+<td align="center">CartPole-v1</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/ClipScout">✂️ <b>ClipScout</b></a></td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">Proximal Policy Optimization (PPO)</span></td>
+<td align="center">Clipped surrogate objective, multi-epoch reuse and GAE</td>
+<td align="center">CartPole-v1</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/SteerScout">🕹️ <b>SteerScout</b></a></td>
+<td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">Deep Deterministic PG (DDPG)</span></td>
+<td align="center">Deterministic actor with a Q(s,a) critic and soft target updates</td>
+<td align="center">Pendulum-v1</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/DelayScout">⏱️ <b>DelayScout</b></a></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">Twin Delayed DDPG (TD3)</span></td>
+<td align="center">Twin critics with clipped double-Q, delayed and smoothed updates</td>
+<td align="center">Pendulum-v1</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/SoftScout">🌡️ <b>SoftScout</b></a></td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">Soft Actor-Critic (SAC)</span></td>
+<td align="center">Stochastic max-entropy actor with automatic temperature tuning</td>
+<td align="center">Pendulum-v1</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+<br/>
+
 <h2 align="center">🧪 Custom Spiking Neural Network Model Registry (Private)</h2>
 
 <div align="center">
