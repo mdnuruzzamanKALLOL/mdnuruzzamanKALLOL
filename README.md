@@ -2785,6 +2785,105 @@
 
 <br/>
 
+<h2 align="center">🔲 Custom Tabular Deep Learning & Recommender Systems Catalog — Private</h2>
+
+<div align="center">
+<table align="center">
+<thead>
+<tr>
+<th align="center" width="18%">Name</th>
+<th align="center">Core Technique</th>
+<th align="center">Concept</th>
+<th align="center">Parameters</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/CoreGrid">🍦 <b>CoreGrid</b></a></td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">Wide & Deep</span></td>
+<td align="center">A hand-crafted linear "wide" model and a deep MLP trained jointly for memorization + generalization</td>
+<td align="center">~8.4K</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/FactorGrid">🧮 <b>FactorGrid</b></a></td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">DeepFM</span></td>
+<td align="center">A Factorization Machine models every pairwise interaction automatically, sharing embeddings with a deep MLP</td>
+<td align="center">~10.9K</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/CrossGrid">❌ <b>CrossGrid</b></a></td>
+<td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">DCN-v2</span></td>
+<td align="center">Stacked cross layers build explicit, bounded-degree polynomial feature interactions</td>
+<td align="center">~23.0K</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/AttnGrid">🎯 <b>AttnGrid</b></a></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">AutoInt</span></td>
+<td align="center">Self-attention lets every feature learn which other features it should interact with</td>
+<td align="center">~4.8K</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/SparseGrid">🕸️ <b>SparseGrid</b></a></td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">NCF</span></td>
+<td align="center">A GMF and an MLP branch fuse to learn collaborative filtering from implicit user-item feedback</td>
+<td align="center">~88.8K</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/TreeGrid">🌳 <b>TreeGrid</b></a></td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">TabNet</span></td>
+<td align="center">Sequential decision steps sparsely select which features to attend to, mimicking a decision tree</td>
+<td align="center">~24.6K</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/TokenGrid">🔠 <b>TokenGrid</b></a></td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">FT-Transformer</span></td>
+<td align="center">Every feature becomes a token; a Transformer encoder classifies from a prepended [CLS] token</td>
+<td align="center">~29.7K</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/TowerGrid">🗼 <b>TowerGrid</b></a></td>
+<td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">Two-Tower</span></td>
+<td align="center">Independent user/item towers enable precomputed, scalable nearest-neighbour retrieval</td>
+<td align="center">~92.4K</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/SeqGrid">⏭️ <b>SeqGrid</b></a></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">SASRec</span></td>
+<td align="center">Causal self-attention over a user's chronological history predicts their next interaction</td>
+<td align="center">~72.6K</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/StackGrid">🥞 <b>StackGrid</b></a></td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">xDeepFM</span></td>
+<td align="center">A Compressed Interaction Network adds explicit, vector-wise high-order crosses atop DeepFM's design</td>
+<td align="center">~17.7K</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<table width="78%" align="center">
+<tr>
+<td align="center" width="50%">
+<h4>🔲 Tabular Models — AUC Leaderboard (Adult Census Income)</h4>
+<img src="https://quickchart.io/chart?width=480&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22AttnGrid%22%2C%22FactorGrid%22%2C%22StackGrid%22%2C%22TokenGrid%22%2C%22CoreGrid%22%2C%22CrossGrid%22%2C%22TreeGrid%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Test%20ROC-AUC%20%28Adult%20Census%20Income%29%22%2C%22data%22%3A%5B0.9217%2C0.9212%2C0.9208%2C0.9205%2C0.9199%2C0.9179%2C0.8123%5D%2C%22backgroundColor%22%3A%5B%22%2334d399cc%22%2C%22%2338bdf8cc%22%2C%22%2338bdf8cc%22%2C%22%2338bdf8cc%22%2C%22%2338bdf8cc%22%2C%22%23fb923ccc%22%2C%22%23f87171cc%22%5D%2C%22borderColor%22%3A%22%23040b1a%22%2C%22borderWidth%22%3A1%2C%22barPercentage%22%3A0.75%2C%22categoryPercentage%22%3A0.75%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scales%22%3A%7B%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23e5e7eb%22%2C%22fontSize%22%3A10%2C%22maxRotation%22%3A30%2C%22minRotation%22%3A30%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.08%29%22%7D%7D%5D%2C%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22min%22%3A0.75%2C%22max%22%3A0.93%2C%22stepSize%22%3A0.03%2C%22fontColor%22%3A%22%23cbd5e1%22%7D%2C%22scaleLabel%22%3A%7B%22display%22%3Atrue%2C%22labelString%22%3A%22Test%20ROC-AUC%22%2C%22fontColor%22%3A%22%23cbd5e1%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.18%29%22%7D%7D%5D%7D%7D%7D" width="100%" alt="Tabular models AUC leaderboard bar chart"/>
+</td>
+<td align="center" width="50%">
+<h4>🔲 Recommenders — HR@10 vs NDCG@10 (MovieLens-100k)</h4>
+<img src="https://quickchart.io/chart?width=480&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22SeqGrid%22%2C%22SparseGrid%22%2C%22TowerGrid%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22HR%4010%22%2C%22data%22%3A%5B0.6829%2C0.6797%2C0.5111%5D%2C%22backgroundColor%22%3A%22%23a78bfacc%22%2C%22borderColor%22%3A%22%23040b1a%22%2C%22borderWidth%22%3A1%2C%22barPercentage%22%3A0.8%2C%22categoryPercentage%22%3A0.7%7D%2C%7B%22label%22%3A%22NDCG%4010%22%2C%22data%22%3A%5B0.3947%2C0.4085%2C0.3093%5D%2C%22backgroundColor%22%3A%22%23fb923ccc%22%2C%22borderColor%22%3A%22%23040b1a%22%2C%22borderWidth%22%3A1%2C%22barPercentage%22%3A0.8%2C%22categoryPercentage%22%3A0.7%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Atrue%2C%22position%22%3A%22bottom%22%2C%22labels%22%3A%7B%22fontColor%22%3A%22%23e5e7eb%22%2C%22boxWidth%22%3A10%2C%22fontSize%22%3A10%7D%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scales%22%3A%7B%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23e5e7eb%22%2C%22fontSize%22%3A10%2C%22maxRotation%22%3A20%2C%22minRotation%22%3A20%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.08%29%22%7D%7D%5D%2C%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A0.8%2C%22stepSize%22%3A0.1%2C%22fontColor%22%3A%22%23cbd5e1%22%7D%2C%22scaleLabel%22%3A%7B%22display%22%3Atrue%2C%22labelString%22%3A%22MovieLens-100k%20Leave-One-Out%20Score%22%2C%22fontColor%22%3A%22%23cbd5e1%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.18%29%22%7D%7D%5D%7D%7D%7D" width="100%" alt="Recommender HR@10 vs NDCG@10 grouped bar chart"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
 <h2 align="center">⚔️ Custom GAN Catalog — Private</h2>
 
 <div align="center">
