@@ -2686,6 +2686,105 @@
 
 <br/>
 
+<h2 align="center">🔤 Custom NLP End-to-End Catalog — Private</h2>
+
+<div align="center">
+<table align="center">
+<thead>
+<tr>
+<th align="center" width="18%">Name</th>
+<th align="center">Core Technique</th>
+<th align="center">Concept</th>
+<th align="center">Parameters</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/CoreLingo">🧬 <b>CoreLingo</b></a></td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">BPE Tokenizer</span></td>
+<td align="center">Byte-level BPE learned from scratch — merges compress raw UTF-8 bytes into a 512-token vocabulary</td>
+<td align="center">512 vocab (no NN)</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/GenLingo">✍️ <b>GenLingo</b></a></td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">GPT</span></td>
+<td align="center">A causal decoder predicts the next token from everything before it, one step at a time</td>
+<td align="center">~875K</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/MaskLingo">🎭 <b>MaskLingo</b></a></td>
+<td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">BERT</span></td>
+<td align="center">A bidirectional encoder pretrained with masked-token prediction, then fine-tuned for classification</td>
+<td align="center">~876K</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/SeqLingo">🌐 <b>SeqLingo</b></a></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">Seq2Seq NMT</span></td>
+<td align="center">An encoder and a causal decoder linked by cross-attention translate English to French</td>
+<td align="center">~1.53M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/SpanLingo">❓ <b>SpanLingo</b></a></td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">Extractive QA</span></td>
+<td align="center">A bidirectional encoder predicts start/end positions to extract answers straight from a passage</td>
+<td align="center">~884K</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/SumLingo">📰 <b>SumLingo</b></a></td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">Summarization</span></td>
+<td align="center">SeqLingo's exact encoder-decoder architecture, now compressing a full news article into a short summary</td>
+<td align="center">~1.60M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/TagLingo">🏷️ <b>TagLingo</b></a></td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">NER</span></td>
+<td align="center">A bidirectional encoder predicts a BIO entity tag (person/org/location) at every token position</td>
+<td align="center">~868K</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/SimLingo">🔗 <b>SimLingo</b></a></td>
+<td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">SimCSE</span></td>
+<td align="center">Two dropout-perturbed passes of the same sentence become a contrastive positive pair</td>
+<td align="center">~867K</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/ChatLingo">💬 <b>ChatLingo</b></a></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">Instruction Tuning</span></td>
+<td align="center">GenLingo's pretrained weights fine-tuned to follow instructions, loss masked to the response only</td>
+<td align="center">~876K</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/SlimLingo">🪶 <b>SlimLingo</b></a></td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">Distillation</span></td>
+<td align="center">A frozen 876K-parameter teacher's soft predictions train a 23x-smaller student</td>
+<td align="center">~38K</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<table width="78%" align="center">
+<tr>
+<td align="center" width="50%">
+<h4>🔤 NLP Catalog — Trainable Parameters</h4>
+<img src="https://quickchart.io/chart?width=480&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22GenLingo%22%2C%22MaskLingo%22%2C%22SeqLingo%22%2C%22SpanLingo%22%2C%22SumLingo%22%2C%22TagLingo%22%2C%22SimLingo%22%2C%22ChatLingo%22%2C%22SlimLingo%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Trainable%20Parameters%20%28thousands%29%22%2C%22data%22%3A%5B875.3%2C876.2%2C1533.2%2C884.1%2C1598.7%2C868.4%2C867.5%2C875.5%2C37.9%5D%2C%22backgroundColor%22%3A%5B%22%2338bdf8cc%22%2C%22%2338bdf8cc%22%2C%22%2338bdf8cc%22%2C%22%2338bdf8cc%22%2C%22%2338bdf8cc%22%2C%22%2338bdf8cc%22%2C%22%2338bdf8cc%22%2C%22%2338bdf8cc%22%2C%22%23f87171cc%22%5D%2C%22borderColor%22%3A%22%23040b1a%22%2C%22borderWidth%22%3A1%2C%22barPercentage%22%3A0.75%2C%22categoryPercentage%22%3A0.75%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scales%22%3A%7B%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23e5e7eb%22%2C%22fontSize%22%3A10%2C%22maxRotation%22%3A30%2C%22minRotation%22%3A30%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.08%29%22%7D%7D%5D%2C%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A1800%2C%22stepSize%22%3A200%2C%22fontColor%22%3A%22%23cbd5e1%22%7D%2C%22scaleLabel%22%3A%7B%22display%22%3Atrue%2C%22labelString%22%3A%22Trainable%20Parameters%20%28thousands%29%22%2C%22fontColor%22%3A%22%23cbd5e1%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.18%29%22%7D%7D%5D%7D%7D%7D" width="100%" alt="NLP catalog parameter count bar chart"/>
+</td>
+<td align="center" width="50%">
+<h4>🪶 SlimLingo Capstone — Distillation Trade-off</h4>
+<img src="https://quickchart.io/chart?width=480&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Teacher%20%28MaskLingo%2C%20876K%29%22%2C%22Student%20distilled%20%2838K%29%22%2C%22Student%20scratch%20%2838K%29%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22AG%20News%20Test%20Accuracy%20%28%25%29%22%2C%22data%22%3A%5B67.05%2C69.55%2C72.05%5D%2C%22backgroundColor%22%3A%5B%22%23a78bfacc%22%2C%22%2338bdf8cc%22%2C%22%2334d399cc%22%5D%2C%22borderColor%22%3A%22%23040b1a%22%2C%22borderWidth%22%3A1%2C%22barPercentage%22%3A0.7%2C%22categoryPercentage%22%3A0.75%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scales%22%3A%7B%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23e5e7eb%22%2C%22fontSize%22%3A9%2C%22maxRotation%22%3A20%2C%22minRotation%22%3A20%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.08%29%22%7D%7D%5D%2C%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A80%2C%22stepSize%22%3A10%2C%22fontColor%22%3A%22%23cbd5e1%22%7D%2C%22scaleLabel%22%3A%7B%22display%22%3Atrue%2C%22labelString%22%3A%22AG%20News%20Test%20Accuracy%20%28%25%29%22%2C%22fontColor%22%3A%22%23cbd5e1%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.18%29%22%7D%7D%5D%7D%7D%7D" width="100%" alt="SlimLingo teacher vs student accuracy bar chart"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
 <h2 align="center">⚔️ Custom GAN Catalog — Private</h2>
 
 <div align="center">
