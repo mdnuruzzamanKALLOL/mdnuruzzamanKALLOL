@@ -2617,6 +2617,75 @@
 
 <br/>
 
+<h2 align="center">🪞 Custom Self-Supervised Learning Catalog — Private</h2>
+
+<div align="center">
+<table align="center">
+<thead>
+<tr>
+<th align="center" width="18%">Name</th>
+<th align="center">Core Technique</th>
+<th align="center">Concept</th>
+<th align="center">Parameters</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/CoreTwin">🍦 <b>CoreTwin</b></a></td>
+<td align="center"><span style="background-color:#1e3a5f;color:#60a5fa;padding:3px 10px;border-radius:12px;font-size:12px;">SimCLR</span></td>
+<td align="center">Two augmented views pulled together, pushed apart from every other in-batch sample</td>
+<td align="center">~1.06M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/QueueTwin">🔗 <b>QueueTwin</b></a></td>
+<td align="center"><span style="background-color:#3b2e5c;color:#a78bfa;padding:3px 10px;border-radius:12px;font-size:12px;">MoCo</span></td>
+<td align="center">A momentum-updated key encoder plus a FIFO negative queue replace the need for a huge batch</td>
+<td align="center">~1.06M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/BootTwin">🥾 <b>BootTwin</b></a></td>
+<td align="center"><span style="background-color:#4a1f24;color:#f87171;padding:3px 10px;border-radius:12px;font-size:12px;">BYOL</span></td>
+<td align="center">An online predictor learns to match a momentum target's projection — no negative pairs at all</td>
+<td align="center">~1.13M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/StopTwin">🛑 <b>StopTwin</b></a></td>
+<td align="center"><span style="background-color:#14352b;color:#34d399;padding:3px 10px;border-radius:12px;font-size:12px;">SimSiam</span></td>
+<td align="center">The same predictor + stop-gradient trick, but with the momentum target removed entirely</td>
+<td align="center">~1.13M</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/mdnuruzzamanKALLOL/MaskTwin">🎭 <b>MaskTwin</b></a></td>
+<td align="center"><span style="background-color:#4a2e1a;color:#fb923c;padding:3px 10px;border-radius:12px;font-size:12px;">MAE</span></td>
+<td align="center">75% of each image's patches are hidden; a ViT encoder-decoder reconstructs them from the rest</td>
+<td align="center">~0.43M</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<table width="78%" align="center">
+<tr>
+<td align="center" width="50%">
+<h4>🪞 Self-Supervised Learning — Pretrained vs. Scratch Accuracy</h4>
+<img src="https://quickchart.io/chart?width=480&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22CoreTwin%22%2C%22QueueTwin%22%2C%22BootTwin%22%2C%22StopTwin%22%2C%22MaskTwin%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Pretrained%20%28SSL%29%22%2C%22data%22%3A%5B59.52%2C51.17%2C51.81%2C51.7%2C43.65%5D%2C%22backgroundColor%22%3A%22%2338bdf8cc%22%2C%22borderColor%22%3A%22%23040b1a%22%2C%22borderWidth%22%3A1%2C%22barPercentage%22%3A0.8%2C%22categoryPercentage%22%3A0.7%7D%2C%7B%22label%22%3A%22Scratch%20%28random%20init%29%22%2C%22data%22%3A%5B38.65%2C39.16%2C39.42%2C38.58%2C36.57%5D%2C%22backgroundColor%22%3A%22%2364748bcc%22%2C%22borderColor%22%3A%22%23040b1a%22%2C%22borderWidth%22%3A1%2C%22barPercentage%22%3A0.8%2C%22categoryPercentage%22%3A0.7%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Atrue%2C%22position%22%3A%22bottom%22%2C%22labels%22%3A%7B%22fontColor%22%3A%22%23e5e7eb%22%2C%22boxWidth%22%3A10%2C%22fontSize%22%3A9%7D%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scales%22%3A%7B%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23e5e7eb%22%2C%22fontSize%22%3A10%2C%22maxRotation%22%3A30%2C%22minRotation%22%3A30%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.08%29%22%7D%7D%5D%2C%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A70%2C%22stepSize%22%3A10%2C%22fontColor%22%3A%22%23cbd5e1%22%7D%2C%22scaleLabel%22%3A%7B%22display%22%3Atrue%2C%22labelString%22%3A%22Linear-Probe%20Test%20Accuracy%20%28%25%29%22%2C%22fontColor%22%3A%22%23cbd5e1%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.18%29%22%7D%7D%5D%7D%7D%7D" width="100%" alt="Self-Supervised Learning pretrained vs scratch bar chart"/>
+</td>
+<td align="center" width="50%">
+<h4>🪞 Self-Supervised Learning — Improvement over Scratch</h4>
+<img src="https://quickchart.io/chart?width=480&height=420&backgroundColor=%23040b1a&c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22CoreTwin%22%2C%22StopTwin%22%2C%22BootTwin%22%2C%22QueueTwin%22%2C%22MaskTwin%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Improvement%20over%20scratch%20%28points%29%22%2C%22data%22%3A%5B20.87%2C13.12%2C12.39%2C12.01%2C7.08%5D%2C%22backgroundColor%22%3A%5B%22%2360a5facc%22%2C%22%2334d399cc%22%2C%22%23f87171cc%22%2C%22%23a78bfacc%22%2C%22%23fb923ccc%22%5D%2C%22borderColor%22%3A%22%23040b1a%22%2C%22borderWidth%22%3A1%2C%22barPercentage%22%3A0.7%2C%22categoryPercentage%22%3A0.75%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Afalse%7D%2C%22scales%22%3A%7B%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23e5e7eb%22%2C%22fontSize%22%3A10%2C%22maxRotation%22%3A30%2C%22minRotation%22%3A30%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.08%29%22%7D%7D%5D%2C%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A24%2C%22stepSize%22%3A4%2C%22fontColor%22%3A%22%23cbd5e1%22%7D%2C%22scaleLabel%22%3A%7B%22display%22%3Atrue%2C%22labelString%22%3A%22Improvement%20over%20Scratch%20%28points%29%22%2C%22fontColor%22%3A%22%23cbd5e1%22%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22rgba%28148%2C163%2C184%2C0.18%29%22%7D%7D%5D%7D%7D%7D" width="100%" alt="Self-Supervised Learning improvement over scratch bar chart"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
 <h2 align="center">⚔️ Custom GAN Catalog — Private</h2>
 
 <div align="center">
