@@ -56,22 +56,22 @@
 <table width="90%">
 <tr>
 <td valign="top" width="60%">
-<h3>&#x2699;&#xFE0F; Model Conversion &amp; Optimization</h3>
+<h3>&#x1F3D7;&#xFE0F; Custom Architecture Engineering</h3>
 <p>
-&#127919; <b>Quest:</b> Build ONNX &rarr; TensorRT &rarr; TFLite pipeline with INT8 quantization for edge &amp; cloud<br/>
-&#128296; <b>Stack:</b> TensorRT &bull; TFLite &bull; ONNX Runtime &bull; CoreML &bull; OpenVINO &bull; NCNN<br/>
-&#128218; <b>Topics:</b> Post-Training Quantization &bull; Pruning &bull; FP16/INT8 &bull; Latency &bull; Memory Footprint<br/>
-&#128202; <b>Difficulty:</b> &#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9609;&#9617; Expert<br/>
-&#128172; <i>&quot;Smaller model, bigger impact&quot;</i>
+&#127919; <b>Quest:</b> Design novel CNN &amp; Transformer hybrid architectures from scratch with full ablation studies<br/>
+&#128296; <b>Stack:</b> PyTorch &bull; TensorFlow &bull; einops &bull; timm &bull; Torchinfo &bull; FLOPs counter<br/>
+&#128218; <b>Topics:</b> Block Design &bull; Attention Mechanisms &bull; Skip Connections &bull; Normalization &bull; Scaling<br/>
+&#128202; <b>Difficulty:</b> &#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9610; Expert<br/>
+&#128172; <i>&quot;The best architecture is the one you design yourself&quot;</i>
 </p>
 <p>
-<img src="https://img.shields.io/badge/Week-4%20%2F%2052-ff6b6b?style=for-the-badge&amp;labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Week-5%20%2F%2052-ff6b6b?style=for-the-badge&amp;labelColor=161b22"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Active%20%F0%9F%94%A5-success?style=for-the-badge&amp;labelColor=161b22"/>
 </p>
 </td>
 <td valign="middle" width="40%" align="center">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260"/>
 </td>
 </tr>
 </table>
