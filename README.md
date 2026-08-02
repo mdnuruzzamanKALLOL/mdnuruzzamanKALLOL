@@ -56,22 +56,22 @@
 <table width="90%">
 <tr>
 <td valign="top" width="60%">
-<h3>&#x1F4DD; Research Paper Writing</h3>
+<h3>&#x1F52C; SOTA Paper Implementation</h3>
 <p>
-&#127919; <b>Quest:</b> Author a complete IEEE &sol; arXiv paper &mdash; intro, methodology, experiments &amp; submission<br/>
-&#128296; <b>Stack:</b> LaTeX &bull; Overleaf &bull; Matplotlib &bull; BibTeX &bull; IEEE Template &bull; arXiv<br/>
-&#128218; <b>Topics:</b> Abstract &bull; Related Work &bull; Methodology &bull; Ablation Study &bull; Tables &bull; Figures<br/>
-&#128202; <b>Difficulty:</b> &#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9617;&#9617; Hard<br/>
-&#128172; <i>&quot;Research not published is research half done&quot;</i>
+&#127919; <b>Quest:</b> Reproduce a top-tier CVPR &sol; NeurIPS &sol; ICCV paper from scratch &mdash; code &amp; matched results<br/>
+&#128296; <b>Stack:</b> PyTorch &bull; arXiv &bull; GitHub &bull; W&amp;B &bull; Paperswithcode &bull; Hydra Config<br/>
+&#128218; <b>Topics:</b> Architecture Re-impl &bull; Loss Functions &bull; Training Recipe &bull; Metric Matching &bull; Ablation<br/>
+&#128202; <b>Difficulty:</b> &#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9610; Expert<br/>
+&#128172; <i>&quot;Show me the code, not just the theory&quot;</i>
 </p>
 <p>
-<img src="https://img.shields.io/badge/Week-6%20%2F%2052-ff6b6b?style=for-the-badge&amp;labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Week-7%20%2F%2052-ff6b6b?style=for-the-badge&amp;labelColor=161b22"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Active%20%F0%9F%94%A5-success?style=for-the-badge&amp;labelColor=161b22"/>
 </p>
 </td>
 <td valign="middle" width="40%" align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260"/>
 </td>
 </tr>
 </table>
