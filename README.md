@@ -56,22 +56,22 @@
 <table width="90%">
 <tr>
 <td valign="top" width="60%">
-<h3>&#x1F33E; Agricultural AI Research</h3>
+<h3>&#x1F3E5; Medical Imaging AI</h3>
 <p>
-&#127919; <b>Quest:</b> Crop disease detection &amp; precision agriculture with multispectral drone &amp; satellite imagery<br/>
-&#128296; <b>Stack:</b> PyTorch &bull; YOLOv8 &bull; OpenCV &bull; Albumentations &bull; NDVI &bull; Sentinel-2<br/>
-&#128218; <b>Topics:</b> Disease Classification &bull; Yield Prediction &bull; Multispectral NDVI &bull; Semantic Segmentation<br/>
-&#128202; <b>Difficulty:</b> &#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9617;&#9617; Hard<br/>
-&#128172; <i>&quot;Feed the world with intelligent vision&quot;</i>
+&#127919; <b>Quest:</b> Chest X-ray &amp; MRI diagnosis &mdash; U-Net segmentation meets DenseNet + Grad-CAM XAI<br/>
+&#128296; <b>Stack:</b> PyTorch &bull; MONAI &bull; SimpleITK &bull; OpenCV &bull; DICOM &bull; nnU-Net<br/>
+&#128218; <b>Topics:</b> Segmentation &bull; Classification &bull; Grad-CAM &bull; DICOM &bull; Class Imbalance &bull; Dice Loss<br/>
+&#128202; <b>Difficulty:</b> &#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9609;&#9617; Expert<br/>
+&#128172; <i>&quot;AI that saves lives, one pixel at a time&quot;</i>
 </p>
 <p>
-<img src="https://img.shields.io/badge/Week-9%20%2F%2052-ff6b6b?style=for-the-badge&amp;labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Week-10%20%2F%2052-ff6b6b?style=for-the-badge&amp;labelColor=161b22"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Active%20%F0%9F%94%A5-success?style=for-the-badge&amp;labelColor=161b22"/>
 </p>
 </td>
 <td valign="middle" width="40%" align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260"/>
 </td>
 </tr>
 </table>
