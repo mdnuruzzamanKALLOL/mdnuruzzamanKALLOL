@@ -56,22 +56,22 @@
 <table width="90%">
 <tr>
 <td valign="top" width="60%">
-<h3>&#x1F680; Spacecraft Image Processing</h3>
+<h3>&#x1F30C; NASA Dataset Deep Learning</h3>
 <p>
-&#127919; <b>Quest:</b> Satellite &amp; spacecraft image super-resolution, denoising &amp; change detection at global scale<br/>
-&#128296; <b>Stack:</b> PyTorch &bull; GDAL &bull; rasterio &bull; OpenCV &bull; Sentinel Hub &bull; Google Earth Engine<br/>
-&#128218; <b>Topics:</b> Super-Resolution &bull; Denoising &bull; Change Detection &bull; SAR &bull; Pansharpening &bull; NDWI<br/>
-&#128202; <b>Difficulty:</b> &#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9609;&#9617; Expert<br/>
-&#128172; <i>&quot;See Earth and beyond with machine eyes&quot;</i>
+&#127919; <b>Quest:</b> Deep learning on NASA Earth &amp; space data &mdash; exoplanet transit detection &amp; aurora AI<br/>
+&#128296; <b>Stack:</b> PyTorch &bull; NASA APIs &bull; Astropy &bull; FITS &bull; SpacePy &bull; Lightkurve<br/>
+&#128218; <b>Topics:</b> FITS Processing &bull; Transit Photometry &bull; Anomaly Detection &bull; Time-Series &bull; Restoration<br/>
+&#128202; <b>Difficulty:</b> &#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9610; Legendary<br/>
+&#128172; <i>&quot;The universe is the ultimate dataset&quot;</i>
 </p>
 <p>
-<img src="https://img.shields.io/badge/Week-11%20%2F%2052-ff6b6b?style=for-the-badge&amp;labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Week-12%20%2F%2052-ff6b6b?style=for-the-badge&amp;labelColor=161b22"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Active%20%F0%9F%94%A5-success?style=for-the-badge&amp;labelColor=161b22"/>
 </p>
 </td>
 <td valign="middle" width="40%" align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
 </td>
 </tr>
 </table>
