@@ -56,22 +56,22 @@
 <table width="90%">
 <tr>
 <td valign="top" width="60%">
-<h3>&#x1F30C; NASA Dataset Deep Learning</h3>
+<h3>&#x26A1; TensorFlow Deep Dive</h3>
 <p>
-&#127919; <b>Quest:</b> Deep learning on NASA Earth &amp; space data &mdash; exoplanet transit detection &amp; aurora AI<br/>
-&#128296; <b>Stack:</b> PyTorch &bull; NASA APIs &bull; Astropy &bull; FITS &bull; SpacePy &bull; Lightkurve<br/>
-&#128218; <b>Topics:</b> FITS Processing &bull; Transit Photometry &bull; Anomaly Detection &bull; Time-Series &bull; Restoration<br/>
-&#128202; <b>Difficulty:</b> &#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9610; Legendary<br/>
-&#128172; <i>&quot;The universe is the ultimate dataset&quot;</i>
+&#127919; <b>Quest:</b> Master TF2.x custom training loops, @tf.function, Keras subclassing &amp; TF Serving<br/>
+&#128296; <b>Stack:</b> TensorFlow 2.x &bull; Keras &bull; TF Serving &bull; TFLite &bull; tf.data<br/>
+&#128218; <b>Topics:</b> Custom Layers &bull; @tf.function &bull; SavedModel &bull; Mixed Precision &bull; TF Profiler<br/>
+&#128202; <b>Difficulty:</b> &#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9609;&#9617; Expert<br/>
+&#128172; <i>&quot;Eager by default, graph when it truly matters&quot;</i>
 </p>
 <p>
-<img src="https://img.shields.io/badge/Week-12%20%2F%2052-ff6b6b?style=for-the-badge&amp;labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Week-13%20%2F%2052-ff6b6b?style=for-the-badge&amp;labelColor=161b22"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Active%20%F0%9F%94%A5-success?style=for-the-badge&amp;labelColor=161b22"/>
 </p>
 </td>
 <td valign="middle" width="40%" align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260"/>
 </td>
 </tr>
 </table>
